@@ -3,7 +3,7 @@ import json
 from pathlib import Path
 
 # Load raw scraped JSON
-input_file = "google_reviews_data/studentcenter.json"
+input_file = "google_reviews_data/googlereviews_Georgia-Tech_part2.json"
 
 with open(input_file, "r", encoding="utf-8") as f:
     data = json.load(f)
@@ -54,7 +54,7 @@ clean_df = pd.DataFrame({
     "Star_Rating": df["stars"],
     "Author": df["name"],
     "School": "Georgia Tech",
-    "Location": "Student Center",
+    "Location": df["title"],
     "Photo_Urls": df["reviewImageUrls"].apply(
         lambda x: x if isinstance(x, list) else []
     ),
@@ -91,7 +91,7 @@ clean_df = clean_df[[
 output_dir = Path("cleaned_google_reviews")
 output_dir.mkdir(parents=True, exist_ok=True)
 
-output_file = output_dir / "cleaned_googlereviews_GATECH_Student_Center.json"
+output_file = output_dir / "cleaned_googlereviews_GATECH_part2.json"
 clean_df.to_json(output_file, orient="records", indent=2)
 
 print(f"Saved cleaned dataset to {output_file}")
