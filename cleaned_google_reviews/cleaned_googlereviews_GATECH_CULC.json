@@ -1,1618 +1,1420 @@
 [
   {
-    "Unique_ID":"G_GT_00001",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-09-15 23:57:52",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"\"The Swiss Army knife of campus buildings \ud83d\udd0b\ud83d\udcda\u2615\"\n\nThe Clough Undergraduate Learning Commons\u2014aka CULC\u2014isn\u2019t just a building. It\u2019s the campus hotspot where studying, socializing, and caffeine addiction unite in perfect harmony.\n\nWhat makes it awesome:\n\nOpen 24\/7 \u2013 You can roll in at 3 a.m. to finish your lab report, cry into your notes, or discover your group project team actually can be productive.\n\nPerfect study vibes \u2013 From group pods to quiet corners, there\u2019s a spot for every flavor of academic panic.\n\nThe Starbucks downstairs \u2013 Because nothing says \u201cacademic excellence\u201d like a triple espresso at midnight.\n\nTech everywhere \u2013 Charging outlets for days, huge whiteboards, presentation rooms\u2026basically productivity paradise.\n\nLocation \u2013 Smack in the middle of campus, so you can \u201caccidentally\u201d bump into friends between classes.\n\nEvery time I walk into CULC, I feel like I\u2019m entering the mothership of Georgia Tech\u2014bright, buzzing, and brimming with brilliant people. Whether you\u2019re grinding out code, chatting over coffee, or just people-watching, this place fuels the Yellow Jacket hive mind.\n\nPro tip: The top floor is underrated\u2014great sunlight, fewer people, and a chance to feel like you\u2019re studying in a glass cloud.",
-    "Star_Rating":5,
-    "Author":"Subhajit Bag",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9puT8wLxcFFidn0AQs9LA4CtEDvhsEwfoQ6l--HNXnRjO7b1sMHrMehb9DHhcYEyDh9MlcPhNhev7LjIH94koaTHHBjRzNUZMr0pwq9xg6sErEqBcqdAE_t8cdzY9d2z5tK6EYHeHpVw9uto",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptYTCB2dQDNBzUZ2_l5_NtHVQXfYa51zfirv6wNwXeYiMdGkGr3A1pkrSRfDXrFQ8womUc537fZxu2A-XeUe3o75l5KPVN7orVg9sZCotbls_PDHtZWYuLkQbtIe18JYqQZkvkRW-JmPCY",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ps01eDsUNe5Q1eulvJjQGHwLwlf03klQLbPgu13DK9RUQF3_AK1WAKqgPb9-UviwznpoBdcQidD3cjUBvV21NdjQ6-AfsZnNnPZvcsvPouBF_Ol4hWJHhPYV1qwE7m5oyEwG6NTJzg_mQYu",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pvBHsDK-Luh0x1LOs_QoMdM2He-P1RbuRFOGIutjSsqLAWNmAk4jsTaEsYcJo3kXpkJ399Bv_CD6bRvymKfUpM6atNc4GEcgBxxgQ3Okh4uAoYBLAPYPCx7Fg7paz6sVZdJnbuWNsExZtB4",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pvsG-D9VxAp7J7DYY-0O7fBcsYQi4W9XUFluRwKhB_g5y06nYJxZR7RCyweGZ8dE-eVR2bhsECJR3eN7ySWL4vDIMKbFeEPx7O_uEgjsPrLTBKjQE8mvdvzMUURpMZOYzVRYce_G6kVJk1R",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptaCq_YIWV5yuRSnSXCsqV2K0h4kM0j3YZfvWPPMbx0LG_wlv_l2lt2g46BFE9wNvwQdSng2kRvc5TDH5j8QdMm-RKaz4y0j0d3vxrZoldXWAmZSHvfJv7ifSnbO7SCuPNM5mY9bPsYQVLy",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptZHAaqNTZIS5CdCUxm4el1ur-c1JuKZs1_KzfzVnL-dkb-I6oH2986Gsipfs2_scLNOS7AagY3xG_zZ_0nG_DFbb7na1klHB4VaIA3Z5r9lOp77bGPQKD2PpCBuoscdW1BgR7_KMQpgKp2",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9puA4pURtUn5CYHQ9vPOPPLj-UAXG7OSLQP3JJdVlC-tVqx2pMkjStu1rsF9g6qOzO9BvWAcFt8NxBZG231LXmltX4YF2ndYiUPmDdV0ECgbbHsIBMQqH8D34NZhmLgAQSRlUJFYDWAuGAjM",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptWG4ofv_lHVa-0LGfdceJdi7ethFdfkePD_ljKYieeYectxBYvrNLbTabXlCe4JnH-3GbXsxdJK2B8GoZzNFTUMLN4zmjGFIOGXCLlXnUp7MGdKPvvPm6wLDxWByJHbmGJ8KjuSclIPv6Y",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9psx9eJBvPuuwqMP1Szp_MKdKTfNGomzmi6OmNU_fDDNbupRfc-k5wJk4MvohrfqDKisalzL4G2Z9clkSR2Bm1R-fQBAIJdsng4Wy9h_fm_a2N1SzQSLAuufQxBxOkMBzOF4P6RieB_dPgeQ",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pvoe_LLybP__xlC9FBQQpumBXEgp_8obrRtq7nr_XNMNkgxhYTjpYoesSEiGB4atmnuQH31VBSq4DHUPc9tSAJxsrIHmccC3Zbo5CbWdDiHPzdJip9lahHrtjiGqyY0KsTTgpshC1eS4-hD",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9punHsBH6EUWyFSPopfSxVSWeWvk7tb-ctw3nWFPpXp_LqcRZtA_GipGq1y_uG62dAz7M3sx-GWoov28GZ4D9X_nr2ANvP0FAtP3R_jo6KcgBFLo2K5qpIhWIGfslHK4STvakhItwVDshj3_",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9psFv3oqbpYm3vnWNmkr1fvlfZ7PyF4plEiOCeiUh3G98bp3aUAz0q0HqO5V0nXxspNYYkJpAvyPoYe0GF7zHSBLs9FmjZUIJqtNQGerGoDoRHOwNQsW8Bqp8I98CnZdo2hWzi_OerMviAJl",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pt3nwg-breZwGU01V4k7cw7TlutJsb6_MRzU7e3UCI13Ku6Z2w29IK4Truv5OZmLyHHGBsCzzhJdVAj66Do07KDyUXeD8sxsa-xctxiFbT9JweiMsM1-lxWrg36UfD7XyXfg4VA0PK0Do4",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pstQ9VnK2frYmJEopMpfFTeEM9UbcR2QcoSoP2uJmpF0R9__8NFHkcOqj26EbcE1kln8MF1ME4bmwQJTw2KwD86fa_6XqY61elzrxK0GaLa2_12MABbsKMBJO5S37uHHOaOXHkpzF6hHJw-",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptiQznf_hHB8AZOGUEiciDd5G-SAt68m0hYrBzCA9QyrN9wOVOBpvG8X-EJD7VdPjGfZho5mi52Q20PwE0TGbPPkSJDbFOgUv1vHh4KJUTOoRCxEuVlr6tn_84tAnyOUWJE3LkYzHZHsdw9"
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00002",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-03-26 15:12:54",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"The Clough Commons is an exceptional space for students to study, collaborate, and relax. The building features classrooms, meeting rooms, a coffee shop, laboratories, and even an outdoor garden on the top floor. Its design embodies themes of industry and technology, perfectly complementing the Georgia Tech environment.",
-    "Star_Rating":5,
-    "Author":"Kaiqun Peng",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00003",
-    "Source":"Google Reviews",
-    "Timestamp":"2024-03-25 18:36:35",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"I spent a lot of time here. Great spot",
-    "Star_Rating":5,
-    "Author":"Jace Routly",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00004",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-09-21 16:04:55",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":4,
-    "Author":"Blake C",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00005",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-02-10 19:38:52",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":4,
-    "Author":"Justin Zhang",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00006",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-01-23 20:26:23",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"J K",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00007",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-01-20 21:51:54",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Sohum Gala",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00008",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-11-30 17:37:52",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Junwon Min",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00009",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-09-24 18:53:05",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Bulent Basaran",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00010",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-09-24 16:30:12",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"This is a beautiful building.  My students were able to take an introduction mobile app and game design workshop here.",
-    "Star_Rating":5,
-    "Author":"Shenica Mathieu",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9puZlOr-0nEFIN13rcPFjPF3UaKPg7AKHgh-0_vGgylOdGY7nK5Idpig0nQ1hcZPxCJGfkJkjTa_1_C8Du2kBi8nBf9eydgjBDOWOMFNAPW1PAaxn1TqeETaf875FgqoejGA84k",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptd3soPPbcIUHM-ugCBPykhHAiW3Xg9Os5gfFZ68CE7ft6IFU1TwD6F3UvAcbBdWFiYkrs5jtA4R_ZQnsonBY-yHomhi_m6jKiJT_o1EVZ37fln3jNMkhHkY4PTs1RueiwfNSJKUQ",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptJY8G2qVIKJx9tA0k-mz8FPrcxXPkmtQ6dxouH9L0WXqOgC9F1MV_3ZxSSgRAxRsptyxpkzses-EL-oa_0TaePXDjEXieT3QiB8hQO9lOGRYsowm2GvGVzw9rPP2k8pK4vHcaC",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pspWhPe8NIUTpep8IVEZS-T613aDfZFztaTKiho7j3hucOBPMMxYcr4-4wO-qi7WI1Lx-cBaaFzKow6aMSrWnY7ySB1trpr-9QTnT_pPktet-Fnx6Ru_OwVA0XcF7VX2KPGBPiNNw",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pselKliecRyNisPnrkkUn-q2INln32UotxMf0qYZ95AGQnaYrO3-8YzYVdmIv7XA0UfTeRPHz_gqco1breqsl3G1c35AQNSfDK0_cjlMqQ1G8UDm5UROXYeUOSN5hPztYSK70k",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptaQeHsYCWO3viILxE53YO152l8V5OuEWdzPiAVygWgZJY7dp52Ro7fuUFzpgOYw0XPinRAAAgJc525U98gnxMSqqpoeSgOSKjYe8Z2M1g5JeYO2bOE_qNHxcUsyaYtf5RoI9-v",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptbnp7mBC7d6xuER-FGf6oh20Rxrbi06IOUgxloecWXGpPmQbEwizbn_ZXOxp3KGjrF0dYWJk7Tolzou7gFCZAWndSgh-rOioofExUtzgp5s0MH9Ux9SrLHR6GNkg5K3UKPlLk",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pv2NenlGFO91ajb04FSz8KuGN7MNaRkPj_3EKQjiSSZs1OsNeFIRBk_3iFbdiAif3Bw2mFDhuy3qJ9JnXeXIlfVYbDwI7UVM8r94PUDNdd0E1s7Mt08IKmmm6aVGmTqfUMDGvaxyw"
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00011",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-09-22 11:56:22",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"CaydeXI",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00012",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-09-08 01:28:44",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"The bottom floor is kinda 0.0 but the rest is pretty good.",
-    "Star_Rating":4,
-    "Author":"Trevor Ferreira",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00013",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-08-27 16:32:11",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"Did you know they filmed The Internship here? Otherwise, good experience!",
-    "Star_Rating":4,
-    "Author":"Kyle Corrigan",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00014",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-08-23 03:02:03",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Max Mahdi Roozbahani",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00015",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-08-22 19:12:14",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Janavi Khochare",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00016",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-08-21 11:08:52",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"Large facility with some common services and departments of the university. Impressive interior design with a very famous staircase shot during the making of \"The internship\"",
-    "Star_Rating":4,
-    "Author":"Daniel Boluda",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00017",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-08-20 22:30:05",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Aravinth Venkatesh",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00018",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-08-15 03:32:38",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"Pretty cool place to study in, and the classrooms are super nice, especially the projectors and multimedia resources that the professors use to teach CS2110. Would recommend checking out the rooftop if you have the chance (when it\u2019s open).",
-    "Star_Rating":5,
-    "Author":"Mario",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9psqv6CIiTmwYsr-OhX7AfHicqyDiaBBDZo1lNRTkJ9YMWmMOX3LRk2citCS5ReQk1pm2Gq57DdTmOPZVxC-RsQMHlS7zFCyxna504r6Z5x8NaBz1yc3wNLLYT5UYhlJPx2qcEG2_w",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pvuRIgcQBsC1ySGxfgojH0cdJPk4NrIgn3IkKaCn25z8Dv-AquSAAYVl1WNDylalT1pP-fWx6tkL7_LQylw_aP2l6w8wpcmZ4934G39khbyfQwMtXyGNnJUK90mjA2-v9-wNGI",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9psxZ5JciFQSD1prBx1ygU6Lp4sDqQ4fDlagHk77IopzKWzNOLIZ8zkEzon40PLmbbXKBDIbTnE5MuRo0cueB-GtZOsnzb37H_AUGjnS50uk0BgqhCQvHrn0BC2Y28v_Pu9kyYmA0A",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pt5DihjpDayAKwC1OE_poLc9hXcAJ6-N-le_3g01_EKAk0oI0ml5LAWSKHHNz9GLVW8GJPR1SwZHXhbS65A1niliIOicT_QPN-vnocF8mKjvmAVnAzMzz93A7XRYiw8NDjOnmrQ"
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00019",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-05-31 16:46:22",
-    "Time_Period":"Spring Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Kaleb Tate",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00020",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-05-05 03:25:00",
-    "Time_Period":"Spring Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Ratan Singh",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00021",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-04-01 18:20:08",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Vishnu Sivampeta",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00022",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-03-15 19:42:29",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"the booths are too warm",
-    "Star_Rating":4,
-    "Author":"Satvik Vangapandu",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00023",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-03-06 00:22:24",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Vikash Movva",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00024",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-02-08 16:23:30",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Srikanth Varadharajan",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00025",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-01-21 23:35:57",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Sasikumaran Nandakumar",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00026",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-01-11 22:20:00",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":4,
-    "Author":"Nate Scott",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00027",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-01-11 19:31:22",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Jackie Chambers",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00028",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-11-17 16:17:10",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Nadeen Mansour",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00029",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-11-13 20:57:21",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"TJ Price",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00030",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-10-08 17:13:00",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Alan Scherman",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00031",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-09-21 00:19:04",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"It aight",
-    "Star_Rating":3,
-    "Author":"Tree Marie",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00032",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-09-04 15:33:45",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"jackie duckworth",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00033",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-08-30 20:56:53",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Karl Andraos",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00034",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-08-30 20:26:50",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Jerry Xiong",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00035",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-08-28 13:16:50",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Mark Gravitt",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00036",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-08-24 21:55:10",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"harini dandu",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00037",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-08-24 18:45:19",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"oussema trabelsi",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00038",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-08-23 20:41:39",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Somto Nwagbata",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00039",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-08-23 16:03:02",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Karthik Karra",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00040",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-08-23 14:42:53",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Ski Ingurgio",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00041",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-08-04 21:16:29",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Nikita Ambasana",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00042",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-05-27 16:20:47",
-    "Time_Period":"Spring Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Muhammad Talha Attiq",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00043",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-04-23 15:08:03",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Jovanna",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00044",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-04-07 00:22:37",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Sairam Jaishankar",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00045",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-04-02 21:43:15",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Joseph Lee",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00046",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-01-19 16:24:37",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Sahana Joshi",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00047",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-11-23 11:02:49",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"nathan whitelaw",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00048",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-11-18 18:31:44",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"Good space to meet, study, drink coffee, etc",
-    "Star_Rating":5,
-    "Author":"Hyun Ki Lee",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00049",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-11-09 02:34:12",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"It's a cool building with a roof top garden.",
-    "Star_Rating":5,
-    "Author":"Makenzie Llewellyn",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00050",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-10-01 23:42:12",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"Good place to read and study",
-    "Star_Rating":5,
-    "Author":"Eric Xu",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00051",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-09-29 20:41:57",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Joon Kim",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00052",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-09-28 19:09:55",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"Great place for exam prep",
-    "Star_Rating":5,
-    "Author":"tj weiler",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00053",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-09-11 16:20:04",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Alex Filippas",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00054",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-09-03 18:03:11",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"patrick wilander",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00055",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-08-21 00:19:13",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Tijuan9 Smith",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00056",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-08-12 17:26:31",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Emtiaz hossain Hritan",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00057",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-08-10 23:41:19",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Jay Garrick",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00058",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-05-28 22:01:17",
-    "Time_Period":"Spring Finals",
-    "Title":"",
-    "Text":"An Awesome space great for events professional and courteous staff .",
-    "Star_Rating":5,
-    "Author":"s dot",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00059",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-02-01 15:41:04",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Tiffany Griggs",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00060",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-01-21 13:43:22",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Michael W",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00061",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-01-20 01:45:46",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"Too many steps. My heart and legs can only take so much.",
-    "Star_Rating":1,
-    "Author":"Matthew Jenkins",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00062",
-    "Source":"Google Reviews",
-    "Timestamp":"2019-12-10 19:25:57",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"\u0421\u043f\u0430\u0441 \u0422\u0440\u0435\u043d\u0447\u0435\u0432",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00063",
-    "Source":"Google Reviews",
-    "Timestamp":"2019-11-22 23:52:56",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Sam",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00064",
-    "Source":"Google Reviews",
-    "Timestamp":"2019-07-24 18:37:47",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"It\u2019s great to take a nap here after lunch.",
-    "Star_Rating":5,
-    "Author":"Zhihao",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pvxLyMnypHVpdSHzn3zc957mOUGNLrjf2R0dKpOI5qX80o9IFbjk-oBWYve1mxeFZfMORYl8XyrqXBZsEvgKyF74aYqeClE-A2YyyLJRGFsG6rRJMx_leCR_51aNtI_qbJsvAQz"
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00065",
-    "Source":"Google Reviews",
-    "Timestamp":"2019-03-15 15:14:16",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"This is definitely one of the nicest buildings on campus. There is a reason they usually show it off on campus tours. There is tons of seating and study areas, as well as nice classrooms and labs. The only downside is that it is always crowded. The room garden is pretty awesome and a great place to take pictures.",
-    "Star_Rating":5,
-    "Author":"Read Walters",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00066",
-    "Source":"Google Reviews",
-    "Timestamp":"2019-02-19 14:57:05",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"Full of everything you'll need and empty classrooms galore. Plus the view on top of the building is great!",
-    "Star_Rating":5,
-    "Author":"Matthew O'Grady",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00067",
-    "Source":"Google Reviews",
-    "Timestamp":"2019-02-15 14:14:18",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"Worse Starkbuck I have ever been to. I believe this is not a Real Starbucks cause the food is horrible customer service is the worst I have ever experienced with a What u wanna call a SB. Please Don't say the you are a SB because, I have never experienced a worse one until now. I will never go to this one again.",
-    "Star_Rating":1,
-    "Author":"LEAH GRANT",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00068",
-    "Source":"Google Reviews",
-    "Timestamp":"2019-02-08 05:09:28",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"Too much people but good place to study. Many chairs are kind of old",
-    "Star_Rating":4,
-    "Author":"Yeinn (Grace)",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00069",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-12-16 07:58:22",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"\uc7a5\ubb38\ud68c",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00070",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-11-29 04:57:57",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"All my freshman memories were in CULC.",
-    "Star_Rating":5,
-    "Author":"Shuang Jin",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pvmMnx7Z6hMI78WtR2dXpkKoSyQn3VrdWS9_gjNZVND6z_Tr5amCQJYJfCNE_p77myYIRopcc5UsYRY9iVsbXeN4-_7Vk2ljySw1rnju74njRm5xIRL8uBIcHe1qvMkNjd6sRMM8w"
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00071",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-11-19 00:18:48",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"Great building for studying with lots of seating and spacious areas. The only thing is that it is sometimes very crowded. I would give 4.8 stars if I could.",
-    "Star_Rating":5,
-    "Author":"Quentin Miller",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00072",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-09-02 01:08:49",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"Best study area",
-    "Star_Rating":5,
-    "Author":"Andrew B",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00073",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-07-10 21:44:51",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"This is the flagship building on Georgia Tech's campus. It is sort of like the hub. It's super modern and has an open layout. The lecture halls are my favorite here and it's always clean. My only complaint is that the furniture looks super beat and used. Like the fabric on chairs and sofas are ripped, stretched or\/and have holes. Also, I get how turning off the lights are energy efficient but the light automatically turn off after a certain amount of time (15-30 mins). So it's common for the lights to turn off while studying and having to get up and move to get the lights to turn on. it actually takes more energy to turn on a fluorescent light bulb than keeping it on but whatever...",
-    "Star_Rating":5,
-    "Author":"greg",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00074",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-07-04 23:37:25",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"The CULC (Clough Undergraduate Learning Commons) is an absolutely beautiful and modern study\/classroom space. With a nap room, 15+ easily reservable breakout rooms, and a rooftop garden, the CULC is the heart of the Georgia Tech campus.",
-    "Star_Rating":5,
-    "Author":"Bryan Gomez",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00075",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-06-01 20:45:05",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"Great classrooms, connecting to the library",
-    "Star_Rating":5,
-    "Author":"Weihua Zhu",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00076",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-04-19 23:14:58",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"being here is miserable but it is what it is ig",
-    "Star_Rating":3,
-    "Author":"Omar Tapia",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00077",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-01-26 01:57:44",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"Not bad\nToo many students tho.",
-    "Star_Rating":4,
-    "Author":"kaleem b",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00078",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-01-23 21:05:11",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Max Vogl",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00079",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-12-04 05:25:42",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"9\/10 needs more booths.",
-    "Star_Rating":5,
-    "Author":"Grant Champagne",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00080",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-09-15 04:52:00",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Daniel Marcos",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00081",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-09-07 14:22:25",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"Great place to gain some knowledge.",
-    "Star_Rating":5,
-    "Author":"Sean Meiller",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00082",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-08-27 02:19:14",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"This is the place where all of the Georgia Tech undergrads gather for studying or socializing. The roof of the CULC has an awesome view and it's a must see if you visit Georgia Tech. There are several auditoriums where some freshmen courses are offered.",
-    "Star_Rating":5,
-    "Author":"Rafael Perez",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00083",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-07-12 03:33:15",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"Beautiful scene on the roof~",
-    "Star_Rating":5,
-    "Author":"Chenyun Pan",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00084",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-06-10 20:58:19",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":4,
-    "Author":"Anuradha",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00085",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-05-27 15:45:48",
-    "Time_Period":"Spring Finals",
-    "Title":"",
-    "Text":"Lots of reservable rooms and beanbags; possible to both sleep and get a continuous supply of coffee in this building. Students can easily relocate to the library connected to the fourth floor.",
-    "Star_Rating":5,
-    "Author":"Simola Nayak",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptSZ12Ng6QHDCQV2WClNDqm8orjoxHFqHBB09GJ0iaNIC5B1mRmje8SV51kvPrrCVOUVYudKn80joJhFdha5rgUEg7OltfzxiwYHa-Y6mj9L0wcUfOsqDcdIYb0z_pv1QugMYOhgg"
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00086",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-05-26 20:09:59",
-    "Time_Period":"Spring Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Cheng Hann Gan",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00087",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-05-17 03:31:36",
-    "Time_Period":"Spring Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Prasanna Natarajan",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00088",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-03-12 23:08:55",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"Friendly student ambassador gave us a great campus tour.",
-    "Star_Rating":4,
-    "Author":"Paul Mueller",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptXbVqcukEZKMUOhEavekhn75s9FqEECqzHRUmY_YiD_OJhb6hfKJzl0AJ_WN1aExKYJvX5Gu2JdRQzyZfNEORR0KVZmhoEBiLPox1PmSBdEBlM6k9ai5BdFVzBAro5xPTzCaiL",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9psUm98h2nkwVpBcfcEPhP5W8WoTrWhI6hEmVQ-RYp1jtvp_adR_xFis6Y0HOA-7udxgLRMy8B2_cAPLZ6jgYA-e12BX1CTsmMGoAe7cpSAGVIx6BLsDJGIKOUukWHvVyHYfO-ngyw"
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00089",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-02-07 14:46:33",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"6 floors of class and study space with a view",
-    "Star_Rating":5,
-    "Author":"Nathan",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00090",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-01-24 18:31:06",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Catherine Warner",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00091",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-12-11 01:46:18",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"ALI DAL",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00092",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-08-31 03:36:46",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Grant Davidson",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00093",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-08-28 22:38:59",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Andrew Stolorena",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00094",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-06-19 17:37:11",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"Open to the public until about 11 pm during the school year. Visit the rooftop gardens for a beautiful view of the skyline. Roof closes at 9-9:30",
-    "Star_Rating":5,
-    "Author":"Davis Burson",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00095",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-06-17 10:09:35",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Javed Kameika",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00096",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-06-14 13:29:02",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Karim Lalani",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00097",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-06-12 15:40:12",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"The rooftop is amazing",
-    "Star_Rating":5,
-    "Author":"Ebin Mathews",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00098",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-06-04 20:03:05",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Tianyu Feng",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00099",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-05-30 23:43:24",
-    "Time_Period":"Spring Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Magnus Freyer",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00100",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-05-14 22:46:47",
-    "Time_Period":"Spring Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Elle Summers",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00101",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-04-19 21:53:32",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Jonathan Sculley",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00102",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-04-18 19:19:49",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Edward Foyle",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00103",
-    "Source":"Google Reviews",
-    "Timestamp":"2015-12-07 10:02:11",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"Great study space with Starbucks conveniently placed inside",
-    "Star_Rating":5,
-    "Author":"Iree Skinkle",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00104",
-    "Source":"Google Reviews",
-    "Timestamp":"2015-11-30 04:47:37",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"Rooftop garden with fantastic  view of Atlanta skyline.\nNewly opened facility.\nLots of rooms for group studies and other activities.",
-    "Star_Rating":5,
-    "Author":"Khondker Zakir Ahmed",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00105",
-    "Source":"Google Reviews",
-    "Timestamp":"2015-11-19 04:55:45",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"Most of my time at GT was spent here.",
-    "Star_Rating":5,
-    "Author":"Yashika Agarwalla",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00106",
-    "Source":"Google Reviews",
-    "Timestamp":"2015-09-16 22:53:09",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"The venue is great. Parking is impossible.",
-    "Star_Rating":2,
-    "Author":"Doug Alexander",
-    "School":"Georgia Tech",
-    "Location":"CULC",
-    "Photo_Urls":[
-
-    ]
+    "Unique_ID": "G_GT_1_0",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-09-15 23:57:52",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "\"The Swiss Army knife of campus buildings 🔋📚☕\"\n\nThe Clough Undergraduate Learning Commons—aka CULC—isn’t just a building. It’s the campus hotspot where studying, socializing, and caffeine addiction unite in perfect harmony.\n\nWhat makes it awesome:\n\nOpen 24/7 – You can roll in at 3 a.m. to finish your lab report, cry into your notes, or discover your group project team actually can be productive.\n\nPerfect study vibes – From group pods to quiet corners, there’s a spot for every flavor of academic panic.\n\nThe Starbucks downstairs – Because nothing says “academic excellence” like a triple espresso at midnight.\n\nTech everywhere – Charging outlets for days, huge whiteboards, presentation rooms…basically productivity paradise.\n\nLocation – Smack in the middle of campus, so you can “accidentally” bump into friends between classes.\n\nEvery time I walk into CULC, I feel like I’m entering the mothership of Georgia Tech—bright, buzzing, and brimming with brilliant people. Whether you’re grinding out code, chatting over coffee, or just people-watching, this place fuels the Yellow Jacket hive mind.\n\nPro tip: The top floor is underrated—great sunlight, fewer people, and a chance to feel like you’re studying in a glass cloud.",
+    "Star_Rating": 5,
+    "Author": "Subhajit Bag",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": [
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9puT8wLxcFFidn0AQs9LA4CtEDvhsEwfoQ6l--HNXnRjO7b1sMHrMehb9DHhcYEyDh9MlcPhNhev7LjIH94koaTHHBjRzNUZMr0pwq9xg6sErEqBcqdAE_t8cdzY9d2z5tK6EYHeHpVw9uto",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptYTCB2dQDNBzUZ2_l5_NtHVQXfYa51zfirv6wNwXeYiMdGkGr3A1pkrSRfDXrFQ8womUc537fZxu2A-XeUe3o75l5KPVN7orVg9sZCotbls_PDHtZWYuLkQbtIe18JYqQZkvkRW-JmPCY",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ps01eDsUNe5Q1eulvJjQGHwLwlf03klQLbPgu13DK9RUQF3_AK1WAKqgPb9-UviwznpoBdcQidD3cjUBvV21NdjQ6-AfsZnNnPZvcsvPouBF_Ol4hWJHhPYV1qwE7m5oyEwG6NTJzg_mQYu",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvBHsDK-Luh0x1LOs_QoMdM2He-P1RbuRFOGIutjSsqLAWNmAk4jsTaEsYcJo3kXpkJ399Bv_CD6bRvymKfUpM6atNc4GEcgBxxgQ3Okh4uAoYBLAPYPCx7Fg7paz6sVZdJnbuWNsExZtB4",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvsG-D9VxAp7J7DYY-0O7fBcsYQi4W9XUFluRwKhB_g5y06nYJxZR7RCyweGZ8dE-eVR2bhsECJR3eN7ySWL4vDIMKbFeEPx7O_uEgjsPrLTBKjQE8mvdvzMUURpMZOYzVRYce_G6kVJk1R",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptaCq_YIWV5yuRSnSXCsqV2K0h4kM0j3YZfvWPPMbx0LG_wlv_l2lt2g46BFE9wNvwQdSng2kRvc5TDH5j8QdMm-RKaz4y0j0d3vxrZoldXWAmZSHvfJv7ifSnbO7SCuPNM5mY9bPsYQVLy",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptZHAaqNTZIS5CdCUxm4el1ur-c1JuKZs1_KzfzVnL-dkb-I6oH2986Gsipfs2_scLNOS7AagY3xG_zZ_0nG_DFbb7na1klHB4VaIA3Z5r9lOp77bGPQKD2PpCBuoscdW1BgR7_KMQpgKp2",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9puA4pURtUn5CYHQ9vPOPPLj-UAXG7OSLQP3JJdVlC-tVqx2pMkjStu1rsF9g6qOzO9BvWAcFt8NxBZG231LXmltX4YF2ndYiUPmDdV0ECgbbHsIBMQqH8D34NZhmLgAQSRlUJFYDWAuGAjM",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptWG4ofv_lHVa-0LGfdceJdi7ethFdfkePD_ljKYieeYectxBYvrNLbTabXlCe4JnH-3GbXsxdJK2B8GoZzNFTUMLN4zmjGFIOGXCLlXnUp7MGdKPvvPm6wLDxWByJHbmGJ8KjuSclIPv6Y",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9psx9eJBvPuuwqMP1Szp_MKdKTfNGomzmi6OmNU_fDDNbupRfc-k5wJk4MvohrfqDKisalzL4G2Z9clkSR2Bm1R-fQBAIJdsng4Wy9h_fm_a2N1SzQSLAuufQxBxOkMBzOF4P6RieB_dPgeQ",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvoe_LLybP__xlC9FBQQpumBXEgp_8obrRtq7nr_XNMNkgxhYTjpYoesSEiGB4atmnuQH31VBSq4DHUPc9tSAJxsrIHmccC3Zbo5CbWdDiHPzdJip9lahHrtjiGqyY0KsTTgpshC1eS4-hD",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9punHsBH6EUWyFSPopfSxVSWeWvk7tb-ctw3nWFPpXp_LqcRZtA_GipGq1y_uG62dAz7M3sx-GWoov28GZ4D9X_nr2ANvP0FAtP3R_jo6KcgBFLo2K5qpIhWIGfslHK4STvakhItwVDshj3_",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9psFv3oqbpYm3vnWNmkr1fvlfZ7PyF4plEiOCeiUh3G98bp3aUAz0q0HqO5V0nXxspNYYkJpAvyPoYe0GF7zHSBLs9FmjZUIJqtNQGerGoDoRHOwNQsW8Bqp8I98CnZdo2hWzi_OerMviAJl",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pt3nwg-breZwGU01V4k7cw7TlutJsb6_MRzU7e3UCI13Ku6Z2w29IK4Truv5OZmLyHHGBsCzzhJdVAj66Do07KDyUXeD8sxsa-xctxiFbT9JweiMsM1-lxWrg36UfD7XyXfg4VA0PK0Do4",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pstQ9VnK2frYmJEopMpfFTeEM9UbcR2QcoSoP2uJmpF0R9__8NFHkcOqj26EbcE1kln8MF1ME4bmwQJTw2KwD86fa_6XqY61elzrxK0GaLa2_12MABbsKMBJO5S37uHHOaOXHkpzF6hHJw-",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptiQznf_hHB8AZOGUEiciDd5G-SAt68m0hYrBzCA9QyrN9wOVOBpvG8X-EJD7VdPjGfZho5mi52Q20PwE0TGbPPkSJDbFOgUv1vHh4KJUTOoRCxEuVlr6tn_84tAnyOUWJE3LkYzHZHsdw9"
+    ]
+  },
+  {
+    "Unique_ID": "G_GT_1_1",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-03-26 15:12:54",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "The Clough Commons is an exceptional space for students to study, collaborate, and relax. The building features classrooms, meeting rooms, a coffee shop, laboratories, and even an outdoor garden on the top floor. Its design embodies themes of industry and technology, perfectly complementing the Georgia Tech environment.",
+    "Star_Rating": 5,
+    "Author": "Kaiqun Peng",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_2",
+    "Source": "Google Reviews",
+    "Timestamp": "2024-03-25 18:36:35",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "I spent a lot of time here. Great spot",
+    "Star_Rating": 5,
+    "Author": "Jace Routly",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_3",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-09-21 16:04:55",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 4,
+    "Author": "Blake C",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_4",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-02-10 19:38:52",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 4,
+    "Author": "Justin Zhang",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_5",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-01-23 20:26:23",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "J K",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_6",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-01-20 21:51:54",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Sohum Gala",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_7",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-11-30 17:37:52",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Junwon Min",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_8",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-09-24 18:53:05",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Bulent Basaran",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_9",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-09-24 16:30:12",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "This is a beautiful building.  My students were able to take an introduction mobile app and game design workshop here.",
+    "Star_Rating": 5,
+    "Author": "Shenica Mathieu",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": [
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9puZlOr-0nEFIN13rcPFjPF3UaKPg7AKHgh-0_vGgylOdGY7nK5Idpig0nQ1hcZPxCJGfkJkjTa_1_C8Du2kBi8nBf9eydgjBDOWOMFNAPW1PAaxn1TqeETaf875FgqoejGA84k",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptd3soPPbcIUHM-ugCBPykhHAiW3Xg9Os5gfFZ68CE7ft6IFU1TwD6F3UvAcbBdWFiYkrs5jtA4R_ZQnsonBY-yHomhi_m6jKiJT_o1EVZ37fln3jNMkhHkY4PTs1RueiwfNSJKUQ",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptJY8G2qVIKJx9tA0k-mz8FPrcxXPkmtQ6dxouH9L0WXqOgC9F1MV_3ZxSSgRAxRsptyxpkzses-EL-oa_0TaePXDjEXieT3QiB8hQO9lOGRYsowm2GvGVzw9rPP2k8pK4vHcaC",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pspWhPe8NIUTpep8IVEZS-T613aDfZFztaTKiho7j3hucOBPMMxYcr4-4wO-qi7WI1Lx-cBaaFzKow6aMSrWnY7ySB1trpr-9QTnT_pPktet-Fnx6Ru_OwVA0XcF7VX2KPGBPiNNw",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pselKliecRyNisPnrkkUn-q2INln32UotxMf0qYZ95AGQnaYrO3-8YzYVdmIv7XA0UfTeRPHz_gqco1breqsl3G1c35AQNSfDK0_cjlMqQ1G8UDm5UROXYeUOSN5hPztYSK70k",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptaQeHsYCWO3viILxE53YO152l8V5OuEWdzPiAVygWgZJY7dp52Ro7fuUFzpgOYw0XPinRAAAgJc525U98gnxMSqqpoeSgOSKjYe8Z2M1g5JeYO2bOE_qNHxcUsyaYtf5RoI9-v",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptbnp7mBC7d6xuER-FGf6oh20Rxrbi06IOUgxloecWXGpPmQbEwizbn_ZXOxp3KGjrF0dYWJk7Tolzou7gFCZAWndSgh-rOioofExUtzgp5s0MH9Ux9SrLHR6GNkg5K3UKPlLk",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pv2NenlGFO91ajb04FSz8KuGN7MNaRkPj_3EKQjiSSZs1OsNeFIRBk_3iFbdiAif3Bw2mFDhuy3qJ9JnXeXIlfVYbDwI7UVM8r94PUDNdd0E1s7Mt08IKmmm6aVGmTqfUMDGvaxyw"
+    ]
+  },
+  {
+    "Unique_ID": "G_GT_1_10",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-09-22 11:56:22",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "CaydeXI",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_11",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-09-08 01:28:44",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "The bottom floor is kinda 0.0 but the rest is pretty good.",
+    "Star_Rating": 4,
+    "Author": "Trevor Ferreira",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_12",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-08-27 16:32:11",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "Did you know they filmed The Internship here? Otherwise, good experience!",
+    "Star_Rating": 4,
+    "Author": "Kyle Corrigan",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_13",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-08-23 03:02:03",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Max Mahdi Roozbahani",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_14",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-08-22 19:12:14",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Janavi Khochare",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_15",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-08-21 11:08:52",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "Large facility with some common services and departments of the university. Impressive interior design with a very famous staircase shot during the making of \"The internship\"",
+    "Star_Rating": 4,
+    "Author": "Daniel Boluda",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_16",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-08-20 22:30:05",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Aravinth Venkatesh",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_17",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-08-15 03:32:38",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "Pretty cool place to study in, and the classrooms are super nice, especially the projectors and multimedia resources that the professors use to teach CS2110. Would recommend checking out the rooftop if you have the chance (when it’s open).",
+    "Star_Rating": 5,
+    "Author": "Mario",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": [
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9psqv6CIiTmwYsr-OhX7AfHicqyDiaBBDZo1lNRTkJ9YMWmMOX3LRk2citCS5ReQk1pm2Gq57DdTmOPZVxC-RsQMHlS7zFCyxna504r6Z5x8NaBz1yc3wNLLYT5UYhlJPx2qcEG2_w",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvuRIgcQBsC1ySGxfgojH0cdJPk4NrIgn3IkKaCn25z8Dv-AquSAAYVl1WNDylalT1pP-fWx6tkL7_LQylw_aP2l6w8wpcmZ4934G39khbyfQwMtXyGNnJUK90mjA2-v9-wNGI",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9psxZ5JciFQSD1prBx1ygU6Lp4sDqQ4fDlagHk77IopzKWzNOLIZ8zkEzon40PLmbbXKBDIbTnE5MuRo0cueB-GtZOsnzb37H_AUGjnS50uk0BgqhCQvHrn0BC2Y28v_Pu9kyYmA0A",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pt5DihjpDayAKwC1OE_poLc9hXcAJ6-N-le_3g01_EKAk0oI0ml5LAWSKHHNz9GLVW8GJPR1SwZHXhbS65A1niliIOicT_QPN-vnocF8mKjvmAVnAzMzz93A7XRYiw8NDjOnmrQ"
+    ]
+  },
+  {
+    "Unique_ID": "G_GT_1_18",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-05-31 16:46:22",
+    "Time_Period": "Spring Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Kaleb Tate",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_19",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-05-05 03:25:00",
+    "Time_Period": "Spring Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Ratan Singh",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_20",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-04-01 18:20:08",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Vishnu Sivampeta",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_21",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-03-15 19:42:29",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "the booths are too warm",
+    "Star_Rating": 4,
+    "Author": "Satvik Vangapandu",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_22",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-03-06 00:22:24",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Vikash Movva",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_23",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-02-08 16:23:30",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Srikanth Varadharajan",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_24",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-01-21 23:35:57",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Sasikumaran Nandakumar",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_25",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-01-11 22:20:00",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 4,
+    "Author": "Nate Scott",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_26",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-01-11 19:31:22",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Jackie Chambers",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_27",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-11-17 16:17:10",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Nadeen Mansour",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_28",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-11-13 20:57:21",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "TJ Price",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_29",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-10-08 17:13:00",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Alan Scherman",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_30",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-09-21 00:19:04",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "It aight",
+    "Star_Rating": 3,
+    "Author": "Tree Marie",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_31",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-09-04 15:33:45",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "jackie duckworth",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_32",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-08-30 20:56:53",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Karl Andraos",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_33",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-08-30 20:26:50",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Jerry Xiong",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_34",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-08-28 13:16:50",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Mark Gravitt",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_35",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-08-24 21:55:10",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "harini dandu",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_36",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-08-24 18:45:19",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "oussema trabelsi",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_37",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-08-23 20:41:39",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Somto Nwagbata",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_38",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-08-23 16:03:02",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Karthik Karra",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_39",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-08-23 14:42:53",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Ski Ingurgio",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_40",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-08-04 21:16:29",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Nikita Ambasana",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_41",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-05-27 16:20:47",
+    "Time_Period": "Spring Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Muhammad Talha Attiq",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_42",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-04-23 15:08:03",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Jovanna",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_43",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-04-07 00:22:37",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Sairam Jaishankar",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_44",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-04-02 21:43:15",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Joseph Lee",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_45",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-01-19 16:24:37",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Sahana Joshi",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_46",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-11-23 11:02:49",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "nathan whitelaw",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_47",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-11-18 18:31:44",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "Good space to meet, study, drink coffee, etc",
+    "Star_Rating": 5,
+    "Author": "Hyun Ki Lee",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_48",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-11-09 02:34:12",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "It's a cool building with a roof top garden.",
+    "Star_Rating": 5,
+    "Author": "Makenzie Llewellyn",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_49",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-10-01 23:42:12",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "Good place to read and study",
+    "Star_Rating": 5,
+    "Author": "Eric Xu",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_50",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-09-29 20:41:57",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Joon Kim",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_51",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-09-28 19:09:55",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "Great place for exam prep",
+    "Star_Rating": 5,
+    "Author": "tj weiler",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_52",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-09-11 16:20:04",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Alex Filippas",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_53",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-09-03 18:03:11",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "patrick wilander",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_54",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-08-21 00:19:13",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Tijuan9 Smith",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_55",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-08-12 17:26:31",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Emtiaz hossain Hritan",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_56",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-08-10 23:41:19",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Jay Garrick",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_57",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-05-28 22:01:17",
+    "Time_Period": "Spring Finals",
+    "Title": "",
+    "Text": "An Awesome space great for events professional and courteous staff .",
+    "Star_Rating": 5,
+    "Author": "s dot",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_58",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-02-01 15:41:04",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Tiffany Griggs",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_59",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-01-21 13:43:22",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Michael W",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_60",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-01-20 01:45:46",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "Too many steps. My heart and legs can only take so much.",
+    "Star_Rating": 1,
+    "Author": "Matthew Jenkins",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_61",
+    "Source": "Google Reviews",
+    "Timestamp": "2019-12-10 19:25:57",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Спас Тренчев",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_62",
+    "Source": "Google Reviews",
+    "Timestamp": "2019-11-22 23:52:56",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Sam",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_63",
+    "Source": "Google Reviews",
+    "Timestamp": "2019-07-24 18:37:47",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "It’s great to take a nap here after lunch.",
+    "Star_Rating": 5,
+    "Author": "Zhihao",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": [
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvxLyMnypHVpdSHzn3zc957mOUGNLrjf2R0dKpOI5qX80o9IFbjk-oBWYve1mxeFZfMORYl8XyrqXBZsEvgKyF74aYqeClE-A2YyyLJRGFsG6rRJMx_leCR_51aNtI_qbJsvAQz"
+    ]
+  },
+  {
+    "Unique_ID": "G_GT_1_64",
+    "Source": "Google Reviews",
+    "Timestamp": "2019-03-15 15:14:16",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "This is definitely one of the nicest buildings on campus. There is a reason they usually show it off on campus tours. There is tons of seating and study areas, as well as nice classrooms and labs. The only downside is that it is always crowded. The room garden is pretty awesome and a great place to take pictures.",
+    "Star_Rating": 5,
+    "Author": "Read Walters",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_65",
+    "Source": "Google Reviews",
+    "Timestamp": "2019-02-19 14:57:05",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "Full of everything you'll need and empty classrooms galore. Plus the view on top of the building is great!",
+    "Star_Rating": 5,
+    "Author": "Matthew O'Grady",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_66",
+    "Source": "Google Reviews",
+    "Timestamp": "2019-02-15 14:14:18",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "Worse Starkbuck I have ever been to. I believe this is not a Real Starbucks cause the food is horrible customer service is the worst I have ever experienced with a What u wanna call a SB. Please Don't say the you are a SB because, I have never experienced a worse one until now. I will never go to this one again.",
+    "Star_Rating": 1,
+    "Author": "LEAH GRANT",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_67",
+    "Source": "Google Reviews",
+    "Timestamp": "2019-02-08 05:09:28",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "Too much people but good place to study. Many chairs are kind of old",
+    "Star_Rating": 4,
+    "Author": "Yeinn (Grace)",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_68",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-12-16 07:58:22",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "장문회",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_69",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-11-29 04:57:57",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "All my freshman memories were in CULC.",
+    "Star_Rating": 5,
+    "Author": "Shuang Jin",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": [
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvmMnx7Z6hMI78WtR2dXpkKoSyQn3VrdWS9_gjNZVND6z_Tr5amCQJYJfCNE_p77myYIRopcc5UsYRY9iVsbXeN4-_7Vk2ljySw1rnju74njRm5xIRL8uBIcHe1qvMkNjd6sRMM8w"
+    ]
+  },
+  {
+    "Unique_ID": "G_GT_1_70",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-11-19 00:18:48",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "Great building for studying with lots of seating and spacious areas. The only thing is that it is sometimes very crowded. I would give 4.8 stars if I could.",
+    "Star_Rating": 5,
+    "Author": "Quentin Miller",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_71",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-09-02 01:08:49",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "Best study area",
+    "Star_Rating": 5,
+    "Author": "Andrew B",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_72",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-07-10 21:44:51",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "This is the flagship building on Georgia Tech's campus. It is sort of like the hub. It's super modern and has an open layout. The lecture halls are my favorite here and it's always clean. My only complaint is that the furniture looks super beat and used. Like the fabric on chairs and sofas are ripped, stretched or/and have holes. Also, I get how turning off the lights are energy efficient but the light automatically turn off after a certain amount of time (15-30 mins). So it's common for the lights to turn off while studying and having to get up and move to get the lights to turn on. it actually takes more energy to turn on a fluorescent light bulb than keeping it on but whatever...",
+    "Star_Rating": 5,
+    "Author": "greg",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_73",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-07-04 23:37:25",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "The CULC (Clough Undergraduate Learning Commons) is an absolutely beautiful and modern study/classroom space. With a nap room, 15+ easily reservable breakout rooms, and a rooftop garden, the CULC is the heart of the Georgia Tech campus.",
+    "Star_Rating": 5,
+    "Author": "Bryan Gomez",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_74",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-06-01 20:45:05",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "Great classrooms, connecting to the library",
+    "Star_Rating": 5,
+    "Author": "Weihua Zhu",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_75",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-04-19 23:14:58",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "being here is miserable but it is what it is ig",
+    "Star_Rating": 3,
+    "Author": "Omar Tapia",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_76",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-01-26 01:57:44",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "Not bad\nToo many students tho.",
+    "Star_Rating": 4,
+    "Author": "kaleem b",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_77",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-01-23 21:05:11",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Max Vogl",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_78",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-12-04 05:25:42",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "9/10 needs more booths.",
+    "Star_Rating": 5,
+    "Author": "Grant Champagne",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_79",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-09-15 04:52:00",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Daniel Marcos",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_80",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-09-07 14:22:25",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "Great place to gain some knowledge.",
+    "Star_Rating": 5,
+    "Author": "Sean Meiller",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_81",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-08-27 02:19:14",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "This is the place where all of the Georgia Tech undergrads gather for studying or socializing. The roof of the CULC has an awesome view and it's a must see if you visit Georgia Tech. There are several auditoriums where some freshmen courses are offered.",
+    "Star_Rating": 5,
+    "Author": "Rafael Perez",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_82",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-07-12 03:33:15",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "Beautiful scene on the roof~",
+    "Star_Rating": 5,
+    "Author": "Chenyun Pan",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_83",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-06-10 20:58:19",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 4,
+    "Author": "Anuradha",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_84",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-05-27 15:45:48",
+    "Time_Period": "Spring Finals",
+    "Title": "",
+    "Text": "Lots of reservable rooms and beanbags; possible to both sleep and get a continuous supply of coffee in this building. Students can easily relocate to the library connected to the fourth floor.",
+    "Star_Rating": 5,
+    "Author": "Simola Nayak",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": [
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptSZ12Ng6QHDCQV2WClNDqm8orjoxHFqHBB09GJ0iaNIC5B1mRmje8SV51kvPrrCVOUVYudKn80joJhFdha5rgUEg7OltfzxiwYHa-Y6mj9L0wcUfOsqDcdIYb0z_pv1QugMYOhgg"
+    ]
+  },
+  {
+    "Unique_ID": "G_GT_1_85",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-05-26 20:09:59",
+    "Time_Period": "Spring Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Cheng Hann Gan",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_86",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-05-17 03:31:36",
+    "Time_Period": "Spring Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Prasanna Natarajan",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_87",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-03-12 23:08:55",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "Friendly student ambassador gave us a great campus tour.",
+    "Star_Rating": 4,
+    "Author": "Paul Mueller",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": [
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptXbVqcukEZKMUOhEavekhn75s9FqEECqzHRUmY_YiD_OJhb6hfKJzl0AJ_WN1aExKYJvX5Gu2JdRQzyZfNEORR0KVZmhoEBiLPox1PmSBdEBlM6k9ai5BdFVzBAro5xPTzCaiL",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9psUm98h2nkwVpBcfcEPhP5W8WoTrWhI6hEmVQ-RYp1jtvp_adR_xFis6Y0HOA-7udxgLRMy8B2_cAPLZ6jgYA-e12BX1CTsmMGoAe7cpSAGVIx6BLsDJGIKOUukWHvVyHYfO-ngyw"
+    ]
+  },
+  {
+    "Unique_ID": "G_GT_1_88",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-02-07 14:46:33",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "6 floors of class and study space with a view",
+    "Star_Rating": 5,
+    "Author": "Nathan",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_89",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-01-24 18:31:06",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Catherine Warner",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_90",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-12-11 01:46:18",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "ALI DAL",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_91",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-08-31 03:36:46",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Grant Davidson",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_92",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-08-28 22:38:59",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Andrew Stolorena",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_93",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-06-19 17:37:11",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "Open to the public until about 11 pm during the school year. Visit the rooftop gardens for a beautiful view of the skyline. Roof closes at 9-9:30",
+    "Star_Rating": 5,
+    "Author": "Davis Burson",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_94",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-06-17 10:09:35",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Javed Kameika",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_95",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-06-14 13:29:02",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Karim Lalani",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_96",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-06-12 15:40:12",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "The rooftop is amazing",
+    "Star_Rating": 5,
+    "Author": "Ebin Mathews",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_97",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-06-04 20:03:05",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Tianyu Feng",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_98",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-05-30 23:43:24",
+    "Time_Period": "Spring Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Magnus Freyer",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_99",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-05-14 22:46:47",
+    "Time_Period": "Spring Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Elle Summers",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_100",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-04-19 21:53:32",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Jonathan Sculley",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_101",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-04-18 19:19:49",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Edward Foyle",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_102",
+    "Source": "Google Reviews",
+    "Timestamp": "2015-12-07 10:02:11",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "Great study space with Starbucks conveniently placed inside",
+    "Star_Rating": 5,
+    "Author": "Iree Skinkle",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_103",
+    "Source": "Google Reviews",
+    "Timestamp": "2015-11-30 04:47:37",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "Rooftop garden with fantastic  view of Atlanta skyline.\nNewly opened facility.\nLots of rooms for group studies and other activities.",
+    "Star_Rating": 5,
+    "Author": "Khondker Zakir Ahmed",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_104",
+    "Source": "Google Reviews",
+    "Timestamp": "2015-11-19 04:55:45",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "Most of my time at GT was spent here.",
+    "Star_Rating": 5,
+    "Author": "Yashika Agarwalla",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_1_105",
+    "Source": "Google Reviews",
+    "Timestamp": "2015-09-16 22:53:09",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "The venue is great. Parking is impossible.",
+    "Star_Rating": 2,
+    "Author": "Doug Alexander",
+    "School": "Georgia Tech",
+    "Location": "CULC",
+    "Photo_Urls": []
   }
 ]

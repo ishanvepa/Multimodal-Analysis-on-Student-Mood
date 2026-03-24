@@ -1,220 +1,196 @@
 [
   {
-    "Unique_ID":"G_GT_00001",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-01-23 22:54:51",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"Unfortunately this place is not a public library. Do yourself a favor and bypass here. I came here last minute. The lady at the front desk wouldn\u2019t even print anything for me. All I needed was about 4 pages of prints. She stated only Georgia Tech Students and Staff. I mean so rude , at least she could have printed the pages. Then, told me next time it\u2019s only for Georgia Tech. It\u2019s very misleading because it says Publix. Very nasty, distasteful and rude. Please just don\u2019t go out your way to stop here.",
-    "Star_Rating":1,
-    "Author":"Ashley Lonon",
-    "School":"Georgia Tech",
-    "Location":"Price Gilbert",
-    "Photo_Urls":[
-
+    "Unique_ID": "G_GT_3_0",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-01-23 22:54:51",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "Unfortunately this place is not a public library. Do yourself a favor and bypass here. I came here last minute. The lady at the front desk wouldn’t even print anything for me. All I needed was about 4 pages of prints. She stated only Georgia Tech Students and Staff. I mean so rude , at least she could have printed the pages. Then, told me next time it’s only for Georgia Tech. It’s very misleading because it says Publix. Very nasty, distasteful and rude. Please just don’t go out your way to stop here.",
+    "Star_Rating": 1,
+    "Author": "Ashley Lonon",
+    "School": "Georgia Tech",
+    "Location": "Price Gilbert",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_3_1",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-06-22 19:11:34",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "Great study environment. The quiet floors are nice but sometimes get very crowded, like close to final exams. The view of the city is very nice from the quiet floors too. There is access to the roof from the seventh floor.",
+    "Star_Rating": 5,
+    "Author": "Erin Leal",
+    "School": "Georgia Tech",
+    "Location": "Price Gilbert",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_3_2",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-06-07 02:30:14",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "The ideal location for me to spend my summer break is a place where I can prepare for my certification exam and engage in learning. While I have a private study space in my apartment, I prefer going to the library and staying there until late hours. I find myself more productive in the library environment. However, I'm aware that the library may not have extended hours on Fridays to Sundays. In such cases, I can supplement my study routine by utilizing other resources. Additionally, I enjoy participating in CTF (capture the flag) challenges as they keep me on my toes and allow me to learn from others' experiences through reading their walkthroughs. Although my friends often jokingly complain that I need to \"get a life,\" I find fulfillment in these activities.",
+    "Star_Rating": 5,
+    "Author": "Sam Dup",
+    "School": "Georgia Tech",
+    "Location": "Price Gilbert",
+    "Photo_Urls": [
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9puNykOFG0h204l3xuiDKwvnRWuYWJty8xIv0yaEKyLg_e4KOVrxod6oamkDUWZE5aTJwbeoxwYsAjnDzCeH2PiTcArg5z6sjXp4yiNyH1WKfaByFAJSzzMtJ8ME2Ks_VjRSSCM"
     ]
   },
   {
-    "Unique_ID":"G_GT_00002",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-06-22 19:11:34",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"Great study environment. The quiet floors are nice but sometimes get very crowded, like close to final exams. The view of the city is very nice from the quiet floors too. There is access to the roof from the seventh floor.",
-    "Star_Rating":5,
-    "Author":"Erin Leal",
-    "School":"Georgia Tech",
-    "Location":"Price Gilbert",
-    "Photo_Urls":[
-
+    "Unique_ID": "G_GT_3_3",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-04-11 00:44:26",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Pranav Sharma",
+    "School": "Georgia Tech",
+    "Location": "Price Gilbert",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_3_4",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-02-19 19:55:12",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "장문회",
+    "School": "Georgia Tech",
+    "Location": "Price Gilbert",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_3_5",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-11-07 16:51:37",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "蔡坤哲",
+    "School": "Georgia Tech",
+    "Location": "Price Gilbert",
+    "Photo_Urls": [
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9psJfR0m5Y7_YG2IxvQx-ieIAlN6HZseIY_zfLBpY-goF8t3HkAnZzLfvp2igz0_jh9f6am-XJGiMud_9LRA2YTbN9GcDtKjcjphSwTdjrWKJbRGDtM6cllvQ4vGsOpxaQ_FSnnA",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pu9IKS2yAmgKH-r3m9IeOeCjNER-GKQ5NaNI_mmrVwSPlbeNttUryosf5nh6WvqNMEPjA2STwzTIUoZLBFJ4D_unyUrYSGnAxQzRXZHC71_pnHN6fBXFprZfVDI3d9rs1cAb6BN",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptvcFt2SLFOJ_C731DqHlK4npe0SdF-DIq-p22LL7NLDcpFmmmZkX9lYvPAGP3ybRAEAWYYote2YgxmW4WM_DYL2Ij3wNUk9_Ah9TtSiX_6kxvl__xIKP0RJ-bSF4au1eX-8afL",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pucPbP22kzmIs3OYfPwStvL0FudSnThWDqNbqrZlh48FHa1XIHhXf85snw80CCJqZFAtEVkH4k1wpVcRXRmwf7foqFkvF4jAktbQ6Rq06xZFmjokMlE2PjXGXFZzh5zp6-zRi83",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptIhKs3fpV52IID-olmtaSaZTxeRorfShTF1KNJYUpwGrs3llCnGgv-Vr5EWUq7nS8_MV7ubtiQ8Uwmpw6ztqlAt8dF6QrtMoNqIS_de_AG5ZdUv_LEX9XZMYdW0ZoEsfHfWj6V",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pummcqvUohWMZRQmOTY8u03-6ztqGk2IaoEOI_YZYgekHYWbYV2zuOejWmStYb2lcCyxjhiQ5wDvVuw9NFK0qaNStRF_SQEPZyleX2dYjuFMwpTO2CbsFJgPFGGFILZ5hAzLVJq5g",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ps1vHn5Ykn2GMezELb8k_294R_DmIN5ZYgiAIz76Zgjg1ctHDtQ_3yGkut3kuEM6sfGKhwbVsKxth3hMR9AisisaCVxlaGiDdTCOpxrxLxJOPzZGFE4csa9AJsU3LdI3JK2hndy",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9puX9yGXJ2eK-f30p0Mzom5dWTxSIUZFOM7suiETkB9aOd4teJOJBZwOasS5-9Y0_CZ3BSNX3pz1C4kQ1_V65ekvj2zAggT8-NHTi2924pvgyrr5_7ZHa8iPoGvEOCosSFRIOzIOPQ",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pszTjynMMd1RPZgZ1J2PI9sHkBUuZuRKyUGugsQ6FudaDhBR3NMXDJf9-yu0m5_XnynE8o3QmtnDFCfOaD3R6pdLDwGc2vNd4atJF7bzFMCUlvQN_qP6d3HbXKbuRucY8pMK1o"
     ]
   },
   {
-    "Unique_ID":"G_GT_00003",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-06-07 02:30:14",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"The ideal location for me to spend my summer break is a place where I can prepare for my certification exam and engage in learning. While I have a private study space in my apartment, I prefer going to the library and staying there until late hours. I find myself more productive in the library environment. However, I'm aware that the library may not have extended hours on Fridays to Sundays. In such cases, I can supplement my study routine by utilizing other resources. Additionally, I enjoy participating in CTF (capture the flag) challenges as they keep me on my toes and allow me to learn from others' experiences through reading their walkthroughs. Although my friends often jokingly complain that I need to \"get a life,\" I find fulfillment in these activities.",
-    "Star_Rating":5,
-    "Author":"Sam Dup",
-    "School":"Georgia Tech",
-    "Location":"Price Gilbert",
-    "Photo_Urls":[
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9puNykOFG0h204l3xuiDKwvnRWuYWJty8xIv0yaEKyLg_e4KOVrxod6oamkDUWZE5aTJwbeoxwYsAjnDzCeH2PiTcArg5z6sjXp4yiNyH1WKfaByFAJSzzMtJ8ME2Ks_VjRSSCM"
-    ]
+    "Unique_ID": "G_GT_3_6",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-09-20 22:43:24",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Junwon Min",
+    "School": "Georgia Tech",
+    "Location": "Price Gilbert",
+    "Photo_Urls": []
   },
   {
-    "Unique_ID":"G_GT_00004",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-04-11 00:44:26",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Pranav Sharma",
-    "School":"Georgia Tech",
-    "Location":"Price Gilbert",
-    "Photo_Urls":[
-
-    ]
+    "Unique_ID": "G_GT_3_7",
+    "Source": "Google Reviews",
+    "Timestamp": "2022-03-15 17:49:22",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "I speak for my accomplice and I when I say the bathrooms on the 3rd floor are simply emasculate. Thank you.",
+    "Star_Rating": 5,
+    "Author": "Chris McErlain",
+    "School": "Georgia Tech",
+    "Location": "Price Gilbert",
+    "Photo_Urls": []
   },
   {
-    "Unique_ID":"G_GT_00005",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-02-19 19:55:12",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"\uc7a5\ubb38\ud68c",
-    "School":"Georgia Tech",
-    "Location":"Price Gilbert",
-    "Photo_Urls":[
-
-    ]
+    "Unique_ID": "G_GT_3_8",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-12-05 01:45:56",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Karl Andraos",
+    "School": "Georgia Tech",
+    "Location": "Price Gilbert",
+    "Photo_Urls": []
   },
   {
-    "Unique_ID":"G_GT_00006",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-11-07 16:51:37",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"\u8521\u5764\u54f2",
-    "School":"Georgia Tech",
-    "Location":"Price Gilbert",
-    "Photo_Urls":[
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9psJfR0m5Y7_YG2IxvQx-ieIAlN6HZseIY_zfLBpY-goF8t3HkAnZzLfvp2igz0_jh9f6am-XJGiMud_9LRA2YTbN9GcDtKjcjphSwTdjrWKJbRGDtM6cllvQ4vGsOpxaQ_FSnnA",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pu9IKS2yAmgKH-r3m9IeOeCjNER-GKQ5NaNI_mmrVwSPlbeNttUryosf5nh6WvqNMEPjA2STwzTIUoZLBFJ4D_unyUrYSGnAxQzRXZHC71_pnHN6fBXFprZfVDI3d9rs1cAb6BN",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptvcFt2SLFOJ_C731DqHlK4npe0SdF-DIq-p22LL7NLDcpFmmmZkX9lYvPAGP3ybRAEAWYYote2YgxmW4WM_DYL2Ij3wNUk9_Ah9TtSiX_6kxvl__xIKP0RJ-bSF4au1eX-8afL",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pucPbP22kzmIs3OYfPwStvL0FudSnThWDqNbqrZlh48FHa1XIHhXf85snw80CCJqZFAtEVkH4k1wpVcRXRmwf7foqFkvF4jAktbQ6Rq06xZFmjokMlE2PjXGXFZzh5zp6-zRi83",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptIhKs3fpV52IID-olmtaSaZTxeRorfShTF1KNJYUpwGrs3llCnGgv-Vr5EWUq7nS8_MV7ubtiQ8Uwmpw6ztqlAt8dF6QrtMoNqIS_de_AG5ZdUv_LEX9XZMYdW0ZoEsfHfWj6V",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pummcqvUohWMZRQmOTY8u03-6ztqGk2IaoEOI_YZYgekHYWbYV2zuOejWmStYb2lcCyxjhiQ5wDvVuw9NFK0qaNStRF_SQEPZyleX2dYjuFMwpTO2CbsFJgPFGGFILZ5hAzLVJq5g",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ps1vHn5Ykn2GMezELb8k_294R_DmIN5ZYgiAIz76Zgjg1ctHDtQ_3yGkut3kuEM6sfGKhwbVsKxth3hMR9AisisaCVxlaGiDdTCOpxrxLxJOPzZGFE4csa9AJsU3LdI3JK2hndy",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9puX9yGXJ2eK-f30p0Mzom5dWTxSIUZFOM7suiETkB9aOd4teJOJBZwOasS5-9Y0_CZ3BSNX3pz1C4kQ1_V65ekvj2zAggT8-NHTi2924pvgyrr5_7ZHa8iPoGvEOCosSFRIOzIOPQ",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pszTjynMMd1RPZgZ1J2PI9sHkBUuZuRKyUGugsQ6FudaDhBR3NMXDJf9-yu0m5_XnynE8o3QmtnDFCfOaD3R6pdLDwGc2vNd4atJF7bzFMCUlvQN_qP6d3HbXKbuRucY8pMK1o"
-    ]
+    "Unique_ID": "G_GT_3_9",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-08-25 18:16:35",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Somto Nwagbata",
+    "School": "Georgia Tech",
+    "Location": "Price Gilbert",
+    "Photo_Urls": []
   },
   {
-    "Unique_ID":"G_GT_00007",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-09-20 22:43:24",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Junwon Min",
-    "School":"Georgia Tech",
-    "Location":"Price Gilbert",
-    "Photo_Urls":[
-
-    ]
+    "Unique_ID": "G_GT_3_10",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-05-12 19:39:31",
+    "Time_Period": "Spring Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "johnyburd",
+    "School": "Georgia Tech",
+    "Location": "Price Gilbert",
+    "Photo_Urls": []
   },
   {
-    "Unique_ID":"G_GT_00008",
-    "Source":"Google Reviews",
-    "Timestamp":"2022-03-15 17:49:22",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"I speak for my accomplice and I when I say the bathrooms on the 3rd floor are simply emasculate. Thank you.",
-    "Star_Rating":5,
-    "Author":"Chris McErlain",
-    "School":"Georgia Tech",
-    "Location":"Price Gilbert",
-    "Photo_Urls":[
-
-    ]
+    "Unique_ID": "G_GT_3_11",
+    "Source": "Google Reviews",
+    "Timestamp": "2021-03-04 22:41:05",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 4,
+    "Author": "Rahul Deshpande",
+    "School": "Georgia Tech",
+    "Location": "Price Gilbert",
+    "Photo_Urls": []
   },
   {
-    "Unique_ID":"G_GT_00009",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-12-05 01:45:56",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Karl Andraos",
-    "School":"Georgia Tech",
-    "Location":"Price Gilbert",
-    "Photo_Urls":[
-
-    ]
+    "Unique_ID": "G_GT_3_12",
+    "Source": "Google Reviews",
+    "Timestamp": "2020-12-11 19:42:43",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "COVID testing location for yellow jackets.",
+    "Star_Rating": 4,
+    "Author": "O K",
+    "School": "Georgia Tech",
+    "Location": "Price Gilbert",
+    "Photo_Urls": []
   },
   {
-    "Unique_ID":"G_GT_00010",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-08-25 18:16:35",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Somto Nwagbata",
-    "School":"Georgia Tech",
-    "Location":"Price Gilbert",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00011",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-05-12 19:39:31",
-    "Time_Period":"Spring Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"johnyburd",
-    "School":"Georgia Tech",
-    "Location":"Price Gilbert",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00012",
-    "Source":"Google Reviews",
-    "Timestamp":"2021-03-04 22:41:05",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":4,
-    "Author":"Rahul Deshpande",
-    "School":"Georgia Tech",
-    "Location":"Price Gilbert",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00013",
-    "Source":"Google Reviews",
-    "Timestamp":"2020-12-11 19:42:43",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"COVID testing location for yellow jackets.",
-    "Star_Rating":4,
-    "Author":"O K",
-    "School":"Georgia Tech",
-    "Location":"Price Gilbert",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00014",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-02-13 15:53:13",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Edwin Cloud",
-    "School":"Georgia Tech",
-    "Location":"Price Gilbert",
-    "Photo_Urls":[
-
-    ]
+    "Unique_ID": "G_GT_3_13",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-02-13 15:53:13",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Edwin Cloud",
+    "School": "Georgia Tech",
+    "Location": "Price Gilbert",
+    "Photo_Urls": []
   }
 ]

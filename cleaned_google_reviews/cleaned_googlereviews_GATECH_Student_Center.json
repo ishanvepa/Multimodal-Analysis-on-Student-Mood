@@ -1,1366 +1,1194 @@
 [
   {
-    "Unique_ID":"G_GT_00001",
-    "Source":"Google Reviews",
-    "Timestamp":"2026-02-20 00:35:25",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Anwara Olasewere",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00002",
-    "Source":"Google Reviews",
-    "Timestamp":"2026-02-16 22:11:46",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Gary Edholm",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00003",
-    "Source":"Google Reviews",
-    "Timestamp":"2026-01-23 23:53:45",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Brigitte Espinet",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00004",
-    "Source":"Google Reviews",
-    "Timestamp":"2026-01-23 16:42:57",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"Crowded and noisy, but clean. Plenty of seating, plenty of restaurants and services, and the location of most of the freely available microwaves on campus. If you don\u2019t mind noise it\u2019s nice.",
-    "Star_Rating":4,
-    "Author":"Anonymous Cause thats how i roll",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00005",
-    "Source":"Google Reviews",
-    "Timestamp":"2026-01-22 21:34:37",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Nishka Kaushal",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00006",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-12-28 19:09:43",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"I miss Subway, Auntie Anne's, and the stained glass window, but we now have the Test Kitchen, which is always great. We have a nice ice cream place. There's even a photobooth you can use for headsets. I do wonder if the virtual clinic wasn't being used enough as that was a nice option for faculty and staff that can't use the Stamps clinic. Overall, it does seem strange that the building got bigger but we lost cool unique features. I also wish we had a computer gaming area like KSU, but I believe the console gaming service wasn't being used much. I guess much of what got lost was sort of \"use it or lose it\" situation ... except for Subway, but that could have been franchising headaches.",
-    "Star_Rating":5,
-    "Author":"Kyle Richardson",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00007",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-11-15 22:23:04",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":2,
-    "Author":"Joe Davis",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00008",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-10-03 16:18:21",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Krystian Ramlogan",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00009",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-09-28 19:16:32",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Lady Culture",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00010",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-09-02 02:31:22",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Matthew Abounassar",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00011",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-08-29 22:12:08",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"We went there for a college tour. It was a fantastic tour of the campus and we got some amazing food inside the student center.",
-    "Star_Rating":5,
-    "Author":"Joe Meyers",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00012",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-08-28 18:35:00",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Prabhakar",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00013",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-08-23 01:57:16",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"The John Lewis Student Center at Georgia Tech is one of the best places on campus for both students and visitors. The building is modern, spacious, and full of natural light, making it a comfortable spot to hang out, study, or grab food. The variety of dining options is a big plus\u2014you can find everything from quick snacks to full meals\u2014and the layout makes it easy to settle in with friends or work on group projects. It also hosts plenty of events, so there\u2019s always something happening that adds to the energy of the space. The tribute to John Lewis adds a meaningful touch, reminding everyone of his legacy of leadership and service. It really feels like a hub for campus life.",
-    "Star_Rating":5,
-    "Author":"Subhajit Bag",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pu7a6ZZ4hY87_OtXL5K0Dy50kZajIWFqqsn68QaDiz9J-95FD7u9UrJ2FL_0TpGc6gbOWdynp7r4gI3s0p2eAUUSvsTCd_U1FJD62v3EZOWxGr_r3D4xDc19tbJGHhM4Kow7eLdAVeLV5qb",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pveEki-NIsemRQ7fo2ptLyb7xbUDhN9KWtjhOwAZbg6bHrZ1IFsPasgz_83l1z_UZx20d-gbYmV-pFThkewf5zmuPdyEviJdGwlqUIx0xHv1Pk2W--F4lyeUCxC9_CeFWVed7lkQs7KaA54",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9purUQ2qkk55TtnJblQnKAxHRbNMjcwUU692yWSKWED-XC65cA-0Cyt1TsKMuSMlCumW472ptr0bFCEkFXhVNRwuPLcD-bl4fAKouwYujMTKxzwMb32uX1hXNNKLDldJHyJd03MUlE917Rmf",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptU_P7TNTvQa4xd434ub2WPlARz05TGXiJWubIbnz6cD4cN1c2ohPaBSYdnp7FQQkrpMqit6V9_q_26zGgJg7EPFlTC3GgFkJFnXsh6NNh0KV1LvFv4-7gqXFUzJpCWFB9tPM8Btk7RLioG",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pvFwo4p1qr-_GUgsePXw5cpNJdUm4YHLsf9YuPZoxJ9DewR9LdXXu1z3tHtk8Gzi6yTvyw6DFZZUdgix40becAAarCRtRJfROzXu76mheZXaEGVUp2M41GXog6IvfeD76naBp9nWz3rhkMh",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9psLWq9netx-tF_y9RoykvGuaY7Iqkbixih_8dVndySn1x4U9hOEalOm9CEHrtvhLUOE7Fvi2tnYhkSSE5Idj-M52m0Jha9JzIABq3CKNm7a5ydBYJjC0lxpLm3OAoGm7qjrQuHPSAWa2Czs",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9psHlZrlUFSAQtJr1KQIJyhoZnr0-XYD-Ce9XebIVsvdW9AGfWcQJMbN4WsLN7EQ22B8lsu-jhRhqiSbtjg0EUqUDZSQccX2vQrx7dU7bsGyZR-1Wrc_AsfLxmR7FGQcutuY5DxALdxkMsVe",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9psLG7zkmq9r0BGGz_RcvHQUI_m8CfyGSpjC9woQNGj1VmStns5SXEfQcypAW0zU1L4yiT7rd0EJi2oKhS7wmm2tMt_q8F7VhCxxq5TH46EkTwvseOYt1Ac55sJclDnxuP-A4HmkYRCXOJMd",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptVKIA8cWdRHPTWe0Pxf69apVL1cvrgOS1QIWMlOgr_BvqUYebmC13jtXEYaurbbiQRse6mi6xHdT4OYTqEZ9spNff9FajDXIs3KuGT2N85LTFcGI-IaSMDhumilmwQoGWfE0jTIpeueMO_",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pvASFB5JJkOg0RVDOu5vZ9mWqiyL5HNg51sB4ugP7VJzea0APJ26Tcn4gKa8X6Mu3pokseQsS1LmB2jIrsuhHig57Q5smPdlof1kALHcPk0UxM3MgolIhXA5y6bP_yOqoMwT70aq9BrvMyl",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptN22oK0KHHrnMI668cq1TE65lJ7FzNNPLMji0218hlhKBwhnDJx7-2v-TvFw_0aq9ck31pQs_xi9mO07-4NfwKVe6cIBZLdqqJ4lRH31MJF7fK0C93-HOthZEdc231E3Ymc4iv7aTNOC8I",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pspF4ixpU041wVBl5MKnhQNVBmoBql2PVOLHHJInILb-FjFYLzFPUGKP6jhKsoK98Nba1BjcejmPnchW_lY5PUhNdhX2Sty2MUQOshzb7h8GZomyBVwU3lw0GBLJtXd0wub9PdDThyXTLOW",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pv_TVVizBanD03DInZcdfMcE8amLBsf_98gK-EntRlY6SHBfuxKu8gDdJwpitY7EGnHTxrDsAYSDW0xpwmWQmYwILyQ9ElvLAe3PiS0Ur4ztzgogQ50QRHW28VKn6ag6VXN0cJ0wvYxqpyP",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ps5TIug9XKSVfflb-cy-MCGAlSiICs8Zr7eXHSllMaK8Wtd4GnqanZevPDMR-3nufp8eQwzKgmpVw7MLMgBsd9IoMPeNzCxnUT8WD88AcxHCr8V2Af9S4xB6ZON4rUiM6Y8TEs3TK7cL-I",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptAX7sOUxj1_5LG9uLAMZ1WXBj8oUSjx6Jjoi1xB_Lv0bjvCsdYTOxyn_xwkJRvp3H5_9ea4ymbJZgpkUpBvk2qiW6r8-da9hd_03uv-9mJZTIY9Jrq9AdzBm-iuR47PdtjFxBV22kkxmw",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pvcW72hh0bHM5z1Y5WBb-BtCARoPpw_7d5VdkRzrcKs_YAni6XOvJyAfa7SY45iXnnG5waZprNgiGat7cv0-F-CB-aLCdWVVH330s1GVFXEGiXx_lTA5pO6DdaFUKVC9VutDlS2RuJ4AJk",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptZ7sRc9egKMJbkhTF8WxuQShOPwQOyrkLzP8NY929a7H36X8lyGxg75zzcmUcFZZdGq7okZhb2kaSnGzx8AojFBj9hZoNJOeXqhM4zBLQ_CgY-lf6X9GWUU6GTMVsa4c2k7M2wN44TiNuB",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pt7Urncaopf9ma3E-RSUdELXweDm4lehCiJkxbuLSVeMg0IqPDqJmxnRpWhK6b8oePvLQ5EVXqYf-rcR0l-nj0pmttu1gPyhiKUdmcELOmnuaoDDcer9g70q06tLwE4diAmZFjZ2HlogBMH",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptnq9vXK7j6nERevZHCecQ3pj7WLI2DFzi6o4f510EzrP4qagFXp2XJ7IGD4pdonfuIdCvo-sOHuR2IN1BGgjooPsb5O3zK1utoD6CGBpWio6YrMspn1rVqJBRlTWPBYcHv2xt0FTDwmR4",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pt4CvHr8-njT0yte3fnIRZxApFlvidw3Hdv07LJ4ddLzPlpBUpfaJGkV3u1zEAdKv3sKKwUrb5tA6pYGCJy1wsU-JhRbjaLWIDi5zTEORUisiGbiPxUUPfRhhKsWBbnUTtqx9Z59nPYu6Yz",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptnaKFyDFrCVMGFnwo6AAA5UPHJ6BeaVNTGQ3mqKguSFzFcr3aT7a60FwpQ7wTyEWu0efRvhAgKbSiuqovApZ3F4rnbkcqHZLRrwXozqJHvMsaMcgWD_j8d5XVmld_fnkZHPSATMPAVibLQ",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pva9W20yP-hjTVxSivDt-7JSF2fjVSThG90cS0uMRxx_CpW0a7Wmrhkh9szLE1X-m9rc0abYjj7VXqG5_tHAE8OVKQ4gs-8t-14ST8oZfldxCbDbR26W-nbPXrH3h025Lk4rHTtLsUd_d5V",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pvbE-n-rVp6Y-14AAoTtzosHiFSXzc8eGAw8qlaLnPMFTgOnFv7lOPh6vZjUZziwwXjEItQ5_Iuql-QEj_gtDBQJFKqeu0OWE5OBKz6s2Ca1NnPs85-oJmPyxLU7QKZlsasYenziQq83ZMq",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pt36EDsgpDsNsPagjJKrpusEaOKFJvqu5KfTonBXnf9dtublc8BIOiQwJ4zt5hW0NBzs5IsjHi3Ht4EaLI-lkMrGd76HXJqlXQ8ch8ICNeavLVH92oqnrfcCIazHOXS0ivdJ1-85nY-bhk",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pvAPZfNDGWJgYNthNKvVDx5gA8paXQHp4iafisQjLqOi12UkN6S_NTneerv8U5XxifVdMBmPhGH5i6tBi5wilxZIySZmc9pgfjxaqDPqxQovyEJRILEw6T1R06ANG4jUYjuujmzPnarvOXH",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9psUPbTqDM5LBdcKok2Obyd_K4HWGKHGGEGm7BtA5puoQ6Ev84SMH5bE6eM8qUuWZ6zFrZ0O-VYs5CIOBj7q9zUB-b03BluXz0Uj-fyh1wSMjNdaIAMs8O09A9iHLGyUw7K3Kjz6JkfSNBxl",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pt2FjQE2b7vm3fXhyhKR2UT37i1Q5ZvY8w1tvzg99TN3wjbdFlAbMEwxdQ2F7GvQMp3oHQQbSxKb_dsBKi4RpvhdApjb5ToZ0zD52V6iXYSBcQD_J1BT0WzJMhTH6901J59Ujd-6HfYWJbK",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pv-3bP-F6oqpEtDZ-2Won3NSfKJfQXC6rVRwxED0_-GrWCtXrGPXFt3z9fWWUpEiQNuq-zWT4v_uiTuEd7fme1eOukxgostJEczwGvc7Lg1Mzsy_PbpyNFIEtswctO1JurIq0fQ4PzBTaUh",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ps3_oDDhUJNLUDjUUN9rKm8nygc-cHRQ6zeZjjDuWNM9CsLjTmw31nVoqWKLtBazyLoY25bGkXWfXn_XVKibC7bviS69aSaxIfCgJ3wJtvw2LjgPhoHS40YRkFt0VkZYfw4UsPaGOtGGJap",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pvu58_gxe1AX7Z0osIv9AyjNbv-l6QZZjoOYrRdSoWb5K_hDiHJMfsR6yKWng_Cev8rMsc9JbRoByzul5_wpI5Wpq2MKgyVkBUWjKvgsGOJxpcbnIyZfrZcEjq2_xAtf9-Rd_KMC1s2w_Sv",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pvcrw6w0HgSKvMp_OgjZ9oPFb9EE32ljmi7sz5xrU77qMmrps3VS9PlHcORKOJiK_72S5NnOLC-a7pZRQx9lrqalP-6mNzmRcdl3R1CZAMbg17IFJ0oZorXH94LcC7f_K1rp2ygNq1X7hTj",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptzWRmiSlOqt11HD1yyRtjrdP4CImEVzrVA_LJQzat_0AACgbmehLKGy6bmeSQWuOpJrKlAj1GgCjinW1m-3C_Nh4KbrsR5iKiMt3NPOsLFRDyEAJSc9539le0lwMNwi1_6ABtZM7Gh0kk",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9puGFjEttLdHxDAHTCWzwql6GNDJ3V3Ie3c5Bhzff9biAf_5-a5vNZJV9kkb2Wsl-Q-6jZ1zvUr3fYRn4JnzhGdCDykncnCn4fPBsS1krsJsRb0RWACg6lblhGmhdQ-sbvZ2lLnZ4B7oe_K-",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptoC9mHmzhqbgUfEaEVK3kjxGZPa05WVwl11V0vqsgzt1BUSRsnmnCuDHW0PVqVTWXSKoeadTxahQ7nIsrriT_LW1Z24B3yt1LE7K1qyTwkYoqObqhmcdmnrgvQQe5khvU6Jx_AS21iJUef",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9puUb6pIAycCRM_ls-CXvwJfbc6yqUDG4wWUXAeXeY4gHe1axYSxjCCgc-qdcBx0RwrN_EcI47csTWJyY-Qeuw5xg3yMizdLhPbP4MHh0J9qfxSH4N2tXUOEecx9PDqk9FDdhNCS9PnjALMu",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptUN-bGDgvSP0rcMBgisPmIxkWTQKlotmA4G_CKbBhUFnWZi0fVYqgMzFIUWl1R6BypSvu7Ppyb9hb7Y7-tkFY36rKpCViCDWfKm_l_X5TNVw6KtGVUAEVVZirPFO_r0LuKyWnX6fcQ3Z_z",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pue05HQXWKsYuRjv1QTFY3VFAa-p5RS8CkpwvI3PDqe-chlDZhBisIWyICYD1ppCXbTXQXg4URn0tYT0gJBiUR9zaB4w3dSxV9juvvxQNeKMZDiNGoEnt16YCHhcUmpjciXSBREHwkLzhrQ",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9psS7jwXlk6emzQZ9Ra_jd3Gmsdqf2nXfu7Uw2gtwPsdU3J_3R-GVXvoeggoO1OuOBHtjogMd7Ah8N14cEkzP3bfd18MV5w44_mfZ7ckCXFCtyAkWtjqlkvQZAljrhYLaNJd0-U6s9DEIffz",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptXc6Bi6eeRV7CmYLfWQn4zKPtQ9DpdF7TnaajZTTxRJZ2Nldq2Z8_lU3SBmG6wyFVXhPKInx87VxkDHAGRgiJUhLcARtO0aJ99OiV6xsaZV4dN6lU-Zhz8-qqfFmKOq_SugUHNmJKK9Xw",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pvco5m_UQd7_8hPELB58IkuIJ51Dnr9xkAreNwIm3dYdRqIBBzfQIH3cO-wdPp0AT7Lr06ozX8G9hCYO-dX7mYDH66V_qQwhV4z13A6ii1ICse0Wvx6xdFBw-3HStyz5RyfC5SXJdxK_-A",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9psx3eQDyhVAwDYcDtEWJhrE0s2Iew3raGdXQ4m_p4mPl1XtRvC4VptYL5WCjArQxwL80qioKjd25K66Ey5vpYLyHU1QrB4HcPRysyLMgXTMwgxHKQSdiJZ6TjMJFTVNJcv1o4U9qdCMYEu-",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9puzspWINeC6QTr4w0yOHMcHh6Z9G9kGYJcNejwQwFoEJdg-pgTyWSyfmOWytLs5fiQtM_6c8ZeDotZq_wTYk2wJ_zVeLWzn4S7lsC5BlMzAP9jJM7vSY3EOKqIPUDHA-fSA_G0cm-bdn1Tp",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pv2pwCYuC-hMg266HbT0HyJgXXVlWSqyzGxQby2pI4RNjTR0DYbmrZJM4gKh98M7eeI051u_cohl3QwU4e_u6mpA6XOIOWph5h06B5BiQnSVf4qLRM7udqRulncrHy-DyxYc0PvqcT2oWSF",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9puPUSavBoWgNZDex-CK5HCI4MC-TCplX-pJ2Twg0KxJxg_gghpukGJMvmkchS0zAkQ2wMx9IU4wLWaPvpEXaBQQj_gJXmPL9fcB0EPb-SQj5TS_BvDgUd8lj_AKefR-eHWddmWJoRt9SvI"
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00014",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-08-11 00:11:12",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Katie Davis",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00015",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-08-10 21:45:43",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Brian Lebiednik",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00016",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-08-01 10:12:05",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":4,
-    "Author":"William Brown",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00017",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-07-11 01:12:50",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":4,
-    "Author":"Mayuresh Deorukhkar",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00018",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-06-27 20:18:54",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"SK Kumar",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00019",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-06-11 04:01:40",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Ed Jennings",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00020",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-05-22 00:06:40",
-    "Time_Period":"Spring Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Sahan Thanthiriwatte",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00021",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-05-10 18:17:33",
-    "Time_Period":"Spring Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Real Reviews",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00022",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-05-09 03:55:26",
-    "Time_Period":"Spring Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Shimeng Yu",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00023",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-04-21 20:02:47",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Sharon Ferguson",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00024",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-03-29 16:01:32",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Tanmay Das",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00025",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-03-26 15:08:24",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"This building has been renovated two years ago and I am satisfied with the new building overall. This complex provide food, postage service, entertainment. You can play bowling or pool on the first floor.",
-    "Star_Rating":5,
-    "Author":"Kaiqun Peng",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00026",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-02-10 19:17:30",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"S. Sanghavi (Meep)",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00027",
-    "Source":"Google Reviews",
-    "Timestamp":"2025-02-04 12:51:05",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"Except parking charges, the place gives a cool vibe to the campus. Nice places to eat and hangout",
-    "Star_Rating":5,
-    "Author":"Kanan Thakker",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00028",
-    "Source":"Google Reviews",
-    "Timestamp":"2024-11-04 15:33:13",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Erin Isabel",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00029",
-    "Source":"Google Reviews",
-    "Timestamp":"2024-09-03 20:47:16",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Drake",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00030",
-    "Source":"Google Reviews",
-    "Timestamp":"2024-07-12 03:30:10",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"\u597d",
-    "Star_Rating":5,
-    "Author":"Wei Huang",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00031",
-    "Source":"Google Reviews",
-    "Timestamp":"2024-04-23 13:19:58",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Yash Bichu",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00032",
-    "Source":"Google Reviews",
-    "Timestamp":"2024-04-12 04:06:14",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"Great study spot",
-    "Star_Rating":5,
-    "Author":"Worlanyo Gato",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00033",
-    "Source":"Google Reviews",
-    "Timestamp":"2024-03-04 15:13:12",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Jessica Haycraft",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00034",
-    "Source":"Google Reviews",
-    "Timestamp":"2024-02-20 13:36:56",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Loubna Taghzout",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00035",
-    "Source":"Google Reviews",
-    "Timestamp":"2024-02-09 02:28:27",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"akhil tammana",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00036",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-11-18 17:05:09",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"Great food. Safe Environment.",
-    "Star_Rating":5,
-    "Author":"Aj Parham",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00037",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-07-27 18:25:53",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":1,
-    "Author":"Mason Garcia",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00038",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-06-23 00:04:57",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Viktor Spyrydonov",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00039",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-04-15 17:54:41",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Vinh Nguyen",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00040",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-03-06 01:54:20",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"It\u2019s great BUT why the dining gone ???  Who came up with such unbelievable ideas to remove the dining?",
-    "Star_Rating":5,
-    "Author":"Mizan Rahman",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00041",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-03-01 02:09:31",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"Everything is overpriced. There\u2019s a reason why only Panda and Chick Fil A have people in line. Also I hate going to school here",
-    "Star_Rating":1,
-    "Author":"Jerry Smit",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00042",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-02-25 02:47:47",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"mister sigma",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00043",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-02-18 16:01:42",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Sang Won YOON",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9ptORKX3uCAuiLSUzTdGpUAWh38Vu6TeHfgWMTPGwc1mqeQDthqF6eFJFWpjTvBPERoTXpWUYeoAIgeXahg9sjlSsjoXyHyLgj8jt8kexJm2SxAu0h2O2Mq17nriaT7LPHB7Pnlt",
-      "https:\/\/lh3.googleusercontent.com\/geougc-cs\/ABOP9pskokiwCPTmg9909dyBYs_F12D0q7N0yX3qvXdo6vAm688kiI0zHKTJzFZoZ45-1OyzcAcJf-o-ue_SJzPEDixTPqhfx3iaZNEfmJfysQNHx2v0cHG0kTEuGtH0mnjm1ltvU1bvtQ"
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00044",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-02-18 13:45:36",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"\uc7a5\ubb38\ud68c",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00045",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-02-10 01:03:44",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Sean Park",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00046",
-    "Source":"Google Reviews",
-    "Timestamp":"2023-01-13 15:00:19",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"The renovated student center opened in summer 2022. The new space has great light, but they bizarrely decided to decrease the already-limited dining options in the renovation. I have yet to get any remotely edible food from the 2nd-floor cafeteria. The Mexican place is particularly awful. The Chick-fil-A and Panda Express on the first floor are good, but this renovation wasted an opportunity to improve GT's longstanding weakness in dining options.",
-    "Star_Rating":1,
-    "Author":"Quintin Kreth",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00047",
-    "Source":"Google Reviews",
-    "Timestamp":"2019-02-13 18:50:36",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":4,
-    "Author":"Kai Vong",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00048",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-12-23 20:54:36",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Alv",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00049",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-12-14 20:05:26",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Zhuangdi Xu (Andy)",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00050",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-12-14 17:24:07",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Deepak Shah",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00051",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-11-28 17:45:50",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Eric Phan",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00052",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-11-27 16:30:51",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"Lots of important services\/resources, but it can be very crowded at times and would benefit from renovation\/expansion to better serve the demand, especially around midday and lunchtime.",
-    "Star_Rating":4,
-    "Author":"Quentin Miller",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00053",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-11-20 00:18:43",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Hanying Pan",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00054",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-11-18 00:40:31",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Sam Carson",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00055",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-10-12 21:22:55",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"Flawless",
-    "Star_Rating":5,
-    "Author":"An Wan Ching",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00056",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-09-10 20:49:14",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Indiana",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00057",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-09-10 14:27:27",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Ian Winrow",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00058",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-09-05 15:18:52",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Eduardo Trunci",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00059",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-08-25 00:22:13",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Samir Mehta",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00060",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-08-24 15:26:06",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Noe DSDL",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00061",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-08-20 15:57:48",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Ally Liu",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00062",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-08-01 00:19:29",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"The Student Center looks nice, but the so-called \"New York\" pizza at Ray's is disgusting.  The only reason you could possibly call it New York-style is due to its general shape.  My son had a cheese slice, and the cheese had neither the taste nor the consistency of mozzarella (or any cheese, for that matter).  I had a slice of Hawaiian.  It suffered from the same cheese, but they added pineapple and ham that was like eating small patches of leather.  One of the ham pieces was so tough that I honestly worried that there might be a piece of plastic melted on to it.  I saw that there was no line at Ray's, but a big line at the taco place.  I would suggest you try that place instead.  I left five stars for the Student Center, but the pizza is a zero!  Note: Service was good.  I hope the staff finds work at a better pizzeria.",
-    "Star_Rating":5,
-    "Author":"John Miller",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00063",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-07-10 14:03:07",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Victoria Thornton",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00064",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-07-08 21:35:38",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Azlan Shah Abdul Jalil",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00065",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-07-05 18:33:27",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Akhlaque Haque",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00066",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-06-28 16:01:52",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"Tons of selection",
-    "Star_Rating":5,
-    "Author":"Marco Newman",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00067",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-06-03 19:11:59",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"George W.",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00068",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-05-19 16:08:15",
-    "Time_Period":"Spring Finals",
-    "Title":"",
-    "Text":"The center is nice for studying and social times.  Plenty room to telax, gather information, buy tickets and more.  Now they offer Notary services.  Vending machine plentiful.",
-    "Star_Rating":5,
-    "Author":"Narwanna el-Shabazz",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00069",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-04-27 15:58:08",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":2,
-    "Author":"Shannon Lavette",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00070",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-04-23 23:59:03",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"Favorite place to eat, nervous about upcoming renovations though.",
-    "Star_Rating":5,
-    "Author":"Grant Champagne",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00071",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-04-15 13:35:41",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"Wonderful Facility",
-    "Star_Rating":5,
-    "Author":"Alda Wright",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00072",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-04-11 21:35:15",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Subrat Nayak",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00073",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-04-03 17:53:28",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Cordero Curry",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00074",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-03-19 17:56:50",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"Lot of eateries, rec spot, and two filtered water stations",
-    "Star_Rating":5,
-    "Author":"Marcus Taylor",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00075",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-03-14 06:03:03",
-    "Time_Period":"Spring Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Caleb Merritt",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00076",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-02-13 14:14:22",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"James Johnson",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00077",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-02-05 21:14:14",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":4,
-    "Author":"Alik Z",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00078",
-    "Source":"Google Reviews",
-    "Timestamp":"2018-01-19 16:43:34",
-    "Time_Period":"Spring Semester",
-    "Title":"",
-    "Text":"UPDATE: Staff seem more polite now and the post office hours are getting extended, which is nice. Only issue is that packages are taking FOREVER to get processed for some reason. Average wait time for a package to get processed is about 2 days.\n\nThe post offices closes randomly and frequently for holidays, both real and not, even when there are still classes. Staff are extremely rude and call my printed name \"illegible\". Have to just take my package and walk away or I'll have to rewrite my name three or four times.",
-    "Star_Rating":3,
-    "Author":"Joshua Crane",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00079",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-11-29 02:38:46",
-    "Time_Period":"Fall Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Michael Xu",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00080",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-10-08 04:32:41",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"It's nice.",
-    "Star_Rating":5,
-    "Author":"Erica Raven",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00081",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-09-30 17:50:45",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":4,
-    "Author":"Yudhi Nugraha",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00082",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-08-29 21:34:01",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":4,
-    "Author":"Vivian Lee",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00083",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-08-15 16:46:53",
-    "Time_Period":"Fall Semester",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Hassan Attarchi (Roy)",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00084",
-    "Source":"Google Reviews",
-    "Timestamp":"2017-06-15 12:32:39",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"Posted hours are not even close!!",
-    "Star_Rating":1,
-    "Author":"Thomas Read",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00085",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-10-03 18:52:02",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"It exists.",
-    "Star_Rating":5,
-    "Author":"Albert Lee",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00086",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-09-30 18:03:19",
-    "Time_Period":"Fall Midterms",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Pranav Bohra",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00087",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-06-03 11:17:25",
-    "Time_Period":"Other",
-    "Title":"",
-    "Text":"Great Service, Great Food Keep it Up",
-    "Star_Rating":5,
-    "Author":"Yusuf Dodson",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
-  },
-  {
-    "Unique_ID":"G_GT_00088",
-    "Source":"Google Reviews",
-    "Timestamp":"2016-05-22 21:01:12",
-    "Time_Period":"Spring Finals",
-    "Title":"",
-    "Text":"",
-    "Star_Rating":5,
-    "Author":"Antony Panikulam",
-    "School":"Georgia Tech",
-    "Location":"Student Center",
-    "Photo_Urls":[
-
-    ]
+    "Unique_ID": "G_GT_4_0",
+    "Source": "Google Reviews",
+    "Timestamp": "2026-02-20 00:35:25",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Anwara Olasewere",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_1",
+    "Source": "Google Reviews",
+    "Timestamp": "2026-02-16 22:11:46",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Gary Edholm",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_2",
+    "Source": "Google Reviews",
+    "Timestamp": "2026-01-23 23:53:45",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Brigitte Espinet",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_3",
+    "Source": "Google Reviews",
+    "Timestamp": "2026-01-23 16:42:57",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "Crowded and noisy, but clean. Plenty of seating, plenty of restaurants and services, and the location of most of the freely available microwaves on campus. If you don’t mind noise it’s nice.",
+    "Star_Rating": 4,
+    "Author": "Anonymous Cause thats how i roll",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_4",
+    "Source": "Google Reviews",
+    "Timestamp": "2026-01-22 21:34:37",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Nishka Kaushal",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_5",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-12-28 19:09:43",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "I miss Subway, Auntie Anne's, and the stained glass window, but we now have the Test Kitchen, which is always great. We have a nice ice cream place. There's even a photobooth you can use for headsets. I do wonder if the virtual clinic wasn't being used enough as that was a nice option for faculty and staff that can't use the Stamps clinic. Overall, it does seem strange that the building got bigger but we lost cool unique features. I also wish we had a computer gaming area like KSU, but I believe the console gaming service wasn't being used much. I guess much of what got lost was sort of \"use it or lose it\" situation ... except for Subway, but that could have been franchising headaches.",
+    "Star_Rating": 5,
+    "Author": "Kyle Richardson",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_6",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-11-15 22:23:04",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 2,
+    "Author": "Joe Davis",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_7",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-10-03 16:18:21",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Krystian Ramlogan",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_8",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-09-28 19:16:32",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Lady Culture",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_9",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-09-02 02:31:22",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Matthew Abounassar",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_10",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-08-29 22:12:08",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "We went there for a college tour. It was a fantastic tour of the campus and we got some amazing food inside the student center.",
+    "Star_Rating": 5,
+    "Author": "Joe Meyers",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_11",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-08-28 18:35:00",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Prabhakar",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_12",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-08-23 01:57:16",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "The John Lewis Student Center at Georgia Tech is one of the best places on campus for both students and visitors. The building is modern, spacious, and full of natural light, making it a comfortable spot to hang out, study, or grab food. The variety of dining options is a big plus—you can find everything from quick snacks to full meals—and the layout makes it easy to settle in with friends or work on group projects. It also hosts plenty of events, so there’s always something happening that adds to the energy of the space. The tribute to John Lewis adds a meaningful touch, reminding everyone of his legacy of leadership and service. It really feels like a hub for campus life.",
+    "Star_Rating": 5,
+    "Author": "Subhajit Bag",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": [
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pu7a6ZZ4hY87_OtXL5K0Dy50kZajIWFqqsn68QaDiz9J-95FD7u9UrJ2FL_0TpGc6gbOWdynp7r4gI3s0p2eAUUSvsTCd_U1FJD62v3EZOWxGr_r3D4xDc19tbJGHhM4Kow7eLdAVeLV5qb",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pveEki-NIsemRQ7fo2ptLyb7xbUDhN9KWtjhOwAZbg6bHrZ1IFsPasgz_83l1z_UZx20d-gbYmV-pFThkewf5zmuPdyEviJdGwlqUIx0xHv1Pk2W--F4lyeUCxC9_CeFWVed7lkQs7KaA54",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9purUQ2qkk55TtnJblQnKAxHRbNMjcwUU692yWSKWED-XC65cA-0Cyt1TsKMuSMlCumW472ptr0bFCEkFXhVNRwuPLcD-bl4fAKouwYujMTKxzwMb32uX1hXNNKLDldJHyJd03MUlE917Rmf",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptU_P7TNTvQa4xd434ub2WPlARz05TGXiJWubIbnz6cD4cN1c2ohPaBSYdnp7FQQkrpMqit6V9_q_26zGgJg7EPFlTC3GgFkJFnXsh6NNh0KV1LvFv4-7gqXFUzJpCWFB9tPM8Btk7RLioG",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvFwo4p1qr-_GUgsePXw5cpNJdUm4YHLsf9YuPZoxJ9DewR9LdXXu1z3tHtk8Gzi6yTvyw6DFZZUdgix40becAAarCRtRJfROzXu76mheZXaEGVUp2M41GXog6IvfeD76naBp9nWz3rhkMh",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9psLWq9netx-tF_y9RoykvGuaY7Iqkbixih_8dVndySn1x4U9hOEalOm9CEHrtvhLUOE7Fvi2tnYhkSSE5Idj-M52m0Jha9JzIABq3CKNm7a5ydBYJjC0lxpLm3OAoGm7qjrQuHPSAWa2Czs",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9psHlZrlUFSAQtJr1KQIJyhoZnr0-XYD-Ce9XebIVsvdW9AGfWcQJMbN4WsLN7EQ22B8lsu-jhRhqiSbtjg0EUqUDZSQccX2vQrx7dU7bsGyZR-1Wrc_AsfLxmR7FGQcutuY5DxALdxkMsVe",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9psLG7zkmq9r0BGGz_RcvHQUI_m8CfyGSpjC9woQNGj1VmStns5SXEfQcypAW0zU1L4yiT7rd0EJi2oKhS7wmm2tMt_q8F7VhCxxq5TH46EkTwvseOYt1Ac55sJclDnxuP-A4HmkYRCXOJMd",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptVKIA8cWdRHPTWe0Pxf69apVL1cvrgOS1QIWMlOgr_BvqUYebmC13jtXEYaurbbiQRse6mi6xHdT4OYTqEZ9spNff9FajDXIs3KuGT2N85LTFcGI-IaSMDhumilmwQoGWfE0jTIpeueMO_",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvASFB5JJkOg0RVDOu5vZ9mWqiyL5HNg51sB4ugP7VJzea0APJ26Tcn4gKa8X6Mu3pokseQsS1LmB2jIrsuhHig57Q5smPdlof1kALHcPk0UxM3MgolIhXA5y6bP_yOqoMwT70aq9BrvMyl",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptN22oK0KHHrnMI668cq1TE65lJ7FzNNPLMji0218hlhKBwhnDJx7-2v-TvFw_0aq9ck31pQs_xi9mO07-4NfwKVe6cIBZLdqqJ4lRH31MJF7fK0C93-HOthZEdc231E3Ymc4iv7aTNOC8I",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pspF4ixpU041wVBl5MKnhQNVBmoBql2PVOLHHJInILb-FjFYLzFPUGKP6jhKsoK98Nba1BjcejmPnchW_lY5PUhNdhX2Sty2MUQOshzb7h8GZomyBVwU3lw0GBLJtXd0wub9PdDThyXTLOW",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pv_TVVizBanD03DInZcdfMcE8amLBsf_98gK-EntRlY6SHBfuxKu8gDdJwpitY7EGnHTxrDsAYSDW0xpwmWQmYwILyQ9ElvLAe3PiS0Ur4ztzgogQ50QRHW28VKn6ag6VXN0cJ0wvYxqpyP",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ps5TIug9XKSVfflb-cy-MCGAlSiICs8Zr7eXHSllMaK8Wtd4GnqanZevPDMR-3nufp8eQwzKgmpVw7MLMgBsd9IoMPeNzCxnUT8WD88AcxHCr8V2Af9S4xB6ZON4rUiM6Y8TEs3TK7cL-I",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptAX7sOUxj1_5LG9uLAMZ1WXBj8oUSjx6Jjoi1xB_Lv0bjvCsdYTOxyn_xwkJRvp3H5_9ea4ymbJZgpkUpBvk2qiW6r8-da9hd_03uv-9mJZTIY9Jrq9AdzBm-iuR47PdtjFxBV22kkxmw",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvcW72hh0bHM5z1Y5WBb-BtCARoPpw_7d5VdkRzrcKs_YAni6XOvJyAfa7SY45iXnnG5waZprNgiGat7cv0-F-CB-aLCdWVVH330s1GVFXEGiXx_lTA5pO6DdaFUKVC9VutDlS2RuJ4AJk",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptZ7sRc9egKMJbkhTF8WxuQShOPwQOyrkLzP8NY929a7H36X8lyGxg75zzcmUcFZZdGq7okZhb2kaSnGzx8AojFBj9hZoNJOeXqhM4zBLQ_CgY-lf6X9GWUU6GTMVsa4c2k7M2wN44TiNuB",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pt7Urncaopf9ma3E-RSUdELXweDm4lehCiJkxbuLSVeMg0IqPDqJmxnRpWhK6b8oePvLQ5EVXqYf-rcR0l-nj0pmttu1gPyhiKUdmcELOmnuaoDDcer9g70q06tLwE4diAmZFjZ2HlogBMH",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptnq9vXK7j6nERevZHCecQ3pj7WLI2DFzi6o4f510EzrP4qagFXp2XJ7IGD4pdonfuIdCvo-sOHuR2IN1BGgjooPsb5O3zK1utoD6CGBpWio6YrMspn1rVqJBRlTWPBYcHv2xt0FTDwmR4",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pt4CvHr8-njT0yte3fnIRZxApFlvidw3Hdv07LJ4ddLzPlpBUpfaJGkV3u1zEAdKv3sKKwUrb5tA6pYGCJy1wsU-JhRbjaLWIDi5zTEORUisiGbiPxUUPfRhhKsWBbnUTtqx9Z59nPYu6Yz",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptnaKFyDFrCVMGFnwo6AAA5UPHJ6BeaVNTGQ3mqKguSFzFcr3aT7a60FwpQ7wTyEWu0efRvhAgKbSiuqovApZ3F4rnbkcqHZLRrwXozqJHvMsaMcgWD_j8d5XVmld_fnkZHPSATMPAVibLQ",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pva9W20yP-hjTVxSivDt-7JSF2fjVSThG90cS0uMRxx_CpW0a7Wmrhkh9szLE1X-m9rc0abYjj7VXqG5_tHAE8OVKQ4gs-8t-14ST8oZfldxCbDbR26W-nbPXrH3h025Lk4rHTtLsUd_d5V",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvbE-n-rVp6Y-14AAoTtzosHiFSXzc8eGAw8qlaLnPMFTgOnFv7lOPh6vZjUZziwwXjEItQ5_Iuql-QEj_gtDBQJFKqeu0OWE5OBKz6s2Ca1NnPs85-oJmPyxLU7QKZlsasYenziQq83ZMq",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pt36EDsgpDsNsPagjJKrpusEaOKFJvqu5KfTonBXnf9dtublc8BIOiQwJ4zt5hW0NBzs5IsjHi3Ht4EaLI-lkMrGd76HXJqlXQ8ch8ICNeavLVH92oqnrfcCIazHOXS0ivdJ1-85nY-bhk",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvAPZfNDGWJgYNthNKvVDx5gA8paXQHp4iafisQjLqOi12UkN6S_NTneerv8U5XxifVdMBmPhGH5i6tBi5wilxZIySZmc9pgfjxaqDPqxQovyEJRILEw6T1R06ANG4jUYjuujmzPnarvOXH",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9psUPbTqDM5LBdcKok2Obyd_K4HWGKHGGEGm7BtA5puoQ6Ev84SMH5bE6eM8qUuWZ6zFrZ0O-VYs5CIOBj7q9zUB-b03BluXz0Uj-fyh1wSMjNdaIAMs8O09A9iHLGyUw7K3Kjz6JkfSNBxl",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pt2FjQE2b7vm3fXhyhKR2UT37i1Q5ZvY8w1tvzg99TN3wjbdFlAbMEwxdQ2F7GvQMp3oHQQbSxKb_dsBKi4RpvhdApjb5ToZ0zD52V6iXYSBcQD_J1BT0WzJMhTH6901J59Ujd-6HfYWJbK",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pv-3bP-F6oqpEtDZ-2Won3NSfKJfQXC6rVRwxED0_-GrWCtXrGPXFt3z9fWWUpEiQNuq-zWT4v_uiTuEd7fme1eOukxgostJEczwGvc7Lg1Mzsy_PbpyNFIEtswctO1JurIq0fQ4PzBTaUh",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ps3_oDDhUJNLUDjUUN9rKm8nygc-cHRQ6zeZjjDuWNM9CsLjTmw31nVoqWKLtBazyLoY25bGkXWfXn_XVKibC7bviS69aSaxIfCgJ3wJtvw2LjgPhoHS40YRkFt0VkZYfw4UsPaGOtGGJap",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvu58_gxe1AX7Z0osIv9AyjNbv-l6QZZjoOYrRdSoWb5K_hDiHJMfsR6yKWng_Cev8rMsc9JbRoByzul5_wpI5Wpq2MKgyVkBUWjKvgsGOJxpcbnIyZfrZcEjq2_xAtf9-Rd_KMC1s2w_Sv",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvcrw6w0HgSKvMp_OgjZ9oPFb9EE32ljmi7sz5xrU77qMmrps3VS9PlHcORKOJiK_72S5NnOLC-a7pZRQx9lrqalP-6mNzmRcdl3R1CZAMbg17IFJ0oZorXH94LcC7f_K1rp2ygNq1X7hTj",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptzWRmiSlOqt11HD1yyRtjrdP4CImEVzrVA_LJQzat_0AACgbmehLKGy6bmeSQWuOpJrKlAj1GgCjinW1m-3C_Nh4KbrsR5iKiMt3NPOsLFRDyEAJSc9539le0lwMNwi1_6ABtZM7Gh0kk",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9puGFjEttLdHxDAHTCWzwql6GNDJ3V3Ie3c5Bhzff9biAf_5-a5vNZJV9kkb2Wsl-Q-6jZ1zvUr3fYRn4JnzhGdCDykncnCn4fPBsS1krsJsRb0RWACg6lblhGmhdQ-sbvZ2lLnZ4B7oe_K-",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptoC9mHmzhqbgUfEaEVK3kjxGZPa05WVwl11V0vqsgzt1BUSRsnmnCuDHW0PVqVTWXSKoeadTxahQ7nIsrriT_LW1Z24B3yt1LE7K1qyTwkYoqObqhmcdmnrgvQQe5khvU6Jx_AS21iJUef",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9puUb6pIAycCRM_ls-CXvwJfbc6yqUDG4wWUXAeXeY4gHe1axYSxjCCgc-qdcBx0RwrN_EcI47csTWJyY-Qeuw5xg3yMizdLhPbP4MHh0J9qfxSH4N2tXUOEecx9PDqk9FDdhNCS9PnjALMu",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptUN-bGDgvSP0rcMBgisPmIxkWTQKlotmA4G_CKbBhUFnWZi0fVYqgMzFIUWl1R6BypSvu7Ppyb9hb7Y7-tkFY36rKpCViCDWfKm_l_X5TNVw6KtGVUAEVVZirPFO_r0LuKyWnX6fcQ3Z_z",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pue05HQXWKsYuRjv1QTFY3VFAa-p5RS8CkpwvI3PDqe-chlDZhBisIWyICYD1ppCXbTXQXg4URn0tYT0gJBiUR9zaB4w3dSxV9juvvxQNeKMZDiNGoEnt16YCHhcUmpjciXSBREHwkLzhrQ",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9psS7jwXlk6emzQZ9Ra_jd3Gmsdqf2nXfu7Uw2gtwPsdU3J_3R-GVXvoeggoO1OuOBHtjogMd7Ah8N14cEkzP3bfd18MV5w44_mfZ7ckCXFCtyAkWtjqlkvQZAljrhYLaNJd0-U6s9DEIffz",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptXc6Bi6eeRV7CmYLfWQn4zKPtQ9DpdF7TnaajZTTxRJZ2Nldq2Z8_lU3SBmG6wyFVXhPKInx87VxkDHAGRgiJUhLcARtO0aJ99OiV6xsaZV4dN6lU-Zhz8-qqfFmKOq_SugUHNmJKK9Xw",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pvco5m_UQd7_8hPELB58IkuIJ51Dnr9xkAreNwIm3dYdRqIBBzfQIH3cO-wdPp0AT7Lr06ozX8G9hCYO-dX7mYDH66V_qQwhV4z13A6ii1ICse0Wvx6xdFBw-3HStyz5RyfC5SXJdxK_-A",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9psx3eQDyhVAwDYcDtEWJhrE0s2Iew3raGdXQ4m_p4mPl1XtRvC4VptYL5WCjArQxwL80qioKjd25K66Ey5vpYLyHU1QrB4HcPRysyLMgXTMwgxHKQSdiJZ6TjMJFTVNJcv1o4U9qdCMYEu-",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9puzspWINeC6QTr4w0yOHMcHh6Z9G9kGYJcNejwQwFoEJdg-pgTyWSyfmOWytLs5fiQtM_6c8ZeDotZq_wTYk2wJ_zVeLWzn4S7lsC5BlMzAP9jJM7vSY3EOKqIPUDHA-fSA_G0cm-bdn1Tp",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pv2pwCYuC-hMg266HbT0HyJgXXVlWSqyzGxQby2pI4RNjTR0DYbmrZJM4gKh98M7eeI051u_cohl3QwU4e_u6mpA6XOIOWph5h06B5BiQnSVf4qLRM7udqRulncrHy-DyxYc0PvqcT2oWSF",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9puPUSavBoWgNZDex-CK5HCI4MC-TCplX-pJ2Twg0KxJxg_gghpukGJMvmkchS0zAkQ2wMx9IU4wLWaPvpEXaBQQj_gJXmPL9fcB0EPb-SQj5TS_BvDgUd8lj_AKefR-eHWddmWJoRt9SvI"
+    ]
+  },
+  {
+    "Unique_ID": "G_GT_4_13",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-08-11 00:11:12",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Katie Davis",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_14",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-08-10 21:45:43",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Brian Lebiednik",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_15",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-08-01 10:12:05",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 4,
+    "Author": "William Brown",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_16",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-07-11 01:12:50",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 4,
+    "Author": "Mayuresh Deorukhkar",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_17",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-06-27 20:18:54",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "SK Kumar",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_18",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-06-11 04:01:40",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Ed Jennings",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_19",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-05-22 00:06:40",
+    "Time_Period": "Spring Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Sahan Thanthiriwatte",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_20",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-05-10 18:17:33",
+    "Time_Period": "Spring Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Real Reviews",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_21",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-05-09 03:55:26",
+    "Time_Period": "Spring Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Shimeng Yu",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_22",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-04-21 20:02:47",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Sharon Ferguson",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_23",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-03-29 16:01:32",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Tanmay Das",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_24",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-03-26 15:08:24",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "This building has been renovated two years ago and I am satisfied with the new building overall. This complex provide food, postage service, entertainment. You can play bowling or pool on the first floor.",
+    "Star_Rating": 5,
+    "Author": "Kaiqun Peng",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_25",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-02-10 19:17:30",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "S. Sanghavi (Meep)",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_26",
+    "Source": "Google Reviews",
+    "Timestamp": "2025-02-04 12:51:05",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "Except parking charges, the place gives a cool vibe to the campus. Nice places to eat and hangout",
+    "Star_Rating": 5,
+    "Author": "Kanan Thakker",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_27",
+    "Source": "Google Reviews",
+    "Timestamp": "2024-11-04 15:33:13",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Erin Isabel",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_28",
+    "Source": "Google Reviews",
+    "Timestamp": "2024-09-03 20:47:16",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Drake",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_29",
+    "Source": "Google Reviews",
+    "Timestamp": "2024-07-12 03:30:10",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "好",
+    "Star_Rating": 5,
+    "Author": "Wei Huang",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_30",
+    "Source": "Google Reviews",
+    "Timestamp": "2024-04-23 13:19:58",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Yash Bichu",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_31",
+    "Source": "Google Reviews",
+    "Timestamp": "2024-04-12 04:06:14",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "Great study spot",
+    "Star_Rating": 5,
+    "Author": "Worlanyo Gato",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_32",
+    "Source": "Google Reviews",
+    "Timestamp": "2024-03-04 15:13:12",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Jessica Haycraft",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_33",
+    "Source": "Google Reviews",
+    "Timestamp": "2024-02-20 13:36:56",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Loubna Taghzout",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_34",
+    "Source": "Google Reviews",
+    "Timestamp": "2024-02-09 02:28:27",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "akhil tammana",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_35",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-11-18 17:05:09",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "Great food. Safe Environment.",
+    "Star_Rating": 5,
+    "Author": "Aj Parham",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_36",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-07-27 18:25:53",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 1,
+    "Author": "Mason Garcia",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_37",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-06-23 00:04:57",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Viktor Spyrydonov",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_38",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-04-15 17:54:41",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Vinh Nguyen",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_39",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-03-06 01:54:20",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "It’s great BUT why the dining gone ???  Who came up with such unbelievable ideas to remove the dining?",
+    "Star_Rating": 5,
+    "Author": "Mizan Rahman",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_40",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-03-01 02:09:31",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "Everything is overpriced. There’s a reason why only Panda and Chick Fil A have people in line. Also I hate going to school here",
+    "Star_Rating": 1,
+    "Author": "Jerry Smit",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_41",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-02-25 02:47:47",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "mister sigma",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_42",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-02-18 16:01:42",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Sang Won YOON",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": [
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9ptORKX3uCAuiLSUzTdGpUAWh38Vu6TeHfgWMTPGwc1mqeQDthqF6eFJFWpjTvBPERoTXpWUYeoAIgeXahg9sjlSsjoXyHyLgj8jt8kexJm2SxAu0h2O2Mq17nriaT7LPHB7Pnlt",
+      "https://lh3.googleusercontent.com/geougc-cs/ABOP9pskokiwCPTmg9909dyBYs_F12D0q7N0yX3qvXdo6vAm688kiI0zHKTJzFZoZ45-1OyzcAcJf-o-ue_SJzPEDixTPqhfx3iaZNEfmJfysQNHx2v0cHG0kTEuGtH0mnjm1ltvU1bvtQ"
+    ]
+  },
+  {
+    "Unique_ID": "G_GT_4_43",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-02-18 13:45:36",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "장문회",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_44",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-02-10 01:03:44",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Sean Park",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_45",
+    "Source": "Google Reviews",
+    "Timestamp": "2023-01-13 15:00:19",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "The renovated student center opened in summer 2022. The new space has great light, but they bizarrely decided to decrease the already-limited dining options in the renovation. I have yet to get any remotely edible food from the 2nd-floor cafeteria. The Mexican place is particularly awful. The Chick-fil-A and Panda Express on the first floor are good, but this renovation wasted an opportunity to improve GT's longstanding weakness in dining options.",
+    "Star_Rating": 1,
+    "Author": "Quintin Kreth",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_46",
+    "Source": "Google Reviews",
+    "Timestamp": "2019-02-13 18:50:36",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 4,
+    "Author": "Kai Vong",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_47",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-12-23 20:54:36",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Alv",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_48",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-12-14 20:05:26",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Zhuangdi Xu (Andy)",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_49",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-12-14 17:24:07",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Deepak Shah",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_50",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-11-28 17:45:50",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Eric Phan",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_51",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-11-27 16:30:51",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "Lots of important services/resources, but it can be very crowded at times and would benefit from renovation/expansion to better serve the demand, especially around midday and lunchtime.",
+    "Star_Rating": 4,
+    "Author": "Quentin Miller",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_52",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-11-20 00:18:43",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Hanying Pan",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_53",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-11-18 00:40:31",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Sam Carson",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_54",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-10-12 21:22:55",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "Flawless",
+    "Star_Rating": 5,
+    "Author": "An Wan Ching",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_55",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-09-10 20:49:14",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Indiana",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_56",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-09-10 14:27:27",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Ian Winrow",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_57",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-09-05 15:18:52",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Eduardo Trunci",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_58",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-08-25 00:22:13",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Samir Mehta",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_59",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-08-24 15:26:06",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Noe DSDL",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_60",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-08-20 15:57:48",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Ally Liu",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_61",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-08-01 00:19:29",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "The Student Center looks nice, but the so-called \"New York\" pizza at Ray's is disgusting.  The only reason you could possibly call it New York-style is due to its general shape.  My son had a cheese slice, and the cheese had neither the taste nor the consistency of mozzarella (or any cheese, for that matter).  I had a slice of Hawaiian.  It suffered from the same cheese, but they added pineapple and ham that was like eating small patches of leather.  One of the ham pieces was so tough that I honestly worried that there might be a piece of plastic melted on to it.  I saw that there was no line at Ray's, but a big line at the taco place.  I would suggest you try that place instead.  I left five stars for the Student Center, but the pizza is a zero!  Note: Service was good.  I hope the staff finds work at a better pizzeria.",
+    "Star_Rating": 5,
+    "Author": "John Miller",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_62",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-07-10 14:03:07",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Victoria Thornton",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_63",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-07-08 21:35:38",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Azlan Shah Abdul Jalil",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_64",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-07-05 18:33:27",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Akhlaque Haque",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_65",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-06-28 16:01:52",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "Tons of selection",
+    "Star_Rating": 5,
+    "Author": "Marco Newman",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_66",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-06-03 19:11:59",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "George W.",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_67",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-05-19 16:08:15",
+    "Time_Period": "Spring Finals",
+    "Title": "",
+    "Text": "The center is nice for studying and social times.  Plenty room to telax, gather information, buy tickets and more.  Now they offer Notary services.  Vending machine plentiful.",
+    "Star_Rating": 5,
+    "Author": "Narwanna el-Shabazz",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_68",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-04-27 15:58:08",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 2,
+    "Author": "Shannon Lavette",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_69",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-04-23 23:59:03",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "Favorite place to eat, nervous about upcoming renovations though.",
+    "Star_Rating": 5,
+    "Author": "Grant Champagne",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_70",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-04-15 13:35:41",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "Wonderful Facility",
+    "Star_Rating": 5,
+    "Author": "Alda Wright",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_71",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-04-11 21:35:15",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Subrat Nayak",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_72",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-04-03 17:53:28",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Cordero Curry",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_73",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-03-19 17:56:50",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "Lot of eateries, rec spot, and two filtered water stations",
+    "Star_Rating": 5,
+    "Author": "Marcus Taylor",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_74",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-03-14 06:03:03",
+    "Time_Period": "Spring Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Caleb Merritt",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_75",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-02-13 14:14:22",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "James Johnson",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_76",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-02-05 21:14:14",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 4,
+    "Author": "Alik Z",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_77",
+    "Source": "Google Reviews",
+    "Timestamp": "2018-01-19 16:43:34",
+    "Time_Period": "Spring Semester",
+    "Title": "",
+    "Text": "UPDATE: Staff seem more polite now and the post office hours are getting extended, which is nice. Only issue is that packages are taking FOREVER to get processed for some reason. Average wait time for a package to get processed is about 2 days.\n\nThe post offices closes randomly and frequently for holidays, both real and not, even when there are still classes. Staff are extremely rude and call my printed name \"illegible\". Have to just take my package and walk away or I'll have to rewrite my name three or four times.",
+    "Star_Rating": 3,
+    "Author": "Joshua Crane",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_78",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-11-29 02:38:46",
+    "Time_Period": "Fall Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Michael Xu",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_79",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-10-08 04:32:41",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "It's nice.",
+    "Star_Rating": 5,
+    "Author": "Erica Raven",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_80",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-09-30 17:50:45",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 4,
+    "Author": "Yudhi Nugraha",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_81",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-08-29 21:34:01",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 4,
+    "Author": "Vivian Lee",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_82",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-08-15 16:46:53",
+    "Time_Period": "Fall Semester",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Hassan Attarchi (Roy)",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_83",
+    "Source": "Google Reviews",
+    "Timestamp": "2017-06-15 12:32:39",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "Posted hours are not even close!!",
+    "Star_Rating": 1,
+    "Author": "Thomas Read",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_84",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-10-03 18:52:02",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "It exists.",
+    "Star_Rating": 5,
+    "Author": "Albert Lee",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_85",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-09-30 18:03:19",
+    "Time_Period": "Fall Midterms",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Pranav Bohra",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_86",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-06-03 11:17:25",
+    "Time_Period": "Other",
+    "Title": "",
+    "Text": "Great Service, Great Food Keep it Up",
+    "Star_Rating": 5,
+    "Author": "Yusuf Dodson",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
+  },
+  {
+    "Unique_ID": "G_GT_4_87",
+    "Source": "Google Reviews",
+    "Timestamp": "2016-05-22 21:01:12",
+    "Time_Period": "Spring Finals",
+    "Title": "",
+    "Text": "",
+    "Star_Rating": 5,
+    "Author": "Antony Panikulam",
+    "School": "Georgia Tech",
+    "Location": "Student Center",
+    "Photo_Urls": []
   }
 ]
