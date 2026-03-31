@@ -3,7 +3,8 @@ import json
 from pathlib import Path
 
 # Load raw scraped JSON
-input_file = "google_reviews_data/googlereviews_Georgia-Tech_part2.json"
+
+input_file = "reddit_reviews_data/redditreviews_UNC.json"
 
 with open(input_file, "r", encoding="utf-8") as f:
     data = json.load(f)
@@ -11,7 +12,7 @@ with open(input_file, "r", encoding="utf-8") as f:
 df = pd.json_normalize(data)
 
 # Convert timestamp to datetime
-df["publishedAtDate"] = pd.to_datetime(df["publishedAtDate"], errors="coerce")
+df["Timestamp"] = pd.to_datetime(df["Timestamp"], errors="coerce")
 
 
 # -------- Time Period Function --------
@@ -42,20 +43,24 @@ def assign_time_period(date):
 
     return "Other"
 
-df["Time_Period"] = df["publishedAtDate"].apply(assign_time_period)
+df["Time_Period"] = df["Timestamp"].apply(assign_time_period)
 
 
 # -------- Build cleaned dataframe --------
+# Clean empty text FIRST
+df = df[df["Text"].notna() & (df["Text"].str.strip() != "")]
+df = df.reset_index(drop=True)
+
 clean_df = pd.DataFrame({
-    "Source": "Google Reviews",
-    "Timestamp": df["publishedAtDate"].dt.strftime("%Y-%m-%d %H:%M:%S"),
-    "Title": "",
-    "Text": df["text"].fillna(""),
-    "Star_Rating": df["stars"],
-    "Author": df["name"],
-    "School": "Georgia Tech",
-    "Location": df["title"],
-    "Photo_Urls": df["reviewImageUrls"].apply(
+    "Source": df["Source"],
+    "Timestamp": df["Timestamp"].dt.strftime("%Y-%m-%d %H:%M:%S"),
+    "Title": df["Title"].fillna(""),
+    "Text": df["Text"].fillna(""),   
+    "Star_Rating": None,
+    "Author": df["Author"],          
+    "School": "UNC",
+    "Location": df["Location"],     
+    "Photo_Urls": df["Photo_Urls"].apply(
         lambda x: x if isinstance(x, list) else []
     ),
     "Time_Period": df["Time_Period"]
@@ -68,8 +73,8 @@ def create_unique_id(row_index, source, school):
     return f"{source_code}_{school_code}_{row_index:05d}"
 
 clean_df["Unique_ID"] = [
-    create_unique_id(i + 1, clean_df.loc[i, "Source"], clean_df.loc[i, "School"])
-    for i in range(len(clean_df))
+    create_unique_id(i + 1, row["Source"], row["School"])
+    for i, row in clean_df.iterrows()
 ]
 
 # Reorder columns
@@ -88,10 +93,10 @@ clean_df = clean_df[[
 ]]
 
 # Save JSON
-output_dir = Path("cleaned_google_reviews")
+output_dir = Path("cleaned_reddit_reviews")
 output_dir.mkdir(parents=True, exist_ok=True)
 
-output_file = output_dir / "cleaned_googlereviews_GATECH_part2.json"
+output_file = output_dir / "cleaned_redditreviews_UNC.json"
 clean_df.to_json(output_file, orient="records", indent=2)
 
 print(f"Saved cleaned dataset to {output_file}")
