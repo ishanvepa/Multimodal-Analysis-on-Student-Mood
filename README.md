@@ -18,3 +18,64 @@ then run
 ```python
 python place_perception.py
 ```
+
+### Topic Modeling (BERTopic)
+
+Now we use [BERTopic](https://maartengr.github.io/BERTopic/) to discover themes in Reddit posts from each school.
+
+#### Planned analyses
+
+- **Analysis 1 — Topics first, then emotions within each topic.** Fit one topic model on all posts, then look at the emotion distribution per topic.
+  - Q1: Which topics are most strongly associated with anxiety, anger, sadness, etc.?
+  - Q2: Are certain topics emotionally homogeneous, or emotionally mixed?
+- **Analysis 2 — Emotions first, then topics within each emotion.** Split posts by emotion label, then fit a topic model per subset.
+  - Q1: What major themes appear in Reddit posts expressing a given emotion?
+
+#### How BERTopic works
+
+Quoting the original paper: *"BERTopic generates topic representations through three steps. First, each document is converted to its embedding representation using a pre-trained language model. Then, before clustering these embeddings, the dimensionality of the resulting embeddings is reduced to optimize the clustering process. Lastly, from the clusters of documents, topic representations are extracted using a custom class-based variation of TF-IDF."*
+
+The pipeline of BERTopic:
+
+1. **Embed** each document with a pre-trained sentence transformer (the default `all-MiniLM-L6-v2` ).
+2. **Reduce dimensionality** of the embeddings with UMAP so clustering is tractable.
+3. **Cluster** the reduced embeddings with HDBSCAN. Each cluster becomes a candidate topic.
+4. **Label topics** with a class-based TF-IDF (c-TF-IDF): for each cluster, `CountVectorizer` builds a bag-of-words, and c-TF-IDF picks the terms that are most distinctive for that cluster versus all others. This is how we get the keywords you see per topic.
+
+#### Running the script
+
+The script is [`bertopic_reddit.py`](bertopic_reddit.py). Unzip the reddit review files and modify the [`file_source`](bertopic_reddit.py#L8) if needed. Currently, I concatenate each post's `Title` and `Text`, and fits BERTopic on the full set of non-empty reviews.
+
+Run:
+```bash
+python bertopic_reddit_gatech.py
+```
+
+Outputs:
+- `bertopic_topic_info.csv` — one row per topic with size and top keywords
+- `bertopic_doc_topics.csv` — each input document with its assigned topic
+- `bertopic_topics_viz.html` — interactive topic distance map
+- `bertopic_barchart.html` — top words per topic as a bar chart
+
+#### Params worth tuning
+
+All of these live in `bertopic_reddit_gatech.py`:
+
+- `CountVectorizer(stop_words="english", ngram_range=(1, 2))`
+  - `stop_words`: removes common English words from the topic *labels* (not from clustering).
+  - `ngram_range`: `(1, 2)` means topic keywords can be unigrams *or* bigrams (e.g. `"machine learning"` as a single term). Widen to `(1, 3)` for longer phrases.
+- `BERTopic(...)` arguments:
+  - `nr_topics`: final number of topics. Currently hard-coded to `30`; set to `"auto"` to let HDBSCAN decide, or pick a smaller/larger integer.
+  - `min_topic_size`: minimum number of documents that can form a topic. Larger values → fewer, coarser topics. Smaller values → more, finer-grained topics (but also more noise).
+  - `top_n_words`: how many keywords to keep per topic representation.
+  - `embedding_model`: defaults to `all-MiniLM-L6-v2`. Swap to `all-mpnet-base-v2` for higher-quality embeddings at the cost of speed.
+
+#### TODOs
+
+1. **Text preprocessing.** The raw Reddit dump produces topic keywords full of gibberish and school-generic terms (`gatech`, `r/gatech`, `GT`, etc.). Need a cleaning pass, can consider
+- Deleted/removed posts ([deleted], [removed]) and bot messages (AutoModerator)
+- URLs, markdown (**bold**, >quotes)
+- Very short posts (< ~10 tokens) — HDBSCAN can struggle to place them and they inflate the noise cluster (topic -1).
+- Near-duplicates — common on Reddit (reposts, cross-posts, auto-replies). Dedup before fitting.
+2. **LLM topic labeling.** Keyword lists are hard to read. Plan to feed each topic's keyword list into an LLM to synthesize a short, human-readable topic name (e.g. `["exam", "study", "final", "grade"]` → `"Exams and studying"`) or a one-sentence description. Could also consider adding representative documents per topic in the prompt?
+3. **noise cluster (topic -1)**. It looks like HDBSCAN routinely 30–60% of documents there, those documents may either need to be excluded or reassigned (e.g. topic_model.reduce_outliers).
