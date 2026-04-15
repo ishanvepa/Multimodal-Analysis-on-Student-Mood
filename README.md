@@ -6,7 +6,7 @@ Filename: G_{school}\_{index of the google review file}\_{index of the review in
 
 ### Place perception
 ```bash
-pip install zensvi 1.4.7
+pip install zensvi==1.4.7
 ```
 
 in line 275 of `{your site-packages path}/zensvi/cv/classification/perception.py` add this line, otherwise, models will not be successfully loaded
@@ -22,6 +22,9 @@ python place_perception.py
 ### Topic Modeling (BERTopic)
 
 Now we use [BERTopic](https://maartengr.github.io/BERTopic/) to discover themes in Reddit posts from each school.
+```bash
+pip install bertopic
+```
 
 #### Planned analyses
 
