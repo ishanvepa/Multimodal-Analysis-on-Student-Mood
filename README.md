@@ -47,11 +47,11 @@ The pipeline of BERTopic:
 
 #### Running the script
 
-The script is [`bertopic_reddit.py`](bertopic_reddit.py). Unzip the reddit review files and modify the [`file_source`](bertopic_reddit.py#L8) if needed. Currently, I concatenate each post's `Title` and `Text`, and fits BERTopic on the full set of non-empty reviews.
+The script is [`bertopic_pipeline.py`]. Currently, I concatenate each post's `Title` and `Text`, and fits BERTopic on the full set of non-empty reviews.
 
 Run:
 ```bash
-python bertopic_reddit_gatech.py
+python bertopic_pipeline.py UNC # or python bertopic_pipeline.py GATECH
 ```
 
 Outputs:
@@ -62,7 +62,7 @@ Outputs:
 
 #### Params worth tuning
 
-All of these live in `bertopic_reddit_gatech.py`:
+All of these live in `bertopic_pipeline.py`:
 
 - `CountVectorizer(stop_words="english", ngram_range=(1, 2))`
   - `stop_words`: removes common English words from the topic *labels* (not from clustering).
@@ -75,10 +75,14 @@ All of these live in `bertopic_reddit_gatech.py`:
 
 #### TODOs
 
-1. **Text preprocessing.** The raw Reddit dump produces topic keywords full of gibberish and school-generic terms (`gatech`, `r/gatech`, `GT`, etc.). Need a cleaning pass, can consider
-- Deleted/removed posts ([deleted], [removed]) and bot messages (AutoModerator)
-- URLs, markdown (**bold**, >quotes)
-- Very short posts (< ~10 tokens) — HDBSCAN can struggle to place them and they inflate the noise cluster (topic -1).
-- Near-duplicates — common on Reddit (reposts, cross-posts, auto-replies). Dedup before fitting.
-2. **LLM topic labeling.** Keyword lists are hard to read. Plan to feed each topic's keyword list into an LLM to synthesize a short, human-readable topic name (e.g. `["exam", "study", "final", "grade"]` → `"Exams and studying"`) or a one-sentence description. Could also consider adding representative documents per topic in the prompt?
-3. **noise cluster (topic -1)**. It looks like HDBSCAN routinely 30–60% of documents there, those documents may either need to be excluded or reassigned (e.g. topic_model.reduce_outliers).
+1. **Text preprocessing.** Most of this is done in `bertopic_pipeline.py`:
+  - Done:
+    - `[deleted]` / `[removed]` posts filtered
+    - AutoModerator / bot messages filtered via `BOT_PATTERNS`
+    - URLs, markdown (`**bold**`, `>quotes`), `/u/user`, `/r/sub` stripped
+    - HTML entities (`&amp;`, `&gt;`, `&#x200b;`) decoded
+    - Very short posts (< 5 tokens) dropped
+    - School-specific stopwords (`gatech`, `gt`, `georgia`, `tech`, `unc`, `tarheel`, …) via `SCHOOL_STOPWORDS`
+
+  - TODO: **Near-duplicate deduplication** — reposts, crossposts, auto-replies still leak through and inflate certain clusters.
+2. **LLM topic labeling.** Keyword lists are hard to read. Plan to feed each topic's keyword list + representative documents into an LLM (gpt-oss via Ollama) to synthesize a short, human-readable topic name (e.g. `["exam", "study", "final", "grade"]` → `"Exams and studying"`) and a one-sentence description.
