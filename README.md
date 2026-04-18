@@ -54,11 +54,20 @@ Run:
 python bertopic_pipeline.py UNC # or python bertopic_pipeline.py GATECH
 ```
 
-Outputs:
-- `bertopic_topic_info.csv` — one row per topic with size and top keywords
-- `bertopic_doc_topics.csv` — each input document with its assigned topic
-- `bertopic_topics_viz.html` — interactive topic distance map
-- `bertopic_barchart.html` — top words per topic as a bar chart
+Outputs (written to `bertopic_outputs_{SCHOOL}/`):
+- `topic_info.csv` — one row per topic with size, top keywords, and 3 centroid-closest representative docs
+- `doc_topics.csv` — every input document with its assigned topic and metadata (timestamp, emotion, author, …)
+- `topics_viz.html` — interactive topic distance map
+- `barchart.html` — top words per topic as a bar chart
+
+Topic **names** are produced separately by `llm_topic_labeling.py` (see below). To build a doc-level table with human-readable topic names, join `doc_topics.csv` with `LLM_topics.csv` on the `topic` column:
+
+```python
+import pandas as pd
+docs  = pd.read_csv("bertopic_outputs_GATECH/doc_topics.csv")
+names = pd.read_csv("bertopic_outputs_GATECH/LLM_topics.csv")
+df = docs.merge(names[["topic", "llm_name", "llm_description"]], on="topic", how="left")
+```
 
 #### Params worth tuning
 
@@ -85,4 +94,9 @@ All of these live in `bertopic_pipeline.py`:
     - School-specific stopwords (`gatech`, `gt`, `georgia`, `tech`, `unc`, `tarheel`, …) via `SCHOOL_STOPWORDS`
 
   - TODO: **Near-duplicate deduplication** — reposts, crossposts, auto-replies still leak through and inflate certain clusters.
-2. **LLM topic labeling.** Keyword lists are hard to read. Plan to feed each topic's keyword list + representative documents into an LLM (gpt-oss via Ollama) to synthesize a short, human-readable topic name (e.g. `["exam", "study", "final", "grade"]` → `"Exams and studying"`) and a one-sentence description.
+2. **LLM topic labeling.** (Done):
+Generate human-readable topic names and descriptions from BERTopic outputs (topic keywords, representative docs, and randomly sampled docs (so it doesn't get too specific on the representative posts))
+using gpt-oss served via Ollama.
+- Reads:  bertopic_outputs_{SCHOOL}/topic_info.csv
+- Writes: bertopic_outputs_{SCHOOL}/LLM_topics.csv
+

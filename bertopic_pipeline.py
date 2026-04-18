@@ -184,47 +184,8 @@ except Exception as e:
     print(f"Skipped bar chart viz: {e}")
 
 
-# ================================
-# TOPIC NAMING (CLEAN VERSION)
-# ================================
-def make_topic_name(keywords):
-    words = [w for w, _ in keywords[:5]]
-
-    if any("housing" in w or "roommate" in w for w in words):
-        return "Housing & Roommates"
-    if any("grade" in w or "gpa" in w for w in words):
-        return "Grades & GPA"
-    if any("club" in w or "friend" in w for w in words):
-        return "Clubs & Social Life"
-    if any("parking" in w for w in words):
-        return "Parking & Transportation"
-    if any("admission" in w or "transfer" in w for w in words):
-        return "Admissions & Transfers"
-    if any("graduation" in w or "commencement" in w for w in words):
-        return "Graduation"
-    if any("ticket" in w or "event" in w for w in words):
-        return "Events"
-
-    return "Other Student Discussions"
-
-
-topic_labels = {}
-
-for t in topic_model.get_topic_info()["Topic"]:
-    if t == -1:
-        continue
-    topic_labels[t] = make_topic_name(topic_model.get_topic(t))
-
-
-# APPLY LABELS
-topic_model.set_topic_labels(topic_labels)
-
-df["topic_name"] = df["topic"].map(topic_labels)
-
-
-# ================================
-# SAVE FINAL DATASET FOR DASHBOARD
-# ================================
-df.to_csv(out_dir / "dashboard_data.csv", index=False)
+# Topic names are produced separately by llm_topic_labeling.py.
+# To get a doc-level table with human-readable topic names, merge
+# doc_topics.csv with LLM_topics.csv on the `topic` column.
 
 print("Pipeline complete")
