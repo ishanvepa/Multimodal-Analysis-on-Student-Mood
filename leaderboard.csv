@@ -1,0 +1,59 @@
+school,topic,llm_name,count
+GATECH,0,Academic Programs,41577
+GATECH,1,Campus Life & Services,21965
+GATECH,2,Athletics & Sports,8665
+GATECH,3,Political Activism & Rallies,5345
+GATECH,4,Campus Transportation,5083
+GATECH,5,Information Technology,3716
+GATECH,6,Social Life & Relationships,3128
+GATECH,7,Community & Culture,1972
+GATECH,8,Student Health & Insurance,1659
+GATECH,9,Safety & Emergency Preparedness,1477
+GATECH,10,Campus Pets,1442
+GATECH,11,Housing & Renovations,999
+GATECH,12,Student Life & Culture,974
+GATECH,13,AI & Academic Integrity,855
+GATECH,14,Campus Recreation & Fitness,700
+GATECH,15,Student Life,629
+GATECH,16,Film & Media,428
+GATECH,17,Fraternity & Sorority Life,324
+GATECH,18,Hair & Grooming,282
+GATECH,19,Study Habits & Time,431
+GATECH,20,Weather & Climate,194
+GATECH,21,Sports & Athletics,170
+GATECH,22,Finance & Economics,111
+GATECH,23,Campus Architecture,143
+GATECH,24,Personal Finance,200
+GATECH,25,Career & Employment,89
+GATECH,26,Dining & Food,43
+GATECH,27,Sports & Athletics,66
+GATECH,28,Engineering & Design,122
+UNC,0,Academics & Course Planning,46683
+UNC,1,Housing & Parking,15629
+UNC,2,Campus Politics & Safety,3787
+UNC,3,Athletics & Sports,2682
+UNC,4,Greek Life & Socializing,2573
+UNC,5,Academic Affairs,2056
+UNC,6,Deleted & Anonymized Posts,1944
+UNC,7,Graduation Attire,1517
+UNC,8,Safety & Security,1649
+UNC,9,Administration & Athletics,840
+UNC,10,Safety & Animal Incidents,408
+UNC,11,Health & Medical Care,413
+UNC,12,Branding & Identity,397
+UNC,13,Anime & Fandom,298
+UNC,14,Housing & Facilities,260
+UNC,15,Student Government,421
+UNC,16,Transportation & Transit,328
+UNC,17,Student Conduct & Honor Court,246
+UNC,18,Politics & Government,206
+UNC,19,Health & Safety,177
+UNC,20,Career & Employment,175
+UNC,21,Lost & Found,215
+UNC,22,Campus Traditions,142
+UNC,23,Campus Etiquette,128
+UNC,24,Race & Identity,122
+UNC,25,Celebrity Scandals,30
+UNC,26,Campus Politics,101
+UNC,27,Dining & Food,76
+UNC,28,Computer Science Courses,243
