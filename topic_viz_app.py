@@ -1,11 +1,11 @@
 import pandas as pd
 import streamlit as st
-import os
 import matplotlib.pyplot as plt
 import numpy as np
 import textwrap
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
+from pathlib import Path
 
 st.set_page_config(page_title="Reddit Topic Explorer", layout="wide")
 
@@ -14,12 +14,12 @@ st.title("📊 Reddit Topic Explorer (GT vs UNC BERTopic)")
 # ================================
 # LOAD DATA FUNCTION
 # ================================
-base = "/Applications/Extra /Masters Documentation/GA Tech MASTERS/Spring 2026/Social Computing/Group Project/GP Data/Multimodal-Analysis-on-Student-Mood"
+ROOT_DIR = Path(__file__).resolve().parent
 
 @st.cache_data
 def load_school_data(school):
-    docs = pd.read_csv(os.path.join(base, f"bertopic_outputs_{school}", "doc_topics.csv"))
-    topics = pd.read_csv(os.path.join(base, f"bertopic_outputs_{school}", "LLM_topics.csv"))
+    docs = pd.read_csv(ROOT_DIR / f"bertopic_outputs_{school}" / "doc_topics.csv")
+    topics = pd.read_csv(ROOT_DIR / f"bertopic_outputs_{school}" / "LLM_topics.csv")
 
     df = docs.merge(
         topics[["topic", "llm_name", "llm_description"]],

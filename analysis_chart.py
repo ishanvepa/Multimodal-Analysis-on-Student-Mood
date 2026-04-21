@@ -1,7 +1,7 @@
 import pandas as pd
-import os
 import matplotlib.pyplot as plt
 import seaborn as sns
+from pathlib import Path
 
 print("Running GT vs UNC topic analysis pipeline...")
 
@@ -9,7 +9,7 @@ print("Running GT vs UNC topic analysis pipeline...")
 # 1. LOAD AND MERGE DATA
 # =========================
 
-base = "/Applications/Extra /Masters Documentation/GA Tech MASTERS/Spring 2026/Social Computing/Group Project/GP Data/Multimodal-Analysis-on-Student-Mood"
+ROOT_DIR = Path(__file__).resolve().parent
 schools = ["GATECH", "UNC"]
 
 all_docs = []
@@ -17,13 +17,13 @@ topic_maps = []
 
 for s in schools:
     # doc topics
-    path = os.path.join(base, f"bertopic_outputs_{s}", "doc_topics.csv")
+    path = ROOT_DIR / f"bertopic_outputs_{s}" / "doc_topics.csv"
     docs = pd.read_csv(path)
     docs["school"] = s
     all_docs.append(docs)
 
     # topic names
-    t = pd.read_csv(os.path.join(base, f"bertopic_outputs_{s}", "LLM_topics.csv"))
+    t = pd.read_csv(ROOT_DIR / f"bertopic_outputs_{s}" / "LLM_topics.csv")
     t["school"] = s
     topic_maps.append(t)
 
