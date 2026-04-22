@@ -84,16 +84,15 @@ All of these live in `bertopic_pipeline.py`:
 
 #### TODOs
 
-1. **Text preprocessing.** Most of this is done in `bertopic_pipeline.py`:
-  - Done:
+1. **Text preprocessing.** Done in `bertopic_pipeline.py`:
     - `[deleted]` / `[removed]` posts filtered
     - AutoModerator / bot messages filtered via `BOT_PATTERNS`
     - URLs, markdown (`**bold**`, `>quotes`), `/u/user`, `/r/sub` stripped
     - HTML entities (`&amp;`, `&gt;`, `&#x200b;`) decoded
     - Very short posts (< 5 tokens) dropped
     - School-specific stopwords (`gatech`, `gt`, `georgia`, `tech`, `unc`, `tarheel`, …) via `SCHOOL_STOPWORDS`
-
-  - TODO: **Near-duplicate deduplication** — reposts, crossposts, auto-replies still leak through and inflate certain clusters.
+    - Exact + near-duplicate deduplication via MinHash + LSH (Jaccard ≥ 0.85 on 5-word shingles, `datasketch` — install with `pip install datasketch`)
+    - Post vs. comment separation: the scraper propagates a post's Title to every comment. Per-Title, the earliest `Timestamp` is treated as the post (uses `Title + Text`); later records sharing that Title are treated as comments (use `Text` only) so post titles don't bias comment-level topic modeling.
 2. **LLM topic labeling.** (Done):
 Generate human-readable topic names and descriptions from BERTopic outputs (topic keywords, representative docs, and randomly sampled docs (so it doesn't get too specific on the representative posts))
 using gpt-oss served via Ollama.

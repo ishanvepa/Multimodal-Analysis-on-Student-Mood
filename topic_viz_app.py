@@ -1,10 +1,7 @@
+import ast
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
-import numpy as np
-import textwrap
-from sklearn.cluster import KMeans
-from sklearn.preprocessing import StandardScaler
+import plotly.graph_objects as go
 from pathlib import Path
 
 st.set_page_config(page_title="Reddit Topic Explorer", layout="wide")
@@ -18,17 +15,68 @@ ROOT_DIR = Path(__file__).resolve().parent
 
 @st.cache_data
 def load_school_data(school):
-    docs = pd.read_csv(ROOT_DIR / f"bertopic_outputs_{school}" / "doc_topics.csv")
-    topics = pd.read_csv(ROOT_DIR / f"bertopic_outputs_{school}" / "LLM_topics.csv")
+    base = ROOT_DIR / f"bertopic_outputs_{school}"
+    docs = pd.read_csv(base / "doc_topics.csv")
+    llm = pd.read_csv(base / "LLM_topics.csv")
+    info = pd.read_csv(base / "topic_info.csv").rename(columns={"Topic": "topic"})
+
+    meta = llm.merge(
+        info[["topic", "Representative_Docs"]],
+        on="topic", how="left",
+    )
 
     df = docs.merge(
-        topics[["topic", "llm_name", "llm_description"]],
-        on="topic",
-        how="left"
+        meta[["topic", "llm_name", "llm_description", "keywords", "Representative_Docs"]],
+        on="topic", how="left",
     )
 
     df["school"] = school
     return df
+
+
+def _parse_docs(cell):
+    if pd.isna(cell):
+        return []
+    try:
+        v = ast.literal_eval(cell)
+        return v if isinstance(v, list) else [str(v)]
+    except (ValueError, SyntaxError):
+        return []
+
+
+def _truncate(text, limit=220):
+    text = " ".join(str(text).split())
+    return text if len(text) <= limit else text[:limit].rsplit(" ", 1)[0] + "…"
+
+
+def build_hover(keywords_cell, repr_docs_cell, n_kw=5, n_docs=2):
+    """HTML hover text: top-N keywords + N representative posts."""
+    kws = [k.strip() for k in str(keywords_cell).split(",") if k.strip()][:n_kw]
+    docs = _parse_docs(repr_docs_cell)[:n_docs]
+    parts = [f"<b>Top keywords:</b> {', '.join(kws) or '—'}"]
+    for i, d in enumerate(docs, 1):
+        parts.append(f"<b>[{i}]</b> {_truncate(d)}")
+    return "<br><br>".join(parts)
+
+
+def topic_agg(df, school=None):
+    """One row per llm_name with count + hover text."""
+    if school is not None:
+        df = df[df["school"] == school]
+    agg = (
+        df.groupby("llm_name", dropna=False)
+        .agg(
+            count=("topic", "size"),
+            keywords=("keywords", "first"),
+            repr_docs=("Representative_Docs", "first"),
+        )
+        .reset_index()
+        .sort_values("count", ascending=False)
+    )
+    agg["hover"] = agg.apply(
+        lambda r: build_hover(r["keywords"], r["repr_docs"]), axis=1
+    )
+    return agg
 
 
 # ================================
@@ -154,76 +202,75 @@ st.divider()
 # VISUALIZATION
 # ================================
 st.subheader("📊 Distribution")
+st.caption("Hover a bar to see the top keywords and two representative posts.")
+
+TOP_N = 15
 
 if view_type == "Topics":
-    data = df["llm_name"].value_counts().head(15)
+    if mode == "Single School":
+        agg = topic_agg(df).head(TOP_N)
+        fig = go.Figure(
+            go.Bar(
+                x=agg["llm_name"],
+                y=agg["count"],
+                hovertext=agg["hover"],
+                hoverinfo="text",
+                marker_color="steelblue",
+            )
+        )
+        fig.update_layout(
+            title=f"Top {TOP_N} Topics — {school}",
+            yaxis_title="Number of Posts",
+            xaxis_tickangle=-40,
+            height=500,
+            hoverlabel=dict(bgcolor="white", font_size=12, align="left"),
+        )
+        st.plotly_chart(fig, use_container_width=True)
 
-    fig, ax = plt.subplots()
-    data.plot(kind="bar", ax=ax)
-    ax.set_title("Top Topics")
-    ax.set_ylabel("Count")
-    plt.xticks(rotation=45, ha="right")
+    else:
+        # Compare mode: two grouped bars per topic (GT vs UNC), each with its own hover
+        agg_gt = topic_agg(df, "GATECH")
+        agg_unc = topic_agg(df, "UNC")
 
-    st.pyplot(fig)
+        top_names = (
+            df["llm_name"].value_counts().head(TOP_N).index.tolist()
+        )
+        gt = agg_gt.set_index("llm_name").reindex(top_names).reset_index()
+        unc = agg_unc.set_index("llm_name").reindex(top_names).reset_index()
+        gt[["count", "hover"]] = gt[["count", "hover"]].fillna({"count": 0, "hover": "(no posts)"})
+        unc[["count", "hover"]] = unc[["count", "hover"]].fillna({"count": 0, "hover": "(no posts)"})
+
+        fig = go.Figure()
+        fig.add_bar(
+            name="GATECH", x=gt["llm_name"], y=gt["count"],
+            hovertext=gt["hover"], hoverinfo="text", marker_color="#B3A369",
+        )
+        fig.add_bar(
+            name="UNC", x=unc["llm_name"], y=unc["count"],
+            hovertext=unc["hover"], hoverinfo="text", marker_color="#4B9CD3",
+        )
+        fig.update_layout(
+            barmode="group",
+            title=f"Top {TOP_N} Topics — GT vs UNC",
+            yaxis_title="Number of Posts",
+            xaxis_tickangle=-40,
+            height=550,
+            hoverlabel=dict(bgcolor="white", font_size=12, align="left"),
+        )
+        st.plotly_chart(fig, use_container_width=True)
 
 else:
     data = df["theme"].value_counts()
-
-    fig, ax = plt.subplots()
-    data.plot(kind="bar", ax=ax)
-    ax.set_title("Top Themes")
-    ax.set_ylabel("Count")
-    plt.xticks(rotation=45, ha="right")
-
-    st.pyplot(fig)
-
-
-# ================================
-# GT vs UNC COMPARISON (ONLY IN COMPARE MODE)
-# ================================
-if mode == "Compare GT vs UNC":
-    st.subheader("⚖️ GT vs UNC Topic Comparison")
-
-    # ----------------------------
-    # Build comparison table
-    # ----------------------------
-    comp = (
-        df.groupby(["llm_name", "school"])
-        .size()
-        .unstack()
-        .reindex(columns=["GATECH", "UNC"], fill_value=0)
+    fig = go.Figure(
+        go.Bar(x=data.index, y=data.values, marker_color="indianred")
     )
-
-    # keep top topics
-    comp["total"] = comp.sum(axis=1)
-    comp = comp.sort_values("total", ascending=False).head(15)
-    comp = comp.drop(columns=["total"])
-
-    # ----------------------------
-    # Plot
-    # ----------------------------
-    x = np.arange(len(comp.index))
-    width = 0.4
-
-    fig, ax = plt.subplots(figsize=(18, 8))
-
-    ax.bar(x - width/2, comp["GATECH"], width, label="GATECH")
-    ax.bar(x + width/2, comp["UNC"], width, label="UNC")
-
-    wrapped_labels = [textwrap.fill(label, 18) for label in comp.index]
-
-    ax.set_xticks(x)
-    ax.set_xticklabels(wrapped_labels, rotation=0, ha="center")
-
-    ax.set_title("Top 15 Topics: GT vs UNC Comparison")
-    ax.set_xlabel("Topics")
-    ax.set_ylabel("Number of Posts")
-
-    ax.legend()
-    ax.margins(x=0.05)
-
-    plt.tight_layout()
-    st.pyplot(fig)
+    fig.update_layout(
+        title="Top Themes",
+        yaxis_title="Number of Posts",
+        xaxis_tickangle=-30,
+        height=450,
+    )
+    st.plotly_chart(fig, use_container_width=True)
 
 
 # ================================
