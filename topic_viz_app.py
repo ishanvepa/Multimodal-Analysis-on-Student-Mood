@@ -3,6 +3,7 @@ import pandas as pd
 import streamlit as st
 import plotly.graph_objects as go
 from pathlib import Path
+import textwrap
 
 st.set_page_config(page_title="Reddit Topic Explorer", layout="wide")
 
@@ -50,12 +51,19 @@ def _truncate(text, limit=220):
 
 
 def build_hover(keywords_cell, repr_docs_cell, n_kw=5, n_docs=2):
-    """HTML hover text: top-N keywords + N representative posts."""
     kws = [k.strip() for k in str(keywords_cell).split(",") if k.strip()][:n_kw]
     docs = _parse_docs(repr_docs_cell)[:n_docs]
-    parts = [f"<b>Top keywords:</b> {', '.join(kws) or '—'}"]
+
+    # Wrap keywords nicely
+    kw_text = ", ".join(kws)
+    kw_text = "<br>".join(textwrap.wrap(kw_text, width=40))
+
+    parts = [f"<b>Top keywords:</b><br>{kw_text or '—'}"]
+
     for i, d in enumerate(docs, 1):
-        parts.append(f"<b>[{i}]</b> {_truncate(d)}")
+        wrapped = "<br>".join(textwrap.wrap(_truncate(d), width=50))
+        parts.append(f"<b>[{i}]</b> {wrapped}")
+
     return "<br><br>".join(parts)
 
 
@@ -79,6 +87,29 @@ def topic_agg(df, school=None):
     return agg
 
 
+def make_pie(agg, title):
+    fig = go.Figure(
+        go.Pie(
+            labels=agg["llm_name"],
+            values=agg["count"],
+            hovertext=agg["hover"],
+            hoverinfo="text",
+            textinfo="percent+label",
+        )
+    )
+
+    fig.update_layout(
+        title=title,
+        height=550,
+        hoverlabel=dict(
+            bgcolor="white",
+            font_size=12,
+            align="left",
+            namelength=0  # prevents truncation weirdness
+        )
+    )
+
+    return fig
 # ================================
 # SIDEBAR CONTROLS
 # ================================
@@ -207,9 +238,19 @@ st.caption("Hover a bar to see the top keywords and two representative posts.")
 TOP_N = 15
 
 if view_type == "Topics":
+
+    # ----------------------------
+    # SINGLE SCHOOL
+    # ----------------------------
     if mode == "Single School":
         agg = topic_agg(df).head(TOP_N)
-        fig = go.Figure(
+
+        # ========================
+        # 1. BAR CHART (FIRST)
+        # ========================
+        st.subheader("📊 Top Topics")
+
+        fig_bar = go.Figure(
             go.Bar(
                 x=agg["llm_name"],
                 y=agg["count"],
@@ -218,60 +259,101 @@ if view_type == "Topics":
                 marker_color="steelblue",
             )
         )
-        fig.update_layout(
+
+        fig_bar.update_layout(
             title=f"Top {TOP_N} Topics — {school}",
             yaxis_title="Number of Posts",
             xaxis_tickangle=-40,
             height=500,
-            hoverlabel=dict(bgcolor="white", font_size=12, align="left"),
+            hoverlabel=dict(bgcolor="white", font_size=12),
         )
-        st.plotly_chart(fig, use_container_width=True)
 
-    else:
-        # Compare mode: two grouped bars per topic (GT vs UNC), each with its own hover
+        st.plotly_chart(fig_bar, use_container_width=True)
+
+        # ========================
+        # 2. PIE CHART (SECOND)
+        # ========================
+        st.subheader("🥧 Topic Distribution")
+
+        fig_pie = make_pie(agg, f"{school} Topic Distribution")
+        st.plotly_chart(fig_pie, use_container_width=True)
+
+
+
+    # ----------------------------
+    # COMPARE MODE
+    # ----------------------------
+    elif mode == "Compare GT vs UNC":
+
+        # ========================
+        # 1. BAR CHART (FIRST)
+        # ========================
+        st.subheader("📊 Topic Count Comparison")
+
         agg_gt = topic_agg(df, "GATECH")
         agg_unc = topic_agg(df, "UNC")
 
-        top_names = (
-            df["llm_name"].value_counts().head(TOP_N).index.tolist()
-        )
+        top_names = df["llm_name"].value_counts().head(TOP_N).index.tolist()
+
         gt = agg_gt.set_index("llm_name").reindex(top_names).reset_index()
         unc = agg_unc.set_index("llm_name").reindex(top_names).reset_index()
+
         gt[["count", "hover"]] = gt[["count", "hover"]].fillna({"count": 0, "hover": "(no posts)"})
         unc[["count", "hover"]] = unc[["count", "hover"]].fillna({"count": 0, "hover": "(no posts)"})
 
         fig = go.Figure()
         fig.add_bar(
-            name="GATECH", x=gt["llm_name"], y=gt["count"],
-            hovertext=gt["hover"], hoverinfo="text", marker_color="#B3A369",
+            name="GATECH",
+            x=gt["llm_name"],
+            y=gt["count"],
+            hovertext=gt["hover"],
+            hoverinfo="text",
+            marker_color="#B3A369",
         )
         fig.add_bar(
-            name="UNC", x=unc["llm_name"], y=unc["count"],
-            hovertext=unc["hover"], hoverinfo="text", marker_color="#4B9CD3",
+            name="UNC",
+            x=unc["llm_name"],
+            y=unc["count"],
+            hovertext=unc["hover"],
+            hoverinfo="text",
+            marker_color="#4B9CD3",
         )
+
         fig.update_layout(
             barmode="group",
             title=f"Top {TOP_N} Topics — GT vs UNC",
             yaxis_title="Number of Posts",
             xaxis_tickangle=-40,
             height=550,
-            hoverlabel=dict(bgcolor="white", font_size=12, align="left"),
         )
+
         st.plotly_chart(fig, use_container_width=True)
 
-else:
-    data = df["theme"].value_counts()
-    fig = go.Figure(
-        go.Bar(x=data.index, y=data.values, marker_color="indianred")
-    )
-    fig.update_layout(
-        title="Top Themes",
-        yaxis_title="Number of Posts",
-        xaxis_tickangle=-30,
-        height=450,
-    )
-    st.plotly_chart(fig, use_container_width=True)
+        # ========================
+        # 2. PIE CHARTS (SECOND)
+        # ========================
+        st.subheader("🥧 Topic Distribution")
 
+        agg_gt_top = topic_agg(df, "GATECH").head(TOP_N)
+        agg_unc_top = topic_agg(df, "UNC").head(TOP_N)
+
+        st.markdown("### GATECH")
+        st.plotly_chart(make_pie(agg_gt_top, "GATECH"), use_container_width=True)
+
+        st.markdown("### UNC")
+        st.plotly_chart(make_pie(agg_unc_top, "UNC"), use_container_width=True)
+
+        st.markdown(
+            """
+            <style>
+            .js-plotly-plot .hoverlayer .hovertext {
+                max-width: 300px !important;
+                white-space: normal !important;
+            }
+            </style>
+            """,
+            unsafe_allow_html=True
+        )
 
 # ================================
 # DATA TABLE
