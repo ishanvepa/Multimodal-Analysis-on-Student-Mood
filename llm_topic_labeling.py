@@ -117,10 +117,11 @@ def sample_extra_docs(doc_df, topic_id, k, seed=42):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--school", choices=["UNC", "GATECH"], required=True)
+    parser.add_argument("--split", type=str, required=True, choices=["wtitle", "notitle"], help="which text verstion to label (must match the one used in bertopic_pipeline.py)")
     args = parser.parse_args()
 
 
-    out_dir = Path(f"bertopic_outputs_{args.school}")
+    out_dir = Path(f"bertopic_outputs_{args.school}") / args.split
     info_path = out_dir / "topic_info.csv"
     docs_path = out_dir / "doc_topics.csv"
     if not info_path.exists():
