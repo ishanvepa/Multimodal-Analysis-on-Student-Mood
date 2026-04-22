@@ -112,8 +112,7 @@ def clean_text(text):
 SHINGLE_K = 5
 LSH_THRESHOLD = 0.9
 LSH_NUM_PERM = 128
-
-
+DO_NEAR_DEDUP = True
 def minhash_of(text):
     tokens = text.split()
     if len(tokens) < SHINGLE_K:
@@ -166,8 +165,10 @@ for i, d in enumerate(data):
         raw = f"{title} {text_body}".strip()
         is_post = True
     else:
-        # comment (shares title with an earlier record) or orphan (no title)
-        raw = text_body
+        # option 1 : comment only (shares title with an earlier record) or orphan (no title)
+        # raw = text_body
+        # option 2: title + text, should keep dedup threshold high
+        raw, DO_NEAR_DEDUP = f"{title} {text_body}".strip(), False
         is_post = False
 
     text = clean_text(raw)
@@ -181,7 +182,7 @@ for i, d in enumerate(data):
 
     mh = minhash_of(text)
     matches = lsh.query(mh)
-    if matches:
+    if matches and DO_NEAR_DEDUP:
         n_near_dup += 1
         if len(drop_samples) < 20:
             kept_idx = int(matches[0].split("_", 1)[1])
