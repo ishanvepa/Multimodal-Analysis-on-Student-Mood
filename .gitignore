@@ -1,0 +1,5 @@
+downloaded_google_review_photos/
+download_google_review_photos.py
+logs
+run_bertopic.sbatch
+cleaned_reddit_reviews/*.json
