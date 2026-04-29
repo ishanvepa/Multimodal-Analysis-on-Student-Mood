@@ -385,9 +385,9 @@ if view_type == "Emotions":
             marg = emotion_dir / f"margin_{school}.png"
             cols = st.columns(2)
             if img.exists():
-                cols[0].image(str(img), use_column_width=True, caption=f"{school} — Top-1 Emotions")
+                cols[0].image(str(img), width="stretch", caption=f"{school} — Top-1 Emotions")
             if marg.exists():
-                cols[1].image(str(marg), use_column_width=True, caption=f"{school} — Top1–Top2 Margin")
+                cols[1].image(str(marg), width="stretch", caption=f"{school} — Top1–Top2 Margin")
 
             # show top-2/top-3 tables filtered to the school
             top2_csv = emotion_dir / "emotion_top2_by_campus.csv"
@@ -423,8 +423,8 @@ if view_type == "Emotions":
             if img_gt.exists() and img_unc.exists():
                 st.markdown("**Top-1 Emotion Bar Charts (pre-generated)**")
                 cols = st.columns(2)
-                cols[0].image(str(img_gt), use_column_width=True, caption="GATECH — Top-1 Emotions")
-                cols[1].image(str(img_unc), use_column_width=True, caption="UNC — Top-1 Emotions")
+                cols[0].image(str(img_gt), width="stretch", caption="GATECH — Top-1 Emotions")
+                cols[1].image(str(img_unc), width="stretch", caption="UNC — Top-1 Emotions")
 
             # margin histograms
             marg_gt = emotion_dir / "margin_GATECH.png"
@@ -432,8 +432,8 @@ if view_type == "Emotions":
             if marg_gt.exists() and marg_unc.exists():
                 st.markdown("**Top1–Top2 Margin (confidence)**")
                 cols = st.columns(2)
-                cols[0].image(str(marg_gt), use_column_width=True, caption="GATECH margin")
-                cols[1].image(str(marg_unc), use_column_width=True, caption="UNC margin")
+                cols[0].image(str(marg_gt), width="stretch", caption="GATECH margin")
+                cols[1].image(str(marg_unc), width="stretch", caption="UNC margin")
 
             # raw tables for top-2 / top-3 (full)
             top2_csv = emotion_dir / "emotion_top2_by_campus.csv"
