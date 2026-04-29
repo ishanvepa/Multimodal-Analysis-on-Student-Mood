@@ -4,6 +4,7 @@ import streamlit as st
 import plotly.graph_objects as go
 from pathlib import Path
 import textwrap
+import os
 
 st.set_page_config(page_title="Reddit Topic Explorer", layout="wide")
 
@@ -116,7 +117,7 @@ def make_pie(agg, title):
 st.sidebar.header("🔧 Filters")
 
 mode = st.sidebar.radio("Select View Mode", ["Single School", "Compare GT vs UNC"])
-view_type = st.sidebar.radio("Analysis Type", ["Topics", "Themes"])
+view_type = st.sidebar.radio("Analysis Type", ["Topics", "Themes", "Emotions"]) 
 
 
 # ================================
@@ -278,6 +279,8 @@ if view_type == "Topics":
         fig_pie = make_pie(agg, f"{school} Topic Distribution")
         st.plotly_chart(fig_pie, use_container_width=True)
 
+    # Emotion Analysis moved to a dedicated Analysis Type (see below)
+
 
 
     # ----------------------------
@@ -356,6 +359,92 @@ if view_type == "Topics":
         )
 
 # ================================
+# ================================
+# EMOTION ANALYSIS
+if view_type == "Emotions":
+    emotion_dir = ROOT_DIR / "emotions_output"
+    st.subheader("🙂 Emotion Analysis")
+
+    if not emotion_dir.exists():
+        st.info("No `emotions_output` directory found. Run `compute_emotions.py` to generate outputs.")
+    else:
+        if mode == "Single School":
+            st.markdown(f"**Single School — {school}**")
+
+            # Top-1 CSV filtered to selected school
+            top1_csv = emotion_dir / "emotion_top1_by_campus.csv"
+            if top1_csv.exists():
+                em1 = pd.read_csv(top1_csv)
+                em_school = em1[em1["campus"] == school].sort_values("proportion", ascending=False)
+                fig = go.Figure(go.Bar(x=em_school["label"], y=em_school["proportion"], marker_color=("#4B9CD3" if school=="UNC" else "#B3A369")))
+                fig.update_layout(title=f"Top-1 Emotion Proportions — {school}", xaxis_tickangle=-45, height=480)
+                st.plotly_chart(fig, use_container_width=True)
+
+            # show pre-generated images for the school if present
+            img = emotion_dir / f"top1_{school}.png"
+            marg = emotion_dir / f"margin_{school}.png"
+            cols = st.columns(2)
+            if img.exists():
+                cols[0].image(str(img), use_column_width=True, caption=f"{school} — Top-1 Emotions")
+            if marg.exists():
+                cols[1].image(str(marg), use_column_width=True, caption=f"{school} — Top1–Top2 Margin")
+
+            # show top-2/top-3 tables filtered to the school
+            top2_csv = emotion_dir / "emotion_top2_by_campus.csv"
+            top3_csv = emotion_dir / "emotion_top3_by_campus.csv"
+            if top2_csv.exists():
+                st.markdown("**Top-2 Emotion Pairs (counts & proportions)**")
+                st.dataframe(pd.read_csv(top2_csv).query("campus == @school").sort_values("count", ascending=False).head(50))
+            if top3_csv.exists():
+                st.markdown("**Top-3 Emotion Triples (counts & proportions)**")
+                st.dataframe(pd.read_csv(top3_csv).query("campus == @school").sort_values("count", ascending=False).head(50))
+
+        else:  # Compare GT vs UNC
+            st.markdown("**Compare — GATECH vs UNC**")
+
+            top1_csv = emotion_dir / "emotion_top1_by_campus.csv"
+            if top1_csv.exists():
+                em1 = pd.read_csv(top1_csv)
+                try:
+                    pivot = em1.pivot(index="label", columns="campus", values="proportion").fillna(0)
+                    fig_em = go.Figure()
+                    if "GATECH" in pivot.columns:
+                        fig_em.add_bar(name="GATECH", x=pivot.index, y=pivot["GATECH"].values, marker_color="#B3A369")
+                    if "UNC" in pivot.columns:
+                        fig_em.add_bar(name="UNC", x=pivot.index, y=pivot["UNC"].values, marker_color="#4B9CD3")
+                    fig_em.update_layout(barmode="group", title="Top-1 Emotion Proportions — GT vs UNC", xaxis_tickangle=-45, height=520)
+                    st.plotly_chart(fig_em, use_container_width=True)
+                except Exception:
+                    st.write("Could not render Top-1 proportions chart — CSV may be malformed.")
+
+            # side-by-side pre-generated images
+            img_gt = emotion_dir / "top1_GATECH.png"
+            img_unc = emotion_dir / "top1_UNC.png"
+            if img_gt.exists() and img_unc.exists():
+                st.markdown("**Top-1 Emotion Bar Charts (pre-generated)**")
+                cols = st.columns(2)
+                cols[0].image(str(img_gt), use_column_width=True, caption="GATECH — Top-1 Emotions")
+                cols[1].image(str(img_unc), use_column_width=True, caption="UNC — Top-1 Emotions")
+
+            # margin histograms
+            marg_gt = emotion_dir / "margin_GATECH.png"
+            marg_unc = emotion_dir / "margin_UNC.png"
+            if marg_gt.exists() and marg_unc.exists():
+                st.markdown("**Top1–Top2 Margin (confidence)**")
+                cols = st.columns(2)
+                cols[0].image(str(marg_gt), use_column_width=True, caption="GATECH margin")
+                cols[1].image(str(marg_unc), use_column_width=True, caption="UNC margin")
+
+            # raw tables for top-2 / top-3 (full)
+            top2_csv = emotion_dir / "emotion_top2_by_campus.csv"
+            top3_csv = emotion_dir / "emotion_top3_by_campus.csv"
+            if top2_csv.exists():
+                st.markdown("**Top-2 Emotion Pairs (counts & proportions)**")
+                st.dataframe(pd.read_csv(top2_csv).sort_values(["campus", "count"], ascending=[True, False]).head(200))
+            if top3_csv.exists():
+                st.markdown("**Top-3 Emotion Triples (counts & proportions)**")
+                st.dataframe(pd.read_csv(top3_csv).sort_values(["campus", "count"], ascending=[True, False]).head(200))
+
 # DATA TABLE
 # ================================
 st.subheader("📄 Sample Posts")
