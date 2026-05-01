@@ -1,0 +1,539 @@
+# UNC — extreme (topic, emotion) pairs (share(prob>0.3))
+# lift >= 1.5 or <= 0.5
+# 46 pairs total
+
+==========================================================================================
+[UNDER] topic=15: [high] Graduation & Regalia (n=479)  emotion=disappointment  lift=0.17
+-- representative docs --
+  * cap & gown trading post anyone have phd regalia?
+  * cap and gown hey, i completely forgot to get my cap and gown for graduation, and i'm due to graduate in two weeks. does anyone have any cap and gown i can buy from them? thanks
+-- 3 random sampled docs from this topic --
+  [R_UNC_79669] Why do most people wear white dresses for graduation? | The heat plus nips are easier to see
+  [R_UNC_53935] ISO PhD Regalia | I bought it there in person on Thursday so idk for sure but I think so
+  [R_UNC_75665] What kind of clothes should I take for Chapel Hill? | Winters are not that cold here. Summer is hot and humid.
+
+==========================================================================================
+[UNDER] topic=10: [high] Nursing & Healthcare Careers (n=1,013)  emotion=annoyance  lift=0.24
+-- representative docs --
+  * unc nursing can anyone who is applying to the nursing school answer this? on the nursing website, some prereqs are listed and read (fulfilled with nursing courses). does this mean that these do not have to be fulfilled before entering nursing school?
+  * unc nursing i’m currently a first year pre-nursing student at unc. i was wondering if anyone on here is in the nursing school or applied and can help answer a few questions because i feel like my advisor doesn’t know enough specifics about the nursing school and i want to make sure i understand the requirements correctly. the nursing school website lists some pre reqs (like high impact experience,
+-- 3 random sampled docs from this topic --
+  [R_UNC_74285] Any good recommendations for jobs? | Hi! I’m an incoming grad student at UNC and I am looking for RA positions. Is there a database where I can see a list of professors hiring an RA? How did you go about searching for RA positions?
+  [R_UNC_34314] Bookseller Job at Student Stores? | Hey, has anyone ever worked at Student Stores as a bookseller? If so, how did you like it?
+
+What is the pay rate?
+
+Is the job difficult? 
+
+Do you think the social environment is friendly or hostile? 
+
+If you've worked there, please reply!
+  [R_UNC_03935] UNC Health Acceptance rate? | I’ve applied multiple times and never gotten a job despite being licensed in two areas as an undergrad so I wouldn’t bet on it unfortunately. And this is even while personally knowing that they have lost lots of phlebotomists and pharm techs recently.
+
+==========================================================================================
+[OVER] topic=14: [mixed] Mental Health & Well‑Being (n=2,351)  emotion=caring  lift=3.91
+-- representative docs --
+  * mold in dorm need help i have a case of mold (and possibly other allergens) in my dorm that have been making me sick for almost 2 months now. first i was sick most of september, went home from labor day had completely lost my voice from coughing so bad and chest congestion. 3x negative covid tests and no flu, no strep, sick in the hospital because my chest was so congested that i was throwing up s
+  * miserable freshman looking for advice (and to vent) basically title. i'm an out-of-state student without any connection to unc other than getting in and i have just never hated my life more. i've had mental health issues (suicidal ideation, depression, dp/dr, anxiety) my entire life, but i just never imagined it getting this bad. i've lost 15 pounds from stress alone since moving in, i can't sleep
+-- 3 random sampled docs from this topic --
+  [R_UNC_31648] WHY do we have shit due during thanksgiving break? | when a "good" school can't even heat a building when its 40 degrees outside, leaving some students to freeze half to death, maybe it's not as good as you think lol.
+  [R_UNC_78415] I have been suspended and I don't know what to do next. | First of all, I'm really sorry you're in this position. I've been there and it sucks, and can feel really defeating. But! This moment is not going to define you. All hope is not lost, and you can for sure get back on track, or hop on a different track.
+
+  
+I mental healthed my way to academic probation and then suspension when I was in coll
+  [R_UNC_70110] Homesick | I'll also add that you might not make friends right away and that does not mean you're a failure or anything. Sometimes it does take a bit of time to find friends, especially more longer term ones.
+
+==========================================================================================
+[UNDER] topic=5: [mixed] Political & Campus Discourse (n=5,175)  emotion=gratitude  lift=0.28
+-- representative docs --
+  * israel/palestine megathread (repost) new israel/palestine megathread hello! first, on behalf of the mod team, i would like to remind users of the subreddit that we are not only a small team but we are also students and balancing moderating this forum with our own demands. we have been experiencing an extremely rapid and significant increase in activity following protests and police activity on cam
+  * we're seven days from a government shutdown. here's where things stand. - rep. jeff jackson shutdown update the government is set to shut down in seven days. there are two ways to avoid this: we can either pass a budget (which means passing 12 separate funding bills) or pass another temporary extension. in reality, there’s no way the house and senate are going to agree on a full budget in the next
+-- 3 random sampled docs from this topic --
+  [R_UNC_59752] I need crazy UNC lore | That homecoming queen story is hilarious. What year were you there?
+  [R_UNC_51625] UNC Gave Zayden High A Slap On The Wrist For Sexual Misconduct | He was suspended for one semester and got to keep using the athletic facilities. Some sources also alleged that he didn't not follow the restrictions of his probation during that time. As a recent alum, I am greatly disappointed and believe that predators have no place on campus or representing the university.
+  [R_UNC_66942] FEMA Relief | Project 2025 is not a thing. 1000+ are missing or dead and millions have lost everything. Stop politicking and behaving like the republicans you think you’re shitting on.
+
+==========================================================================================
+[UNDER] topic=19: [high] Laptop Grant Program (n=276)  emotion=disappointment  lift=0.30
+-- representative docs --
+  * cci laptop grant insurance does anyone know what does the insurance covers if i got my macbook with the cci grant ?
+  * cci laptop grant its in connect carolina under to do i think
+-- 3 random sampled docs from this topic --
+  [R_UNC_59603] buying a laptop | You don’t even need to buy a laptop if you don’t want.  I don’t know why they insist on making first-years do this dance.  
+
+If you have a laptop made in the past five years, you’re good.  
+
+Should you buy one if you don’t already have one?  Probably.  If you’re in a STEM discipline then this is pretty important. 
+
+Will they kick you out if you don’t have one?  No.  
+
+If you pref
+  [R_UNC_36943] Anybody know where I can print a shipping label on campus? | Thanks y’all! I totally forgot that I could print it on regular paper lol💀💀
+  [R_UNC_76511] Cci grant and laptop for first year | The grant is equal to the price of the cheapest one, you can log in and it will show the prices then subtract that from the one you want.
+
+==========================================================================================
+[UNDER] topic=21: [high] Textbooks & Study Materials (n=275)  emotion=disappointment  lift=0.30
+-- representative docs --
+  * question about pearson/digital delivery i'm a freshman in biol 101. i've been using the pearson etext for the past 3 weeks, and i keep getting emails about my digital delivery access being cut off if i don't pay for the digital content. however, there's nothing shown in my pearson about any deadline or expiration. also, under "purchase options" in pearson, it only shows the options to buy a "loose
+  * can i download a pdf of the biol 101 textbook? do you still have the free pdf copy of campbell biology: concepts & connections 10th edition? i am real need of it. thanks.
+-- 3 random sampled docs from this topic --
+  [R_UNC_29225] Digital delivery textbooks | I’ve gotten bio 201 and 202, maybe email your prof
+  [R_UNC_47196] Chem101 digital delivery | I payed for the Chem101 digital delivery but how do I access it???
+  [R_UNC_21705] drop any book recommendations! | For historical fiction you might like The Alice Network or All the Light We Cannot See. 
+
+Other great books I’ve read recently: Tomorrow and Tomorrow and Tomorrow, The Plot, and Project Hail Mary
+
+==========================================================================================
+[UNDER] topic=12: [high] IT & Account Support (n=837)  emotion=admiration  lift=0.31
+-- representative docs --
+  * letter of recommendation request advice hi everyone, i graduated from unc in 2020 and need a bit of advice. i emailed a few professors for a letter of recommendation for a few graduate programs about 3 weeks ago and did not get a response from anyone which i found strange. i figured it may have been because i emailed them from my personal email rather than my alumni account so i sent a follow-up f
+  * can’t login into mycarolina when i try to log into mycarolina, it says that i have entered an invalid username/password. then when i go to forgot password, it says there is no account associated with my username or password. this is the same issue whether it’s my personal email, unc email or onyen credentials. anyone have suggestions?
+-- 3 random sampled docs from this topic --
+  [R_UNC_71570] Might be a stupid question but how do you add a unc email to gmail on the web? | I have an android phone so it might be different if you have an apple but for me I click my pfp in the top right of the app then scroll down to add another account and from there just select "Exchange and Office 365" at the bottom and put the email in, log-in, and it'll be added :)
+  [R_UNC_85935] am i supposed to make my own onyen account? | yeah you create your own username and password.
+  [R_UNC_35096] eduroam SCEP Enrollment Challenge? | Hey guys. I just got a new iPad and I’m trying to connect to eduroam, but every time I try to download the wifi profile a “SCEP Enrollment Challenge” prompt pops up. It looks like it wants me to type in a password or something, but it doesn’t say anything on any of the UNC info pages. Any ideas?
+
+==========================================================================================
+[UNDER] topic=21: [high] Textbooks & Study Materials (n=275)  emotion=optimism  lift=0.32
+-- representative docs --
+  * question about pearson/digital delivery i'm a freshman in biol 101. i've been using the pearson etext for the past 3 weeks, and i keep getting emails about my digital delivery access being cut off if i don't pay for the digital content. however, there's nothing shown in my pearson about any deadline or expiration. also, under "purchase options" in pearson, it only shows the options to buy a "loose
+  * can i download a pdf of the biol 101 textbook? do you still have the free pdf copy of campbell biology: concepts & connections 10th edition? i am real need of it. thanks.
+-- 3 random sampled docs from this topic --
+  [R_UNC_83339] Looking for UNC Nike (Utility Heat) backpack. New or good condition? | Don't get these and cosplay as an athlete. It's cringey. If you're an athlete, you stand out because of these bags but if not, you are a copycat. Just my thoughts... and its the same with the scooters.
+  [R_UNC_29224] Digital delivery textbooks | I called the book store, and they said that they are sending all of the codes manually, which I think is strange. They have told me they’ll finish deliveries by FDOC, so I’m not worrying as much anymore. As for the grace period, I have heard of sites doing that, but I don’t know which site the eText will even be on. Thanks for the advice, though!
+  [R_UNC_54964] Is the Order of Gimghoul still active and what do they do? | You may be able to find it in the Facebook group if it still exists
+
+==========================================================================================
+[OVER] topic=5: [mixed] Political & Campus Discourse (n=5,175)  emotion=annoyance  lift=3.06
+-- representative docs --
+  * israel/palestine megathread (repost) new israel/palestine megathread hello! first, on behalf of the mod team, i would like to remind users of the subreddit that we are not only a small team but we are also students and balancing moderating this forum with our own demands. we have been experiencing an extremely rapid and significant increase in activity following protests and police activity on cam
+  * we're seven days from a government shutdown. here's where things stand. - rep. jeff jackson shutdown update the government is set to shut down in seven days. there are two ways to avoid this: we can either pass a budget (which means passing 12 separate funding bills) or pass another temporary extension. in reality, there’s no way the house and senate are going to agree on a full budget in the next
+-- 3 random sampled docs from this topic --
+  [R_UNC_08956] Campus advisory | why does the massacre against israelis count as the worst massacre to happen in the western world in ages but not the continuous massacres against palestinians over the years, especially in 2014 when israelis sat in lawn chairs and watched gaza get bombed and clapped every time a bomb was deployed? they quite literally live in the same place lol
+  [R_UNC_07217] Jewish Community at UNC | For the little it may be worth, I and many in my alumni organization support you (you personally and the royal You as in Jewish students who are being targeted and harassed). We are committed to interrupting acts and words of antisemitism and violence wherever we can so students are free to engage in university life safely and peacefully. Be safe and be well.
+  [R_UNC_53366] I am stunned | Unsatisfied UNC Fan, is that you?
+
+==========================================================================================
+[UNDER] topic=15: [high] Graduation & Regalia (n=479)  emotion=annoyance  lift=0.34
+-- representative docs --
+  * cap & gown trading post anyone have phd regalia?
+  * cap and gown hey, i completely forgot to get my cap and gown for graduation, and i'm due to graduate in two weeks. does anyone have any cap and gown i can buy from them? thanks
+-- 3 random sampled docs from this topic --
+  [R_UNC_61607] 2025 graduation regalia | Inflation makes fools of us all.
+  [R_UNC_71130] Dress code | So long as it isn't distracting someone else, nobody really cares.
+
+I wouldn't wear a hat that might block someone's view.  I wouldn't wear clothes that smelled bad.
+
+I wouldn't wear Duke gear.
+  [R_UNC_20351] Where to get class of 2023 merch | As I'm graduating and leaving chapel hill, I kind of want some stuff to take with me as I go into the world. Was wondering if there was any (preferably less expensive) places where I could buy class of 2023 / UNC stuff in general?
+
+==========================================================================================
+[UNDER] topic=6: [high] Course Registration & Waitlists (n=1,854)  emotion=admiration  lift=0.35
+-- representative docs --
+  * can you see how many people are on the waitlist for classes you're not waitlistes for? not stupid, that’s alright. - connectcarolina (cc) is closed for upper class students right now. no one’s actively enrolling or waitlisting things. - you can actually look at this in cc yourself. go to “search” button in cc (you can access this from your student center). look up classes on your own, click the hy
+  * waitlist chances do i have a good chance of getting off the waitlist for this class?
+-- 3 random sampled docs from this topic --
+  [R_UNC_43722] Where do you check when’s your orientation day? | i believe you should’ve gotten a confirmation email when you paid for orientation so do a search of “orientation” in your email and it should hopefully pop up! that will say the dates and obviously confirmed that you paid
+  [R_UNC_49022] Virtual OLI for UNC MAC Questions | Does anyone have experience with UNC MAC program's VIRTUAL Orientation? The first day says it is from 7p-9p and listed as "orientation". It's on a Thursday, and I work that evening so I am worried about having to participate too much. I was hoping to be able to just listen/attend without having to have camera on or talk too much. I wasn't able to get my work sch
+  [R_UNC_47608] Waitlist Question | I think so, majority of the drops comes from the first week as people are either realizing they really don’t like their schedule or they aren’t as prepared as they thought they would be for the class. Honestly worse case you might be able to take it over the summer semester. Wishing you sm luck!!
+
+==========================================================================================
+[UNDER] topic=9: [mixed] Study Abroad & Admissions (n=2,055)  emotion=annoyance  lift=0.36
+-- representative docs --
+  * is doing carolina global launch a major setback? i'm an out of state student who was admitted through the global launch program. for anyone that has done this program, was it harder for you to become a part of the community once on campus in the spring? also, i am interested in applying to kenan-flagler. has anyone heard of it being harder for cgl-accepted students to get into kf?
+  * carolina global launch hi! i was just wondering if anyone here has gone on the carolina global launch semester abroad? if so, what country were you in and what was your experience like? thanks in advance!! 🤍🩵
+-- 3 random sampled docs from this topic --
+  [R_UNC_44057] Insights for a prospective student? | Gillings is my only offer. Tbh I feel like there's a lot of uncertainty in many different schools, so this definitely isn't unique to Carolina. I intend on enrolling here, unless I'm told I need to pay out of pocket. I have a relatively good relationship with my faculty mentor, so I'm kind of hopeful my funding package will turn out decent
+  [R_UNC_84220] I have a doubt regarding my acceptance to UNC AT CHAPEL HILL  | What was your score?
+  [R_UNC_81082] Aussie wanting to study abroad! | Turns out my university is "on hold" with the UNC partnership so it isn't an option anymore, pretty bummed. Wish they would've said that earlier without getting my hopes up.
+
+==========================================================================================
+[UNDER] topic=17: [high] Campus Fitness & Gym Services (n=448)  emotion=disappointment  lift=0.36
+-- representative docs --
+  * lfit 114 for anyone who's taken lfit 114 (yoga and pilates) how was it? what did y'all do?
+  * fitness classes post-lfit?? i remember having a conversation with a friend where i was complaining that once you take your lfit you can't take another exercise/fitness class. i thought it was a great stress reliever and a wonderful class, especially if i could take it without having to do the required online homework too. i'm fairly certain whoever it is i was walking with (i don't remember) told 
+-- 3 random sampled docs from this topic --
+  [R_UNC_81456] Are the tents still up | So that's a no. Carry on.
+  [R_UNC_40923] How busy are UNC gyms? | if i'm going to be honest, the gym is always busy. your best bet of the gym being empty, is if you stay at unc over the summer or if you have free time between classes when students typically have lecture (9a-1p) 
+
+definitely anytime after 5pm in rams or the src will be busy as heck. 
+
+i'm sure the best time to go is in the morning. i try to go to the src as soon as it ope
+  [R_UNC_41970] LFIT 114 | I mean you could use a bathroom I guess? But no I don’t think so
+
+==========================================================================================
+[UNDER] topic=20: [high] Health Insurance & Tuition (n=555)  emotion=admiration  lift=0.37
+-- representative docs --
+  * in-state tuition for graduate students? hello, all, i was recently accepted into the master of social work program at unc. i am currently a virginia resident, and i would be moving to north carolina for this program. during msw information sessions, i was told by two different program staff that getting in-state tuition for your second year, as long as you've lived in the state for a year, is "eas
+  * in-state residency question i am thinking about moving from nc to washington, d.c., but i would still like to retain my in-state status as i am considering applying to pa school in nc in the coming cycle. &#x200b; i am 23 years old and i live in durham, nc. i own a vehicle registered to nc, have an nc driver's license, graduated hs in nc, and have lived here my whole life. my parents are permanent
+-- 3 random sampled docs from this topic --
+  [R_UNC_09914] Has anyone out of state been able to switch residency to in state? | There’s an appeal process but you have to prove that you’re in state 
+
+I was able to reverse it cause I was born in NC and able to show that it was only my parents who lived out of state
+  [R_UNC_05327] Is bloodwork at Campus Health covered with Student Blue? If not, is it expensive? | I have Student Blue insurance and am running out of my thyroid medication. My primary doctor will not refill it again until I see her in person but her office is over 6 hours away on the other side of the state (she is fully aware of that, but insists and will not budge). I don't have a car out here and can not aff
+  [R_UNC_13194] How to Become a Licensed Therapist with Bachelor's Degree? | I gotta be honest, I don’t think being a therapist counselor is a great choice for a part time gig to earn some extra cash, putting aside the education and licensure requirements.
+
+==========================================================================================
+[UNDER] topic=7: [high] Sports Ticket Sales (n=1,384)  emotion=caring  lift=0.37
+-- representative docs --
+  * tickets to unc game tonight anyone want 4 tickets to tonight’s basketball game?
+  * clt student ticket looking for 1 student ticket to the unc football game game on saturday🙏🏼🙏🏼
+-- 3 random sampled docs from this topic --
+  [R_UNC_36463] Standby line for football games? | thanks for your responses! not a fan of the lottery system :/ so many people who actually want to go didn't get tickets this time. previously was it based on time?? like students would just "purchase" tickets when it opened?
+  [R_UNC_87039] What are some UNC chants, inside jokes, phrases, and/or references? | I’m putting together a project that requires a collection of inside jokes, chants, sayings, phrases, mottos, local references, etc. Commonly used as well as deep cuts. What are some used by UNC football and basketball fans?
+  [R_UNC_68142] JMU Game Ticket | hey i have one… was gonna give to my friend but they canceled
+
+==========================================================================================
+[UNDER] topic=25: [high] Pets & Animal Care (n=323)  emotion=disappointment  lift=0.38
+-- representative docs --
+  * nonprofit looking for puppy fosters! have you always wanted a puppy but can't make a 10 year commitment? are you interested in learning more about dog training? do you want to help a person with a disability live a more independent life? eyes ears nose and paws is currently seeking young puppy trainers in the raleigh/durham/chapel hill/hillsborough area! eenp is a non-profit organization that trai
+  * dog tried to attack me at battle park i was out hiking today at battle park and came across a middle aged couple with a large black pit bull. as soon as the dog saw me, it charged at me trying to attack me. it wasn’t on a leash and they were letting it run around the hiking trails aimlessly. when i told them to get their dog as it ran up trying to maul me, they were able to coax it away from me. t
+-- 3 random sampled docs from this topic --
+  [R_UNC_00207] UNC IS TOO SWEET OMG 😭 | I just had to share what I got in the mail today 😭 This is so cute I really cannot rn. There is SO MUCH info in here too!!!
+  [R_UNC_74917] Pet cat in rams? | I know for a fact that she was not approved for the snake unfortunately :( To hide it during room inspections all she did was put a blanket over the tank. I do know of a girl who was approved for a bunny
+  [R_UNC_31364] Are there any dog petting sessions for finals week? | We are keeping updated a calendar of finals support events at https://healthyheels.org/2022/11/28/fall-2022-finals-support/ - This week's puppy petting will be Wednesday outside Davis from 1-3 pm with Therapy Dog Drew and Thursday outside Davis at noon. You can also follow @HappeeNatl on Twitter - it's a group of parents that bring their pups t
+
+==========================================================================================
+[UNDER] topic=7: [high] Sports Ticket Sales (n=1,384)  emotion=approval  lift=0.40
+-- representative docs --
+  * tickets to unc game tonight anyone want 4 tickets to tonight’s basketball game?
+  * clt student ticket looking for 1 student ticket to the unc football game game on saturday🙏🏼🙏🏼
+-- 3 random sampled docs from this topic --
+  [R_UNC_31999] Best places to watch the World Cup in Chapel Hill? | Watched the LD goal against Algeria at Four Corners in 2010
+  [R_UNC_25749] Senior willing to pay for a Duke ticket!!! | Dm
+  [R_UNC_31485] College Cup Tix | Anyone know where to find/scalp tix for women's soccer this coming Friday? All sold out on NCAA links, but nothing showing on StubHub etc... Tickets are only $10, so they shouldn't be that hard to come by. But I can't find them.
+
+==========================================================================================
+[UNDER] topic=25: [high] Pets & Animal Care (n=323)  emotion=curiosity  lift=0.40
+-- representative docs --
+  * nonprofit looking for puppy fosters! have you always wanted a puppy but can't make a 10 year commitment? are you interested in learning more about dog training? do you want to help a person with a disability live a more independent life? eyes ears nose and paws is currently seeking young puppy trainers in the raleigh/durham/chapel hill/hillsborough area! eenp is a non-profit organization that trai
+  * dog tried to attack me at battle park i was out hiking today at battle park and came across a middle aged couple with a large black pit bull. as soon as the dog saw me, it charged at me trying to attack me. it wasn’t on a leash and they were letting it run around the hiking trails aimlessly. when i told them to get their dog as it ran up trying to maul me, they were able to coax it away from me. t
+-- 3 random sampled docs from this topic --
+  [R_UNC_00213] UNC IS TOO SWEET OMG 😭 | omg i am accepted and honors as well. i might see you guys on campus next year!!
+  [R_UNC_04934] Dog tried to attack me at Battle Park | Cracks me up you’re a piece of shit keyboard warrior. Get out of your mom’s basement!
+  [R_UNC_66695] Places With Good Experience Getting a Passport? | 100% make an appointment at a post office and make sure that you have all of the documents listed needed at the USPS website.
+
+==========================================================================================
+[UNDER] topic=8: [high] Student Clubs & Activities (n=1,001)  emotion=annoyance  lift=0.41
+-- representative docs --
+  * every journey has its final day. don't rush. unofficial unc genshin discord hey everyone! as a unc alum, i wanted to post this as someone who used genshin as a stress reliever and to connect with new friends <3 i really enjoy this game so i would love to stay in contact with other fellow unc genshin gamers! a club member of mine created this discord and would love to see y'all there\~ we are not a
+  * unofficial unc genshin discord hey everyone! as a unc alum, i wanted to post this as someone who used genshin as a stress reliever and to connect with new friends <3 i am an absolute addict to this game so i would love to stay in contact with other fellow unc genshin gamers! a club member of mine created this discord and would love to see y'all there\~ we are not affiliated with the e-sports club 
+-- 3 random sampled docs from this topic --
+  [R_UNC_17154] Recommendation of club | You can't really join Greek life if you're only going to be here for a year.
+  [R_UNC_17218] Is it hard to join the volleyball club? | Some club sports actually don’t have tryouts! There are club sports for a variety of experience levels, and it really just depends on the sport and the team whether or not there will be tryouts/how competitive it will be to get into the club.
+  [R_UNC_69539] Keychains and Coozies | How quickly can they be delivered?
+
+==========================================================================================
+[UNDER] topic=16: [mixed] Lost & Found Items (n=400)  emotion=annoyance  lift=0.41
+-- representative docs --
+  * lost keys i lost my keys somewhere on stadium drive this evening and i was wondering if there’s a lost and found or a building where someone might have taken it. also i don’t have a parking pass for stadium drive so i’m worried about all the tickets that might come if i leave it there.
+  * lost keys hi! i lost my keys yesterday, it has a bubble pop black keychain and a grey pepper spray attached to it. pls lmk if u found it !! also i was at the union and took the u to the b school but i’m not sure where i lost it tia
+-- 3 random sampled docs from this topic --
+  [R_UNC_21276] missing one card | I recently lost my one card, it’s decorated with pink stickers if anyone sees it can you let me know!
+  [R_UNC_67337] Looking for a Gengar Card | whistle touch towering cobweb yam butter unused elastic full caption
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*
+  [R_UNC_59092] One Card on an android phone | I don't think the NFC tapping feature is integrated onto Androids yet. I told OneCard office and they gave me a physical for free
+
+==========================================================================================
+[OVER] topic=25: [high] Pets & Animal Care (n=323)  emotion=annoyance  lift=2.39
+-- representative docs --
+  * nonprofit looking for puppy fosters! have you always wanted a puppy but can't make a 10 year commitment? are you interested in learning more about dog training? do you want to help a person with a disability live a more independent life? eyes ears nose and paws is currently seeking young puppy trainers in the raleigh/durham/chapel hill/hillsborough area! eenp is a non-profit organization that trai
+  * dog tried to attack me at battle park i was out hiking today at battle park and came across a middle aged couple with a large black pit bull. as soon as the dog saw me, it charged at me trying to attack me. it wasn’t on a leash and they were letting it run around the hiking trails aimlessly. when i told them to get their dog as it ran up trying to maul me, they were able to coax it away from me. t
+-- 3 random sampled docs from this topic --
+  [R_UNC_03780] Cat Outside Old West Dorm | Mostly black cat? Don't worry, he gets fed better than most people on campus. He's not a stray but comes to campus daily because there is a guy who feeds him well behind Swain Hall.
+  [R_UNC_00786] I have a dog and want to take care of him in college | This was a very very big deal to me as well. Ultimately I’ve chosen to live at home with my dog and commute to campus for class. Doesn’t work for everyone but bringing my dog to an apartment just wasn’t an option because of his large size.
+  [R_UNC_04932] Dog tried to attack me at Battle Park | Real entitlement is thinking the rules don’t apply to you, like these dog owners.
+
+==========================================================================================
+[UNDER] topic=8: [high] Student Clubs & Activities (n=1,001)  emotion=caring  lift=0.44
+-- representative docs --
+  * every journey has its final day. don't rush. unofficial unc genshin discord hey everyone! as a unc alum, i wanted to post this as someone who used genshin as a stress reliever and to connect with new friends <3 i really enjoy this game so i would love to stay in contact with other fellow unc genshin gamers! a club member of mine created this discord and would love to see y'all there\~ we are not a
+  * unofficial unc genshin discord hey everyone! as a unc alum, i wanted to post this as someone who used genshin as a stress reliever and to connect with new friends <3 i am an absolute addict to this game so i would love to stay in contact with other fellow unc genshin gamers! a club member of mine created this discord and would love to see y'all there\~ we are not affiliated with the e-sports club 
+-- 3 random sampled docs from this topic --
+  [R_UNC_77277] I'm here to tell you all that the purpose of university is to educate people so that they can get high-paying jobs that will allow them to afford vintage guitar equipment and guns to prep for the zombies | Im not here to offer unsolicited advice and I didn’t say I had all the answers to financial success, but if you don’t agree with my “contagious” opinion then downvote me like a normal person and
+  [R_UNC_41206] Chem Department Peer Mentor Application for Fall 2022 Semester | Did they just send you an email?
+  [R_UNC_81718] Coming to UNC as a Grad Student | Masters in statistics, analytical and data science
+
+==========================================================================================
+[UNDER] topic=19: [high] Laptop Grant Program (n=276)  emotion=annoyance  lift=0.44
+-- representative docs --
+  * cci laptop grant insurance does anyone know what does the insurance covers if i got my macbook with the cci grant ?
+  * cci laptop grant its in connect carolina under to do i think
+-- 3 random sampled docs from this topic --
+  [R_UNC_75369] Cci laptop ship | bro mine took forever to come last year, i ordered it like in a normal timeframe but then it didn't get to the store until like 1-2 weeks into the school year:( not sure about a home address tho
+
+![gif](giphy|RDSUq6cxQYg24|downsized)
+  [R_UNC_19009] Best iPad for school? | I’d say go for any iPad other than a mini if you’re only looking to take notes with it. I have the iPad Air, but if I could go back, I would’ve purchased an older generation iPad or just the regular iPad instead. An Apple Pencil has its nice features, but I ended up purchasing a $25 Bluetooth pencil from Amazon to save some cash. I would also recommend you purchase during A
+  [R_UNC_47024] 2030 Acceptance Packages | Anyone get their package yet? OOS here
+
+==========================================================================================
+[UNDER] topic=11: [high] Admissions Decisions (n=1,526)  emotion=admiration  lift=0.45
+-- representative docs --
+  * nursing decision question does anyone know when bsn (nursing) decisions usually come out? i know the deadline was in december and they said decisions would come out sometime around march, but i’m getting really anxious waiting. for people who applied in previous years — when did you get your decision? was it mid-march, late march, etc.? also does anyone know if the school of nursing is expanding t
+  * early action admission result date? does anybody have an idea on when early action decisions come out? i’ve heard from some threads on here and current and former unc students that decisions come on the last friday of the month in january. is this the case? if so, is it going to come out today?
+-- 3 random sampled docs from this topic --
+  [R_UNC_60623] What am I considered? | I got a response today and I got accepteddd YAAAAY
+  [R_UNC_44163] UNC Transfer Decision Release Date | it was April 17th last year
+  [R_UNC_83066] Fall Transfer 2024 | Congrats! How did you hear from Penn already?
+
+==========================================================================================
+[UNDER] topic=5: [mixed] Political & Campus Discourse (n=5,175)  emotion=admiration  lift=0.45
+-- representative docs --
+  * israel/palestine megathread (repost) new israel/palestine megathread hello! first, on behalf of the mod team, i would like to remind users of the subreddit that we are not only a small team but we are also students and balancing moderating this forum with our own demands. we have been experiencing an extremely rapid and significant increase in activity following protests and police activity on cam
+  * we're seven days from a government shutdown. here's where things stand. - rep. jeff jackson shutdown update the government is set to shut down in seven days. there are two ways to avoid this: we can either pass a budget (which means passing 12 separate funding bills) or pass another temporary extension. in reality, there’s no way the house and senate are going to agree on a full budget in the next
+-- 3 random sampled docs from this topic --
+  [R_UNC_10896] Please stop saying today was a shooting. | This is an incredible cope, you’re assuming I’m white because I acknowledged that while the commenter was racist in his word choice and intentions, his fact about percentages was correct. I never said white people are superior, there are no enough mass shootings to get a statistically valid sample size, but if you do use the biggest sample size you can, y
+  [R_UNC_80109] POLICE BRUTALITY AT UNC | the least the flag was okay tho!!!!!!
+  [R_UNC_53332] I am stunned | Orthogonal - they are preferring out of state to collect more tuition? Considering all colleges are getting trimmed
+
+==========================================================================================
+[UNDER] topic=20: [high] Health Insurance & Tuition (n=555)  emotion=amusement  lift=0.45
+-- representative docs --
+  * in-state tuition for graduate students? hello, all, i was recently accepted into the master of social work program at unc. i am currently a virginia resident, and i would be moving to north carolina for this program. during msw information sessions, i was told by two different program staff that getting in-state tuition for your second year, as long as you've lived in the state for a year, is "eas
+  * in-state residency question i am thinking about moving from nc to washington, d.c., but i would still like to retain my in-state status as i am considering applying to pa school in nc in the coming cycle. &#x200b; i am 23 years old and i live in durham, nc. i own a vehicle registered to nc, have an nc driver's license, graduated hs in nc, and have lived here my whole life. my parents are permanent
+-- 3 random sampled docs from this topic --
+  [R_UNC_84154] State of NC Internship | You're not alone. I haven't heard anything either :/
+  [R_UNC_44369] Out of state student! | Off topic but how was admitted students day?? I got admitted too but didn’t attend this one :(
+  [R_UNC_50761] Jays Fans on Campus | Hello UNC,
+
+Student at NC State here. I'll be on campus October 31 . . . Any good watch parties? It would be nice to celebrate the first World Series won by Toronto (in our lifetimes) with some other like-minded individuals.
+
+
+
+==========================================================================================
+[UNDER] topic=11: [high] Admissions Decisions (n=1,526)  emotion=annoyance  lift=0.45
+-- representative docs --
+  * nursing decision question does anyone know when bsn (nursing) decisions usually come out? i know the deadline was in december and they said decisions would come out sometime around march, but i’m getting really anxious waiting. for people who applied in previous years — when did you get your decision? was it mid-march, late march, etc.? also does anyone know if the school of nursing is expanding t
+  * early action admission result date? does anybody have an idea on when early action decisions come out? i’ve heard from some threads on here and current and former unc students that decisions come on the last friday of the month in january. is this the case? if so, is it going to come out today?
+-- 3 random sampled docs from this topic --
+  [R_UNC_53717] Project Uplift | congrats!! yes can you please share🙏
+  [R_UNC_08170] Information Science Admission Release Date | I think should be within the next week
+  [R_UNC_61484] Early Action Decision Date | Ya it’s confirmed tmr because UNC just posted a tiktok and an employee said staff got an email that decisions were coming out tmr so it’s likely NC state will follow as well.
+
+==========================================================================================
+[UNDER] topic=17: [high] Campus Fitness & Gym Services (n=448)  emotion=annoyance  lift=0.45
+-- representative docs --
+  * lfit 114 for anyone who's taken lfit 114 (yoga and pilates) how was it? what did y'all do?
+  * fitness classes post-lfit?? i remember having a conversation with a friend where i was complaining that once you take your lfit you can't take another exercise/fitness class. i thought it was a great stress reliever and a wonderful class, especially if i could take it without having to do the required online homework too. i'm fairly certain whoever it is i was walking with (i don't remember) told 
+-- 3 random sampled docs from this topic --
+  [R_UNC_74475] LFIT- when to take? | Do it your first year! It's also very easy so it'll lighten your load a bit for your first year
+  [R_UNC_29972] Personal Training Service | You can register for personal training through [Campus Rec](https://campusrec.unc.edu/program/personal-training/). There is a cost, but it is cheaper for students. I’ve never participated personally.
+  [R_UNC_26696] rock climbing | There are 2 bouldering walls at fetzer, but none at ram’s head. Climbing memberships are just for those who want to climb with the club during practice, but the walls are open to all students. If you’re just interested in bouldering, you don’t need to worry about renting gear either, just walk in, scan your one card, and you’ll be good to climb
+
+==========================================================================================
+[OVER] topic=11: [high] Admissions Decisions (n=1,526)  emotion=optimism  lift=2.15
+-- representative docs --
+  * nursing decision question does anyone know when bsn (nursing) decisions usually come out? i know the deadline was in december and they said decisions would come out sometime around march, but i’m getting really anxious waiting. for people who applied in previous years — when did you get your decision? was it mid-march, late march, etc.? also does anyone know if the school of nursing is expanding t
+  * early action admission result date? does anybody have an idea on when early action decisions come out? i’ve heard from some threads on here and current and former unc students that decisions come on the last friday of the month in january. is this the case? if so, is it going to come out today?
+-- 3 random sampled docs from this topic --
+  [R_UNC_61321] unc chapel hill ea decision most likely coming tomorrow?? (theory based on their tiktok) | YEs, UNC is on the east coast, so est.
+  [R_UNC_29660] Computer Science Admission Results Out | 590: A- 
+
+Calc 3: C 
+
+Public speaking: C- 
+
+Hist 139: A 
+
+Transfer 
+Accepted
+  [R_UNC_44160] UNC Transfer Decision Release Date | Hi! I applied as a transfer student this year and was wondering if anybody had insight about when transfer decisions should come out? I know the website says April 30th, but I heard they have come out earlier in the past, and I know regular decision just came out two weeks early. Thanks!
+
+==========================================================================================
+[UNDER] topic=16: [mixed] Lost & Found Items (n=400)  emotion=approval  lift=0.47
+-- representative docs --
+  * lost keys i lost my keys somewhere on stadium drive this evening and i was wondering if there’s a lost and found or a building where someone might have taken it. also i don’t have a parking pass for stadium drive so i’m worried about all the tickets that might come if i leave it there.
+  * lost keys hi! i lost my keys yesterday, it has a bubble pop black keychain and a grey pepper spray attached to it. pls lmk if u found it !! also i was at the union and took the u to the b school but i’m not sure where i lost it tia
+-- 3 random sampled docs from this topic --
+  [R_UNC_28184] Please help!! lost bag with car keys/cards on NS | Chapel Hill Transit (CHT) maintains a lost-and-found service for its customers!  
+  
+If you lose an item on the bus, please call us at 919-969-4900 or visit the CHT Administration Office, 6900 Millhouse Road, Chapel Hill, NC, Monday through Friday 8:30 am to 5:00pm.
+  [R_UNC_28835] Found Keys | I found a key on a red Great Smoky Mountain Lanyard at the bell tower crosswalk last night. If they are yours, I gave them to the Union front desk :)
+  [R_UNC_28735] Radiology Undergrad Written Interview? | Can anyone share their experience with the Radiology undergrad written interview? Feeling a little lost on how to prepare, could anyone share what the general ideas of the essays were?
+
+==========================================================================================
+[UNDER] topic=14: [mixed] Mental Health & Well‑Being (n=2,351)  emotion=curiosity  lift=0.47
+-- representative docs --
+  * mold in dorm need help i have a case of mold (and possibly other allergens) in my dorm that have been making me sick for almost 2 months now. first i was sick most of september, went home from labor day had completely lost my voice from coughing so bad and chest congestion. 3x negative covid tests and no flu, no strep, sick in the hospital because my chest was so congested that i was throwing up s
+  * miserable freshman looking for advice (and to vent) basically title. i'm an out-of-state student without any connection to unc other than getting in and i have just never hated my life more. i've had mental health issues (suicidal ideation, depression, dp/dr, anxiety) my entire life, but i just never imagined it getting this bad. i've lost 15 pounds from stress alone since moving in, i can't sleep
+-- 3 random sampled docs from this topic --
+  [R_UNC_07075] University Approved Absence | There’s been an update that campus health doctors don’t provide medical notes anymore. They say to just email your professor
+  [R_UNC_31650] WHY do we have shit due during thanksgiving break? | my past university is one of the “best in the world” yet half the dorms don’t have AC, there’s multiple kidnapping/murders, and there was roaches in the dining hall food. Who is making these rankings?!!
+  [R_UNC_67800] Medically Withdrew | You are definitely not alone. This period of life can be very challenging. I think every person has their own things they have to deal with, from 17-25 is a challenging time, between entering adulthood, university, and beginning your professional life. Whether it is the transition to adulthood and independence, or new challenges in the academic environment of university, the l
+
+==========================================================================================
+[UNDER] topic=4: [high] Academic Planning & Major Selection (n=5,006)  emotion=annoyance  lift=0.47
+-- representative docs --
+  * cs: double major in info sci or minor in info sci? i am looking to either double major in cs and info sci or major in cs and minor in data sci. which one would be a better option? i already have some credits from attending early college and i was wondering if double majoring is manageable along with the required research that i will do with the css program. also, how is the data science program an
+  * help me declare my major plz! my career goal is to become a chief sustainability officer i’m a c-step student coming into unc as a junior for fall 2026. i need to declare my degree on my application and decide if i’m applying to a professional school too. i’m 29 yrs old, my working background is mostly service industry, retail, car sales, and some banking. i’m trying to get into an esg role or sus
+-- 3 random sampled docs from this topic --
+  [R_UNC_14744] UNC Easy Majors | They were making a joke. It's not an insult. The vast majority of the UNC Class of 2023 have already graduated. The rest have one semester left (not much time to declare a major lol).
+  [R_UNC_17958] Accepted w a major but now undecided… | Nope. Just allow yourself to explore through your gen eds, and also look on LinkedIn to find jobs that interest you or that you would think you’d like. See if those jobs want similar majors, and then start taking some classes in that major. Eventually u can declare the major later and get officially switched
+  [R_UNC_24898] Graduation for Double Majors? | Does anyone know how graduation for double majors work? I am a information science and computer science double major.
+
+Do you get to walk for both department ceremonies? Are you even invited to both?
+
+==========================================================================================
+[OVER] topic=9: [mixed] Study Abroad & Admissions (n=2,055)  emotion=gratitude  lift=2.07
+-- representative docs --
+  * is doing carolina global launch a major setback? i'm an out of state student who was admitted through the global launch program. for anyone that has done this program, was it harder for you to become a part of the community once on campus in the spring? also, i am interested in applying to kenan-flagler. has anyone heard of it being harder for cgl-accepted students to get into kf?
+  * carolina global launch hi! i was just wondering if anyone here has gone on the carolina global launch semester abroad? if so, what country were you in and what was your experience like? thanks in advance!! 🤍🩵
+-- 3 random sampled docs from this topic --
+  [R_UNC_28320] Anyone miss the bike share program? | As a new transfer student, honestly I would have loved these bikes for this year :( I saw them on campus this summer and was excited!
+  [R_UNC_01696] Celebrating my grad school acceptance to UNC 🙏🏽✨🫢 | Please share all the tips and advice for grad life at UNC and areas or places I can live that isn’t student housing or undergrad dominant 🙂  will be coming from UF 🐊 so cold weather advice is encouraged lool
+  [R_UNC_05993] Unc MSW | For those familiar with UNC’s MSW program (2 year program) I am wondering if classes are held every weekday? I’ve attended an info session but I’m honestly a little unclear about the schedule of classes. As someone who lives 50 mins off campus this is a concern for me… and the SSW has not yet released whether or not they will be offering an online program for the Fall.
+
+==========================================================================================
+[UNDER] topic=25: [high] Pets & Animal Care (n=323)  emotion=confusion  lift=0.49
+-- representative docs --
+  * nonprofit looking for puppy fosters! have you always wanted a puppy but can't make a 10 year commitment? are you interested in learning more about dog training? do you want to help a person with a disability live a more independent life? eyes ears nose and paws is currently seeking young puppy trainers in the raleigh/durham/chapel hill/hillsborough area! eenp is a non-profit organization that trai
+  * dog tried to attack me at battle park i was out hiking today at battle park and came across a middle aged couple with a large black pit bull. as soon as the dog saw me, it charged at me trying to attack me. it wasn’t on a leash and they were letting it run around the hiking trails aimlessly. when i told them to get their dog as it ran up trying to maul me, they were able to coax it away from me. t
+-- 3 random sampled docs from this topic --
+  [R_UNC_58789] things to do | I'm not sure what's happening this weekend, but cat's cradle is a nice spot for littler concerts. There are also some nice trails over near forest theater and the OEC
+  [R_UNC_04846] Dog tried to attack me at Battle Park | Pitbulls are better than people. At least they don’t commit genocide…
+  [R_UNC_40408] Welcome (back) to UNC!! Want to pet a dog? :) | We are HAPPEE - Hugs And Pups Posse - Encouraging and Empowering - a community-based nonprofit organization that brings dogs for students to pet to UNC's campus several times a week. We also offer parent-type hugs to anyone who is interested. To find out more, including when and where we will be on campus and how adorable our dogs are, join our subre
+
+==========================================================================================
+[OVER] topic=9: [mixed] Study Abroad & Admissions (n=2,055)  emotion=admiration  lift=1.89
+-- representative docs --
+  * is doing carolina global launch a major setback? i'm an out of state student who was admitted through the global launch program. for anyone that has done this program, was it harder for you to become a part of the community once on campus in the spring? also, i am interested in applying to kenan-flagler. has anyone heard of it being harder for cgl-accepted students to get into kf?
+  * carolina global launch hi! i was just wondering if anyone here has gone on the carolina global launch semester abroad? if so, what country were you in and what was your experience like? thanks in advance!! 🤍🩵
+-- 3 random sampled docs from this topic --
+  [R_UNC_50501] Is UNC a good option for a Summer Exchange ? | The university doesn't really do parties for students because of liability issues but students off campus throw house parties all the time plus there's a decent bar scene for 21+. 
+
+There used to be a club that attempted to give every study abroad student a buddy to help them integrate. I had a French student one spring and I picked her up from the ai
+  [R_UNC_46776] Any opinions about UNC MAC program? | I got accepted to UNC Master of Accounting Program and UVA MSA. For who already did MAC in UNC or currently doing the program, I wonder what were the best experiences (like curriculums or any other activities) during program and do you recommend the program for getting a job as a CPA? Would be thankful for any opinions.
+  [R_UNC_45685] For anyone who got into CGL | Thanks for the great info. Although the classes not transferring is worrisome.
+
+==========================================================================================
+[OVER] topic=5: [mixed] Political & Campus Discourse (n=5,175)  emotion=disapproval  lift=1.77
+-- representative docs --
+  * israel/palestine megathread (repost) new israel/palestine megathread hello! first, on behalf of the mod team, i would like to remind users of the subreddit that we are not only a small team but we are also students and balancing moderating this forum with our own demands. we have been experiencing an extremely rapid and significant increase in activity following protests and police activity on cam
+  * we're seven days from a government shutdown. here's where things stand. - rep. jeff jackson shutdown update the government is set to shut down in seven days. there are two ways to avoid this: we can either pass a budget (which means passing 12 separate funding bills) or pass another temporary extension. in reality, there’s no way the house and senate are going to agree on a full budget in the next
+-- 3 random sampled docs from this topic --
+  [R_UNC_80856] UNC in Condition 2; 3-11:59pm today. Classes canceled. | Wrong, they cancelled because of the protests and they are concerned with it getting out of hand with 65k people on campus. The general graduation was cancelled not the individual schools’ graduation so students still get to graduate and walk. It is also happening at UCLA across town and it is much worse.
+  [R_UNC_60931] UNC Chancellor Says UNC Will Comply with ICE | Fuck that shit. Fuck ICE and fuck Lee Roberts.
+  [R_UNC_80631] UNC-Chapel Hill Secretly Recorded Professor’s Classes | It's also a one party state for recording purposes.  You can't record a convo between two people where neither of them knows you're recording.
+
+==========================================================================================
+[OVER] topic=23: [high] Morehead-Cain Scholarship (n=378)  emotion=optimism  lift=1.71
+-- representative docs --
+  * morehead-cain finalists hi everyone! i just found out i’m a morehead-cain finalist and wanted to reach out here. first, huge congratulations to everyone who applied. this process alone says so much about the caliber of people in this community. if there are any other finalists on here who would like to connect before finalist weekend, feel free to comment or dm me. i’d love to meet you and cheer e
+  * got in ! morehead cain finalist! wonder what is it like for the finalist weekend. when is weekend?
+-- 3 random sampled docs from this topic --
+  [R_UNC_49274] Morehead-Cain Semifinalist Decisions Date | I emailed them a few days ago and they told me everyone would get an update by the end of the day today
+  [R_UNC_49183] Morehead-Cain Semifinalist Decisions Date | the email they sent said a notification was posted on my account. when i clicked on the link, it made me log in then click a “view update” button
+  [R_UNC_54475] How helpful is having Morehead Cain finalist (not scholar 😪) on my resume? | I feel like it'd be the equivalent of putting "was wait listed to get into Harvard" on a resume. Like that's cool, and for Harvard to consider you means you're really smart and seem to have a bright future, but you still didn't actually get into Harvard, so no one cares that much. Outside of people that have gone to, or a
+
+==========================================================================================
+[OVER] topic=13: [high] Social Life & Friendships (n=2,189)  emotion=caring  lift=1.68
+-- representative docs --
+  * frat rush advice/concerns (fall 2023) spring 2024 rush at unc chapel hill i recently started at chapel hill and i decided i wanted to wait until semester 2 to rush. i’ve always been interested in the greek system, but i felt like i needed to focus on academics and finding a routine before jumping into the whole rush process. because rush is informal for guys here, i have trouble finding out much i
+  * a letter to my 18 year old self — from a soon-to-be graduating senior 💙 from his almost 23 year old, soon-to-be graduating self: advice i’d wish i’d given to my younger self.” some of these lessons, i learned early. many, i learned late. in fact, some, i learned too late. regret can be a painful thing. so here i am, passing on the baton of wisdom, to my younger classmates. i hope you’ll find this 
+-- 3 random sampled docs from this topic --
+  [R_UNC_61549] Where can I find geeky/weeby friends? | With the FRFR best slices in CH below at Alpha Pie! 🙌
+  [R_UNC_23034] Any coaster enthusiasts here? | Initially thinking roller coasters but both work lmao
+  [R_UNC_56155] Rejected From The Best School Ever 🩵 | UNC doesn’t admit by major so that wasn’t a factor
+
+==========================================================================================
+[OVER] topic=14: [mixed] Mental Health & Well‑Being (n=2,351)  emotion=disappointment  lift=1.67
+-- representative docs --
+  * mold in dorm need help i have a case of mold (and possibly other allergens) in my dorm that have been making me sick for almost 2 months now. first i was sick most of september, went home from labor day had completely lost my voice from coughing so bad and chest congestion. 3x negative covid tests and no flu, no strep, sick in the hospital because my chest was so congested that i was throwing up s
+  * miserable freshman looking for advice (and to vent) basically title. i'm an out-of-state student without any connection to unc other than getting in and i have just never hated my life more. i've had mental health issues (suicidal ideation, depression, dp/dr, anxiety) my entire life, but i just never imagined it getting this bad. i've lost 15 pounds from stress alone since moving in, i can't sleep
+-- 3 random sampled docs from this topic --
+  [R_UNC_10505] Extremely burnt out | Sounds like you need more personalized help than reddit can provide. If it's within your means, I highly recommend seeking therapy to delve into what could be making you feel this way and how to prevent this going forward after university.
+
+For me, my gridlock midway through college ended up being due to ADHD. Initially, medication was perfect for moving me forward. Now, life
+  [R_UNC_70096] Homesick | When I was in college I was so depressed I went to the school therapist even though I was defensive and scared of therapy. She was a brash Bronx lady and said “EVERYONE in college has some kind of a hard time and NO ONE talks about it.” You’re not alone, kid. This will pass!
+  [R_UNC_39317] Is there any place to get diagnosed with ADHD or somehow obtain meds | UNC basically requires you to get a neuropsych evaluation for campus health to give you meds for ADHD. That’s potentially expensive and annoying to deal with, and it might take a while to get it done. 
+
+My advice is to go to your gp with a really solid explanation of why you believe you have ADHD and ask to be put on medication
+
+==========================================================================================
+[OVER] topic=6: [high] Course Registration & Waitlists (n=1,854)  emotion=confusion  lift=1.63
+-- representative docs --
+  * can you see how many people are on the waitlist for classes you're not waitlistes for? not stupid, that’s alright. - connectcarolina (cc) is closed for upper class students right now. no one’s actively enrolling or waitlisting things. - you can actually look at this in cc yourself. go to “search” button in cc (you can access this from your student center). look up classes on your own, click the hy
+  * waitlist chances do i have a good chance of getting off the waitlist for this class?
+-- 3 random sampled docs from this topic --
+  [R_UNC_82279] comm 120 during summer | for anyone who has anyone taken comm120 during summer or any summer class, is attendance mandatory if it says "Remote Only - Synchronous"?
+
+I need to take a research and discovery class and its already full for fall semester and Im supposed to graduate in the Fall so I was planning on taking it during the summer but I have an internship and I'm worried it would interfere w
+  [R_UNC_24680] orientation for freshman | I gotta say find a buddy to do orientation with cause it was long
+  [R_UNC_33347] Recitations | The recitations closed so quickly when I tried to get into chem 101, do they open back up at all or anything?
+
+
+Update : lol my friend showed me that I was only seeing 5/30 of the recitation options. I got into one! yay and thanks ... connect carolina could be better
+
+==========================================================================================
+[OVER] topic=25: [high] Pets & Animal Care (n=323)  emotion=disapproval  lift=1.62
+-- representative docs --
+  * nonprofit looking for puppy fosters! have you always wanted a puppy but can't make a 10 year commitment? are you interested in learning more about dog training? do you want to help a person with a disability live a more independent life? eyes ears nose and paws is currently seeking young puppy trainers in the raleigh/durham/chapel hill/hillsborough area! eenp is a non-profit organization that trai
+  * dog tried to attack me at battle park i was out hiking today at battle park and came across a middle aged couple with a large black pit bull. as soon as the dog saw me, it charged at me trying to attack me. it wasn’t on a leash and they were letting it run around the hiking trails aimlessly. when i told them to get their dog as it ran up trying to maul me, they were able to coax it away from me. t
+-- 3 random sampled docs from this topic --
+  [R_UNC_00229] UNC IS TOO SWEET OMG 😭 | I’ve been trying to find pics of UNC’s acceptance package online for agessss but have been unsuccessful entirely
+  [R_UNC_04900] Dog tried to attack me at Battle Park | They arent. You seem to be highly uneducated and ignorant
+  [R_UNC_04998] Dog tried to attack me at Battle Park | pit bull... not surprised at all
+
+==========================================================================================
+[OVER] topic=23: [high] Morehead-Cain Scholarship (n=378)  emotion=disapproval  lift=1.58
+-- representative docs --
+  * morehead-cain finalists hi everyone! i just found out i’m a morehead-cain finalist and wanted to reach out here. first, huge congratulations to everyone who applied. this process alone says so much about the caliber of people in this community. if there are any other finalists on here who would like to connect before finalist weekend, feel free to comment or dm me. i’d love to meet you and cheer e
+  * got in ! morehead cain finalist! wonder what is it like for the finalist weekend. when is weekend?
+-- 3 random sampled docs from this topic --
+  [R_UNC_70041] morehead-cain scholars | 😭 i have not ended up doing it yet because ive been kinda scared. honestly all my classes are kicking my butt but im looking in soon! also could i dm you? id love to talk to someone going through the process as well!
+  [R_UNC_47080] Does getting referred by AO for MoreheadCain guaranteed an acceptance? | Im an OOS international student and applied for EA. In December I received an email from the admission office saying I am nominated through the ARP program to Morehead Cain. And I assumed that means I am in. So I only applied to Top 20 for RD.
+
+But recently I really am worried about whether my presumption is right or not.
+
+Gu
+  [R_UNC_49196] Morehead-Cain Semifinalist Decisions Date | fr i've been like refreshing every minute
+
+==========================================================================================
+[OVER] topic=14: [mixed] Mental Health & Well‑Being (n=2,351)  emotion=optimism  lift=1.57
+-- representative docs --
+  * mold in dorm need help i have a case of mold (and possibly other allergens) in my dorm that have been making me sick for almost 2 months now. first i was sick most of september, went home from labor day had completely lost my voice from coughing so bad and chest congestion. 3x negative covid tests and no flu, no strep, sick in the hospital because my chest was so congested that i was throwing up s
+  * miserable freshman looking for advice (and to vent) basically title. i'm an out-of-state student without any connection to unc other than getting in and i have just never hated my life more. i've had mental health issues (suicidal ideation, depression, dp/dr, anxiety) my entire life, but i just never imagined it getting this bad. i've lost 15 pounds from stress alone since moving in, i can't sleep
+-- 3 random sampled docs from this topic --
+  [R_UNC_19867] Questions to Alumni… | thank you so much for your response! it’s super thorough and i really appreciate your advice, tysm 🤎🤎🤎🤎🤎
+  [R_UNC_38631] Just confused | Google maps has a setting to download your map/route prior to your "trip"  for offline use. I've used in when traveling in the rural parts of Western NC where cell service can be poor/nonexistent.
+  [R_UNC_59005] University approved absences are a joke wdym I should go to class with the stomach flu | I was going to say, definitely speak to the professor!! They have sway
+
+==========================================================================================
+[OVER] topic=10: [high] Nursing & Healthcare Careers (n=1,013)  emotion=curiosity  lift=1.57
+-- representative docs --
+  * unc nursing can anyone who is applying to the nursing school answer this? on the nursing website, some prereqs are listed and read (fulfilled with nursing courses). does this mean that these do not have to be fulfilled before entering nursing school?
+  * unc nursing i’m currently a first year pre-nursing student at unc. i was wondering if anyone on here is in the nursing school or applied and can help answer a few questions because i feel like my advisor doesn’t know enough specifics about the nursing school and i want to make sure i understand the requirements correctly. the nursing school website lists some pre reqs (like high impact experience,
+-- 3 random sampled docs from this topic --
+  [R_UNC_67447] Tips for UNC Nursing School Applicant  | Yup. They will expand after the building is done. From what they said at the start of the semester, they hope to enroll 400 students as compared to our current 130. Science GPA is all bio, chem and physics courses. Stats and psych does not count. 
+
+OP, message me if you'd like to hear more. there are so many things i didn't know i could do until after I sta
+  [R_UNC_06159] Students with per diem jobs at UNC Health, how does scheduling work? | I had no experience, was also fresh out of my training program for the summer
+  [R_UNC_08415] brutal honesty needed | I knew plenty of people who applied their junior year and got in, they just did an additional two years so they graduated a year later than others on their original cohort
+
+==========================================================================================
+[OVER] topic=21: [high] Textbooks & Study Materials (n=275)  emotion=gratitude  lift=1.55
+-- representative docs --
+  * question about pearson/digital delivery i'm a freshman in biol 101. i've been using the pearson etext for the past 3 weeks, and i keep getting emails about my digital delivery access being cut off if i don't pay for the digital content. however, there's nothing shown in my pearson about any deadline or expiration. also, under "purchase options" in pearson, it only shows the options to buy a "loose
+  * can i download a pdf of the biol 101 textbook? do you still have the free pdf copy of campbell biology: concepts & connections 10th edition? i am real need of it. thanks.
+-- 3 random sampled docs from this topic --
+  [R_UNC_29226] Digital delivery textbooks | Last semester, I got my eTexts right after purchasing them, so I wonder if it has something to do with the specific classes I’m taking.
+  [R_UNC_39616] Weird books handed out on campus free? | Well, that is fucking weird. 
+
+It looks like some insane sex fantasy novel written by a venture capitalist probably left around as some sort of idiotic viral campaign. I regret googling it.
+  [R_UNC_12229] Basic Biostatistics Statistics for Public Health Practice 2nd Edition by B Gerstman | Anyone have a free PDF? I tried getting the one from libgen but the pictures in the textbook were not visible. Does anyone have a pdf where they can see everything?
+
+==========================================================================================
+[OVER] topic=4: [high] Academic Planning & Major Selection (n=5,006)  emotion=approval  lift=1.50
+-- representative docs --
+  * cs: double major in info sci or minor in info sci? i am looking to either double major in cs and info sci or major in cs and minor in data sci. which one would be a better option? i already have some credits from attending early college and i was wondering if double majoring is manageable along with the required research that i will do with the css program. also, how is the data science program an
+  * help me declare my major plz! my career goal is to become a chief sustainability officer i’m a c-step student coming into unc as a junior for fall 2026. i need to declare my degree on my application and decide if i’m applying to a professional school too. i’m 29 yrs old, my working background is mostly service industry, retail, car sales, and some banking. i’m trying to get into an esg role or sus
+-- 3 random sampled docs from this topic --
+  [R_UNC_83780] Tips on picking my major/possible career paths | Maybe just major in CS and minor in Data Science? Or minor in Stats/Analytics
+
+CS, Stats/Analytics, Business, Data Science all will open up amazing opportunities. 
+
+Maybe do some career research and see what positions interest you. You can PM with questions!
+  [R_UNC_80043] Should I take Pharma.D program as Premed | Current PY4 here and know someone who finished their PharmD and applied to MD schools during her 4th year. It’s tough but you for sure have a leg up in pharmacology/therapeutics when you’re in med school compared to your peers. The person I know did early assurance so she never graduated with a bachelors but a PharmD. She doesn’t intend to practice pharma
+  [R_UNC_86170] BS DataSci or BS Statistics | Did you know any programming before? I’ve never taken a coding class or anything
+

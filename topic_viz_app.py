@@ -17,7 +17,7 @@ ROOT_DIR = Path(__file__).resolve().parent
 
 @st.cache_data
 def load_school_data(school):
-    base = ROOT_DIR / f"bertopic_outputs_{school}" / "notitle"
+    base = ROOT_DIR / f"bertopic_outputs_{school}"
     docs = pd.read_csv(base / "doc_topics.csv")
     llm = pd.read_csv(base / "LLM_topics.csv")
     info = pd.read_csv(base / "topic_info.csv").rename(columns={"Topic": "topic"})
