@@ -1,0 +1,724 @@
+# GATECH — extreme (topic, emotion) pairs (share(prob>0.3))
+# lift >= 1.5 or <= 0.5
+# 63 pairs total
+
+==========================================================================================
+[UNDER] topic=27: [high] Favorite Professors (n=303)  emotion=optimism  lift=0.10
+-- representative docs --
+  * need help identifying current professor for gtech supplement the course in question is [this]( i'm touching up my supplemental essay for gatech at the moment, and i had included a part about working with professor diyi yang on natural language processing. i have since found out that she has moved to stanford, and i would like to instead refer to the current teacher. thanks for any help!
+  * who is the best lecturer you've ever had at tech? regardless of hw complexity, grading, approachability etc. just the prof who was the most interesting/funny/thoughtful/etc. aka good at reading lectures. and which class you took with them. i'll start: 1. michael polak, pol 2101 (amazing guy. he was the senator who made zell miller and hope happen; he has a million stories from his political career
+-- 3 random sampled docs from this topic --
+  [R_GT_00398] It's National Teachers Appreciation Day: who's your favorite Tech instructor? | Shout-out to Frank Li and Brendan Saltaformaggio!
+  [R_GT_00384] It's National Teachers Appreciation Day: who's your favorite Tech instructor? | David Joyner forever the goat of CS. As someone not going into anything remotely near computer science he made me see the beauty of its logic just through 1301 alone.
+  [R_GT_02856] who is the coolest prof you've had at tech? | 100% Larry Heck. He's a core figure in the Conversational AI space and he worked on most of the large conversational AI agents we know today from Cortana, Google AI's Voice assistant, Bixby and led R&amp;D that spun off to create Siri and Alexa. He also worked on a lot of the Deep learning models that led to speech processing being a thing today. He te
+
+==========================================================================================
+[UNDER] topic=27: [high] Favorite Professors (n=303)  emotion=disapproval  lift=0.14
+-- representative docs --
+  * need help identifying current professor for gtech supplement the course in question is [this]( i'm touching up my supplemental essay for gatech at the moment, and i had included a part about working with professor diyi yang on natural language processing. i have since found out that she has moved to stanford, and i would like to instead refer to the current teacher. thanks for any help!
+  * who is the best lecturer you've ever had at tech? regardless of hw complexity, grading, approachability etc. just the prof who was the most interesting/funny/thoughtful/etc. aka good at reading lectures. and which class you took with them. i'll start: 1. michael polak, pol 2101 (amazing guy. he was the senator who made zell miller and hope happen; he has a million stories from his political career
+-- 3 random sampled docs from this topic --
+  [R_GT_02855] who is the coolest prof you've had at tech? | I like it! A good friend of mine is a professor at KSU and they deal with so much bullshit (from students and from the admin). It's nice to see some appreciation given where it's due.
+  [R_GT_98988] Conte's no electronics in class is stooopid | Yes, I have seen Dr. Conte work with [ODS](https://disabilityservices.gatech.edu/) to grant students this exact accommodation
+  [R_GT_02804] who is the coolest prof you've had at tech? | Agreed, lots of great people in bios. Weigel is a saint! Mark Hay was a cool guy but I only had him for half a semester, same with Weissburg. Shoutout to Robbie Richards as well! Matt Torres was funny for genetics, bro always brought up his gout and his 23&amp;me results LOL
+
+==========================================================================================
+[OVER] topic=27: [high] Favorite Professors (n=303)  emotion=admiration  lift=6.81
+-- representative docs --
+  * need help identifying current professor for gtech supplement the course in question is [this]( i'm touching up my supplemental essay for gatech at the moment, and i had included a part about working with professor diyi yang on natural language processing. i have since found out that she has moved to stanford, and i would like to instead refer to the current teacher. thanks for any help!
+  * who is the best lecturer you've ever had at tech? regardless of hw complexity, grading, approachability etc. just the prof who was the most interesting/funny/thoughtful/etc. aka good at reading lectures. and which class you took with them. i'll start: 1. michael polak, pol 2101 (amazing guy. he was the senator who made zell miller and hope happen; he has a million stories from his political career
+-- 3 random sampled docs from this topic --
+  [R_GT_89005] Who is the best lecturer you've ever had at Tech? | Abdel-Khalik followed by Shannon Yee. No one else really came close.
+  [R_GT_02815] who is the coolest prof you've had at tech? | Professor Lisa Yaszek. She’s the coolest person I ever met. Great sci fi scholar!
+  [R_GT_88973] Who is the best lecturer you've ever had at Tech? | The undisputed goat Yaofeng Su Applied Combinatorics
+
+==========================================================================================
+[UNDER] topic=28: [mixed] Campus Culture & Student Life (n=367)  emotion=optimism  lift=0.16
+-- representative docs --
+  * kids at gatech are seriously depressed my youngest has been considering gatech for bme, but i’m concerned with all the depressing, miserable postings i see here all the time. is this the norm?
+  * what do you guys love and hate about gatech? pros: outstanding engineering school, etc. cons: there are few beautiful girls in this school, and most engineering major girls, you know, are very nerdy with low eq, so finding a good girlfriend here would be a serious problem, etc.
+-- 3 random sampled docs from this topic --
+  [R_GT_30238] what are some GT specific slang terms | word, get out, m-train, rat, shaft
+  [R_GT_13448] As much as I hate it, we are all Notre Dame fans today | Bobby Dodd wanted to be the Notre Dame of the south.  Dodd, while being reverred at Tech made a lot of mistakes and this was one of them.  Be the best GT you can be.
+
+My father, who hated GT, loved Notre Dame, so I was definitely not a fan of ND growing up.  Have a couple of ND alumni friends that I think very highly of, so I’ve modified my 
+  [R_GT_92571] Kids at GATech are seriously depressed | Unfortunately it's a common problem at basically every elite university. This sub isn't remotely representative of everyone at the school, though.
+
+There are plenty of people who have the time of their lives (or just a neutral college experience). There are also a concerning number of people who are made miserable by it or have their problems considerably e
+
+==========================================================================================
+[UNDER] topic=26: [high] Laundry & Hygiene (n=283)  emotion=gratitude  lift=0.21
+-- representative docs --
+  * reminder: pick up your laundry on time! even when it's like a monday or tuesday night, when people "normally" don't do laundry, remember to pick up your stuff from the laundry rooms! especially when there are multiple washers down because people put tide pods where they're not supposed to go!
+  * zba laundry room washers down zba shared laundry room currently has 13 washers, out of which maybe 4 are usable right now and more than half are “out of order.” the number of total washers already doesn’t feel very sufficient for the almost 500 residents across these two buildings, but it’s ridiculous that all these washers aren’t working. does maintenance not regularly check these machines?
+-- 3 random sampled docs from this topic --
+  [R_GT_12172] Is living off campus and using the on campus laundry allowed?  | You have a laundry allowance but I think it’s only for those with a dorm rental. Check your buzzcard account if you have funds for this.  It’s $0.01 per swipe of dryer or washer.
+  [R_GT_63775] Crossland Toilet Sensors are TOO TOO SENSITIVE. | You’re an engineer. Fix it! You can do this!
+  [R_GT_63304] Is Laundry View actually accurate? | From my experience, the app has never worked at all.
+
+==========================================================================================
+[UNDER] topic=27: [high] Favorite Professors (n=303)  emotion=confusion  lift=0.22
+-- representative docs --
+  * need help identifying current professor for gtech supplement the course in question is [this]( i'm touching up my supplemental essay for gatech at the moment, and i had included a part about working with professor diyi yang on natural language processing. i have since found out that she has moved to stanford, and i would like to instead refer to the current teacher. thanks for any help!
+  * who is the best lecturer you've ever had at tech? regardless of hw complexity, grading, approachability etc. just the prof who was the most interesting/funny/thoughtful/etc. aka good at reading lectures. and which class you took with them. i'll start: 1. michael polak, pol 2101 (amazing guy. he was the senator who made zell miller and hope happen; he has a million stories from his political career
+-- 3 random sampled docs from this topic --
+  [R_GT_02856] who is the coolest prof you've had at tech? | 100% Larry Heck. He's a core figure in the Conversational AI space and he worked on most of the large conversational AI agents we know today from Cortana, Google AI's Voice assistant, Bixby and led R&amp;D that spun off to create Siri and Alexa. He also worked on a lot of the Deep learning models that led to speech processing being a thing today. He te
+  [R_GT_88982] Who is the best lecturer you've ever had at Tech? | Seconding Victor Vilaca Da Rocha. Had him for two different classes, and his lectures were always great and interesting. He did a great job answering questions during lecture and clarifying things. 
+
+And he's super passionate about math. I've went up after class and asked questions about concepts from class, and he's often connected it to other c
+  [R_GT_02860] who is the coolest prof you've had at tech? | 2011 here and totally agree! I had forgotten about him! I too concentrated in operations.
+
+==========================================================================================
+[UNDER] topic=15: [high] Registration & Waitlists (n=932)  emotion=admiration  lift=0.24
+-- representative docs --
+  * how exactly do registration waitlists work?? ok, i know mostly how they work, but i’m in a specific situation that necessitates some questions. in phase 1, i registered for the waitlist of a class, and after the phase ended, i remained on the waitlist. i’m still on it, and now there are three open seats in the class (i’m position 2, so i know i have one). however, i haven’t yet received an email a
+  * gt registration process is well-designed…to maximize toxicity tl;dr cannot believe i’m getting a free course on prisoner’s dilemma by sitting in waitlists can someone please explain to me why the registrar thinks purging the waitlist last than 12 hours before the end of registration is a good idea? it single-handedly creates a cascading congestion on all waitlists that render the whole system frus
+-- 3 random sampled docs from this topic --
+  [R_GT_88838] registration be like 😔 credit to my roommate/wife | This brings back memories… and why I was never able to register for interesting classes, even as a senior
+  [R_GT_100141] How did I get moved down on a waitlist? | The senior in question probably didn’t register for the class until this week. No idea why they would put that off, but you wouldn’t move down a waitlist for any other reason.
+  [R_GT_13056] How does bumping up on the waitlist work? | I mean you might as well. They're usually very accommodating when you're about to graduate (cynically, I would say the only time they're useful)
+
+==========================================================================================
+[UNDER] topic=15: [high] Registration & Waitlists (n=932)  emotion=caring  lift=0.24
+-- representative docs --
+  * how exactly do registration waitlists work?? ok, i know mostly how they work, but i’m in a specific situation that necessitates some questions. in phase 1, i registered for the waitlist of a class, and after the phase ended, i remained on the waitlist. i’m still on it, and now there are three open seats in the class (i’m position 2, so i know i have one). however, i haven’t yet received an email a
+  * gt registration process is well-designed…to maximize toxicity tl;dr cannot believe i’m getting a free course on prisoner’s dilemma by sitting in waitlists can someone please explain to me why the registrar thinks purging the waitlist last than 12 hours before the end of registration is a good idea? it single-handedly creates a cascading congestion on all waitlists that render the whole system frus
+-- 3 random sampled docs from this topic --
+  [R_GT_83303] Internship Registration - do I have to do anything in Oscar? | I did all the steps I had to do on Careerbuzz, and my registration for them just got approved today. Do I need to register for any sections on Oscar as well?
+  [R_GT_04208] Can't find Online Summer Classes | Are you looking for things that are "Fully At A Distance"?
+  [R_GT_74680] I'm unable to log into Oscar right now. Anybody else? | It isn’t nearly this bad at UGA. I transferred from there
+
+==========================================================================================
+[UNDER] topic=8: [high] Campus Photography (n=1,354)  emotion=caring  lift=0.25
+-- representative docs --
+  * photographers for graduation photos i take grad pics!! i also wanted to keep student-conscious prices in mind (as a student myself), so prices range from $65 for 30 mins and upwards for students depending on the session length. this just covers editing time on my end and resources i need to keep on taking photos :). fall is arriving (slowly but surely) which means golden colors are coming to campu
+  * complete video walkthrough of the new student center most students are off interning or studying abroad in parts unknown. since so many people are away from campus, i recorded a thorough video walkthrough of the new student center. posted from a throwaway because my hair and face are visible at some points in the videos. warning: i'm not a professional videographer. [1st floor]( cypress theater (0
+-- 3 random sampled docs from this topic --
+  [R_GT_74130] Come by the farmer’s market at Tech Green for unhinged stickers 💕 | On tech green again? If so what time?
+  [R_GT_101291] Play Smash on Tech Green at 8:30 pm today! | Actual rush violation wtf
+  [R_GT_08990] I have officially renamed Tech Green to Tech Purple.  AMA | needed to throw them a curveball
+
+==========================================================================================
+[UNDER] topic=28: [mixed] Campus Culture & Student Life (n=367)  emotion=gratitude  lift=0.27
+-- representative docs --
+  * kids at gatech are seriously depressed my youngest has been considering gatech for bme, but i’m concerned with all the depressing, miserable postings i see here all the time. is this the norm?
+  * what do you guys love and hate about gatech? pros: outstanding engineering school, etc. cons: there are few beautiful girls in this school, and most engineering major girls, you know, are very nerdy with low eq, so finding a good girlfriend here would be a serious problem, etc.
+-- 3 random sampled docs from this topic --
+  [R_GT_39200] Thanks for keeping Gatech sane, and not a Columbia/Yale/Stanford/Berkeley/Princeton/Harvard | As someone who at one point spent almost half my life at GT and also as an Israeli Jew, thank you for making this post, and showing me that there are sane college age people. It's been rough.
+  [R_GT_13477] As much as I hate it, we are all Notre Dame fans today | And Penn State fans next week.  In fact, I'm actively pulling for them to win it all given the other remaining options.
+  [R_GT_30473] gatech-specific slang ? or acronyms  | In addition to The Tit (formerly Alexander Memorial Coliseum, now McCamish Pavilion), you can add The Dick (Peachtree Plaza).
+
+==========================================================================================
+[UNDER] topic=10: [high] Campus IT Support (n=878)  emotion=admiration  lift=0.29
+-- representative docs --
+  * network outages impacting university system of georgia systems and services everyone, the office of information technology (oit) is aware of network outages currently impacting university system of georgia (usg) systems and services. teams are diligently working to restore connectivity. during this time, you may experience intermittent issues when attempting to access georgia tech services from on
+  * campus dns outage dear georgia tech community members: the office of information technology is currently working to resolve issues that have affected access to the campus domain name system and services, including banner, oscar, and campus network. up-to-date progress will be provided on the georgia tech it status page at there, you can also subscribe to receive it-specific maintenance notices. we
+-- 3 random sampled docs from this topic --
+  [R_GT_05276] University System of GA Return To Office order | Nah, I'm good. Believe what you will.
+
+Also, "name a person or department" maybe try to sound less snitchy, i mean obvious in the future.
+  [R_GT_83279] How to get a virtual Buzzcard? | Not possible, the OIT god that frequents the sub explains it here: https://www.reddit.com/r/gatech/comments/w7q12k/copying_buzzcard_with_nfc_on_android/
+  [R_GT_29763] OneUSG Login Issue, "User ID and/or Password are invalid" | Yep, this worked perfectly! Thank you!
+
+==========================================================================================
+[UNDER] topic=21: [mixed] Mascot & School Spirit (n=275)  emotion=gratitude  lift=0.29
+-- representative docs --
+  * buzz: the person, the myth, the legend— who are they? tech does such a great job at keeping buzz so gender neutral— i literally cannot even fathom what the person who plays them looks like. and is there only 1 buzz? or are there several buzz’s? do we ever learn buzz’s identity?
+  * doing a project on buzz, does anyone have stories to share? i'm doing a project on buzz and one portion will be about his impact on the campus culture and students. does anyone have any stories or images they'd like to share? it can be anything, an event or a random encounter.
+-- 3 random sampled docs from this topic --
+  [R_GT_78581] Buzz, but make it leg lamp 😍😍😍 | come by the farmer's market on wednesday!! idk if ads are allowed on this sub but dm me for etsy link
+  [R_GT_88490] Why is there no Georgia Peaches | While we're known for peaches, I was surprised to find out in 8th grade that GA is actually more well known for our contribution to the peanut industry. The goober state doesn't sound great in comparison to the peach state though.
+
+You can find peaches though, drive down I-20 towards the bama border and you'll pass a ton of handwritten signs that say "Peaches 4 Sa
+  [R_GT_61393] Buzz Found in the Suburbs of Hamburg Germany | Nein. Ich bin der wahre Buzz.
+
+[https://www.stickertalk.com/wp-content/uploads/2022/03/d-60-350.jpg](https://www.stickertalk.com/wp-content/uploads/2022/03/d-60-350.jpg)
+
+==========================================================================================
+[UNDER] topic=20: [high] Campus Recreation Center (n=361)  emotion=annoyance  lift=0.30
+-- representative docs --
+  * crc - best time to go to the gym? i used to workout a lot before covid at the gym near my house but since quarantine i haven’t gotten the chance + i didn’t want to get another gym membership. now that i’m coming to gt in the fall, i was wondering when the lowest amount of people are in the gym. my previous gym was small and very spaced out so i never had a problem with people but seeing how the en
+  * an open letter to the crc administration thank you. im in my third year here at tech and through things i have been involved with on campus, i’ve come to develop a pretty good sense of the problems tech faces (along with the positives). i am also an avid supporter of health initiatives and live an extremely active lifestyle. which means i use the crc weight floors practically every day. and throug
+-- 3 random sampled docs from this topic --
+  [R_GT_32416] Best times to workout at CRC and what equipment is available? | i’ve heard the 12-4 period is slower cuz everyone’s in class, then around 8-9 am is okay, and then nights, like 7:30 and beyond
+  [R_GT_90109] CRC Squat racks/ Benchpress lines | Recent alum and the problem is that the CRC is totally inadequate for the number of students enrolled. It’s honestly hilariously bad because what they’re charging for it isn’t even that inexpensive. And it’s not even optional like a regular gym membership.
+  [R_GT_84288] CRC Workout Tips for a beginner | I like to set a really loose schedule for myself that I can follow without any excuses. Like, I try to go to the gym every other day for at least an hour, which gives me some down time and work time during the week. If I can't make it every other day, I HAVE to go at least 3 times over the course of the week, doesn't matter when. Could be 3 days in a row, could ha
+
+==========================================================================================
+[UNDER] topic=27: [high] Favorite Professors (n=303)  emotion=curiosity  lift=0.32
+-- representative docs --
+  * need help identifying current professor for gtech supplement the course in question is [this]( i'm touching up my supplemental essay for gatech at the moment, and i had included a part about working with professor diyi yang on natural language processing. i have since found out that she has moved to stanford, and i would like to instead refer to the current teacher. thanks for any help!
+  * who is the best lecturer you've ever had at tech? regardless of hw complexity, grading, approachability etc. just the prof who was the most interesting/funny/thoughtful/etc. aka good at reading lectures. and which class you took with them. i'll start: 1. michael polak, pol 2101 (amazing guy. he was the senator who made zell miller and hope happen; he has a million stories from his political career
+-- 3 random sampled docs from this topic --
+  [R_GT_00375] It's National Teachers Appreciation Day: who's your favorite Tech instructor? | Professor Wills (ECE 2035) and Professor Landry (CS 1331) were some of the first instructors I had at tech and pretty much defined what I wanted here at tech. Professor Daglis did a really good job with adv comp org and Professor Brothers did a great job with intro comp org (those exams were some of the most stressful 
+  [R_GT_02829] who is the coolest prof you've had at tech? | Gotta be Bill Green for me just for the Friendly Muttonchops and the laid-back good nature.
+  [R_GT_89005] Who is the best lecturer you've ever had at Tech? | Abdel-Khalik followed by Shannon Yee. No one else really came close.
+
+==========================================================================================
+[UNDER] topic=18: [high] Computer Science Threads (n=493)  emotion=disappointment  lift=0.33
+-- representative docs --
+  * sysarch vs info networks threads hi, i'm a second year computer engineering student hoping to work somewhere in software, possibly software engineering. for my threads i must choose 1 compe thread and 1 of any other area, so i'm set on distributed systems & software design for that 1 compe thread. but, i'm unsure what i would like to do for my second thread between sysarch and info networks. i've 
+  * do cs threads matter or does it all mean the same? like i have my threads currently undeclared but i've been working towards the info/internetworks // intelligence thread. someone told me that it was easier to do people/intelligence and that the threads don't matter as long as you're taking classes that you want to take. i don't want to take the easy way out by any means, but i am also highly inte
+-- 3 random sampled docs from this topic --
+  [R_GT_33059] New Cyber Thread Paired Better with Intell or Sys Arch? | I am gonna second all of the other comments; looking back on undergrad I wish I had done people/media/anything else over Intel as that would've been much more applicable to my eventual career. I did intel/mod-sim fwiw
+  [R_GT_37198] CS Threads: Intel &amp; Media vs Info &amp; Media Threads | Yo I'm an incoming freshman and I was thinking about doing sys arch and theory; how bad is the workload?
+  [R_GT_46026] Need Help Picking Threads for CS Robotics | I'm in the people thread. The people thread is a lot of UI based classes. There are a few classes that talk about how people interact with technology, but I don't think any of them focus on robotics in particular. It could be good if you want some background knowledge on how people interact with technology in general. I'd focus on the more hardware focus
+
+==========================================================================================
+[UNDER] topic=6: [high] Campus Dining (n=2,663)  emotion=caring  lift=0.34
+-- representative docs --
+  * tech dining email on the recent state of willage for those who did not receive or see it yet, here is the email sent out by tech dining about why west village dining hall has been suffering in quality recently. thoughts? dear meal plan holders, over the last few weeks, tech dining has received some negative feedback regarding west village dining hall. we take your feedback seriously and as such, w
+  * there should be meal-swipe options in the student center i don't have a convenient way to get groceries and cook, so i bought 100 meal swipes for this semester, thinking i'd be able to get to dining halls relatively easily. problem is, on mwf i have no more than 30 minutes free between 9:30 and 6:00, and at no point do i have enough time to walk to a dining hall and be on time to my next class. i 
+-- 3 random sampled docs from this topic --
+  [R_GT_86493] OpenAI ChatGPT explains how to steal the T | I never stole the T but I did climb and touch it once.
+  [R_GT_97076] wtf happened to willage??????? | three food places are consolidated into one line, serving pasta with no sauce, self-serve cafe counter... wtf happened over the course of this weekend that caused it to burn so hard and fast?
+  [R_GT_33183] GT Dining to start using delivery bots in the Fall. Thoughts? | Do I get free tuition if one of them injures me?
+
+==========================================================================================
+[UNDER] topic=19: [high] Voting & Elections (n=436)  emotion=caring  lift=0.35
+-- representative docs --
+  * how to register to vote as an out-of-state student: a guide if you are a student at georgia tech (and a us citizen, not a fellon, etc) you have the legal right to vote in georgia, regardless if you are in or out of state! i am originally from new jersey but i registered to vote with only my buzzcard. its pretty easy! please register to vote before the deadline of oct 7,2024! if you're out of state
+  * register to vote by october 11th, and vote in the 2022 midterms! the 2022 midterm elections will be held on november 8th. here's how to take part and have a say in what kind of a state georgia will be! ##register to vote in georgia, you must register by october 11th to vote in the midterms. you can register here: ##voting in person georgia offers early voting from october 17th-november 4th. find y
+-- 3 random sampled docs from this topic --
+  [R_GT_89737] GT apparently needs more information to consider me a GA resident? | Where were you born.  At least when my son was going through, his friends who went to high school in GA, but were not born in US were not considered in state for tuition.  Are you a US citizen?
+  [R_GT_87158] BOOOOOOOOOOOOOO SCREW u(sic)ga | We beat the Vegas spread by 22 points so that's a plus
+  [R_GT_20031] Why is election day not a campus wide holiday? | I’m from OOS and I can’t vote by mail 😣 it’s complicated even though I’m US born 😒 too poor to fly home at least I am not from a swing state
+
+==========================================================================================
+[UNDER] topic=5: [high] Georgia Tech Football (n=4,341)  emotion=caring  lift=0.35
+-- representative docs --
+  * college risk online reddit game: conquer other schools! - day 19 here is the latest for college football risk, a 15-seconds a day game of domination and diplomacy between the division i football universities that is run through reddit accounts on [collegefootballrisk.com]( \\\\\ first some important notes join the game, your help is needed! you can help georgia tech grow and take over north americ
+  * college risk reddit game - day 23 - anyone know how to kill a gator? # here is the latest on college football risk, a 15-seconds a day game of domination and diplomacy between the division i football universities that is run through reddit accounts at: # [collegefootballrisk.com]( \\\\ first some important notes join the [georgia tech sports discord (the hive)]( ! this is the main place where we a
+-- 3 random sampled docs from this topic --
+  [R_GT_17266] Dear UNC - Do Not Hire the phony | He should never be allowed near a football field again in any capacity.  
+
+So, knock yourself out, Tar Heels.
+  [R_GT_30515] GT lands its first 5 star since Megatron in Josh Petty!! | Our Oline was solid and will only get better. Dline was definitely the biggest struggle, we got some guys to transfer though, and there is a 4 star who may come this week as well for Dline
+  [R_GT_34261] Brent Key on Georgia football: ‘There’s nothing I hate more in the world’ | Fr me and Coach Key twinning 🤞‼️
+
+==========================================================================================
+[UNDER] topic=27: [high] Favorite Professors (n=303)  emotion=annoyance  lift=0.36
+-- representative docs --
+  * need help identifying current professor for gtech supplement the course in question is [this]( i'm touching up my supplemental essay for gatech at the moment, and i had included a part about working with professor diyi yang on natural language processing. i have since found out that she has moved to stanford, and i would like to instead refer to the current teacher. thanks for any help!
+  * who is the best lecturer you've ever had at tech? regardless of hw complexity, grading, approachability etc. just the prof who was the most interesting/funny/thoughtful/etc. aka good at reading lectures. and which class you took with them. i'll start: 1. michael polak, pol 2101 (amazing guy. he was the senator who made zell miller and hope happen; he has a million stories from his political career
+-- 3 random sampled docs from this topic --
+  [R_GT_88941] Who is the best lecturer you've ever had at Tech? | sal barone (math 1554)
+
+ronnie howard (cs 2050 and cs 4001)
+  [R_GT_88989] Who is the best lecturer you've ever had at Tech? | yes i can send u one, dm me
+  [R_GT_21878] Landry was a weird guy, but he was also caring, I think. | Sorry, I might be out of the loop; but what's wrong with sucking a tampon? 
+
+Are those things taboo in the southern US?
+
+==========================================================================================
+[UNDER] topic=13: [mixed] Campus Life & Student Experiences (n=2,548)  emotion=gratitude  lift=0.37
+-- representative docs --
+  * be very careful of the sororities on campus eh…i know of plenty of instances where it gave myself and others a leg up. but networking doesn’t require a frat. it sure does help though. 1) workplace politics and frat politics are surprisingly similar. 2) frats have lots of campus life activities and are a strong voting block. opens doors to getting a leadership role in some club. 3) alumni of frats 
+  * be very careful of the sororities on campus i have decided because of the bidding events in the next few days. girls on campus should know the dangers and risks that are associated with joining. i was not going to ever do something like this but my younger sister will be joining gatech and i don’t want her and any other girls to have the same experiences me and many others share. from personal exp
+-- 3 random sampled docs from this topic --
+  [R_GT_20631] Out of curiosity, I went to the Trump Rally yesterday and brought a camera with me. Here's what I captured. | &gt; I attended the event out of curiosity, simply to experience what it's like to be at a political rally (I've never been to one before).
+
+That makes sense. You don't need to defend being there in a curiosity and journalistic sense. It's a Presidential campaign event and the man has a re
+  [R_GT_100040] Be very careful of the Sororities on campus | I didn’t do my undergrad at Tech (did grad school) but had similar experiences with a sorority at another big public university in the southeast. While people say that Greek systems vary from school to school, I am pretty convinced that they are all garbage and should be eradicated. The systemic racism and sexism extends down through generations in the
+  [R_GT_60315] Candace Owens showing up to GT thinking she will be meeting her fans: | Leftist study and employ leftist economic theory, such as Marxism, into their political influence. There are currently no leftist polticians in office in the US. Liberals are still capitalists at heart even if they maybe support social issues, barely. Obama is far from being a leftist as he still supported US imperialism in th
+
+==========================================================================================
+[UNDER] topic=17: [high] Campus Wildlife & Stray Animals (n=584)  emotion=annoyance  lift=0.37
+-- representative docs --
+  * stray or lost black cat by skiles today i saw a small (probably 1-2 year old female) black cat outside skiles today at noon. she was scared and wouldn't come up to me, but looked very clean and reasonably well fed. so i'm posting in case anyone is missing such a cat. i'm new to campus, so i'm also wondering if there are feral cats still (previous posts would indicate there were in the past) and if
+  * gt s.q.u.i.r.r.e.l. units have arrived at brittain the georgia tech’s elite stopping quizzically underrated invertebrates from raging rambunctiously through engineer’s lives (squirrel) unit has arrived on scene in brittain dining hall today. the group of 4 highly skilled and trained officials includes a chef, a tech dining worker, an old man, and a guy with a nice beard. they quickly took action b
+-- 3 random sampled docs from this topic --
+  [R_GT_45338] Found cat near sand volleyball fields near CRC | I already posted on the slack group with their members. We'll keep y'all posted if we can find the owner
+  [R_GT_02663] ICE Off Campus Rally, Tech Green, Wednesday, April 23rd, 1pm | Imagine if immigrants were putting the same amount of effort into improving their home countries and universities as they do with trying to get to America.
+  [R_GT_86673] Does anyone own a Rottweiler? If you do, can I please pet your dog? | They are one of the cutest imo
+
+==========================================================================================
+[UNDER] topic=14: [mixed] Campus Services & Administration (n=609)  emotion=caring  lift=0.37
+-- representative docs --
+  * package delivered to student center while closed i had a package get delivered to the student center post office while they were closed friday. do packages get dropped off somewhere or are they just sitting outside the loading dock. the tracking does not say where exactly it got dropped off, just that it got delivered. and i haven't received an email saying they got received by the post office.
+  * summer post office package pickup protocol if not on campus i got a notification saying i have a package to pick up at the post office in the student center in may. however, by that time, i already moved out and will only be returning to campus in august. when i called them twice to ask them what i can do, the person on the line mentioned something about mail forwarding or having someone pick up t
+-- 3 random sampled docs from this topic --
+  [R_GT_71145] Graduated student email access logistics | Wondering the same. I'm assuming we keep our GTID's and emails but idk?
+  [R_GT_99174] How can I avoid using Outlook for my GA Tech email? | You can use any IMAP client that supports OAUTH2.0 authentication to read/reply to email, such as Thunderbird.
+  [R_GT_88633] How do we mail something through the GT post office? | go there, and then mail it?
+
+==========================================================================================
+[UNDER] topic=16: [high] Email Phishing & Scams (n=659)  emotion=admiration  lift=0.38
+-- representative docs --
+  * urgent: gt students - never share your duo 2fa codes! dear gt family, many of you are aware of the recent wave of phishing attempts targeting georgia tech students. these attacks are particularly concerning as they're exploiting previously compromised gt accounts to send what appear to be legitimate verification requests. important security facts you need to know: the it department will never ask 
+  * gt cybersecurity operations psa dear gt family, gt cybersecurity is currently observing phishing attempts via email and text with the subject related to 'assistant positions'. these attempts are exploiting previously compromised gt accounts to send emails with malicious link to harvest credentials. for phishing text, please do not click on any links or respond to any phone numbers that you do not 
+-- 3 random sampled docs from this topic --
+  [R_GT_40365] WARNING: Email Phishing Scam (Details in comment) | One would hope considering the computer related enrollment 😂
+  [R_GT_48954] American Children's Cancer Benevolence Fund (ACCBF) is a scam organization, do not donate | Unfortunately there's a lot of these scam organizations who target college campuses. They typically hang around tech square and majorly pressure you into donating or signing something.
+
+I have yet to see one of these organizations be reputable (besides those partnering with frats and sororities) so keep tha
+  [R_GT_52175] CIOS email from professor asking me to complete the cios | Feedback is anonymous, who has filled it out isn’t
+
+==========================================================================================
+[UNDER] topic=28: [mixed] Campus Culture & Student Life (n=367)  emotion=caring  lift=0.41
+-- representative docs --
+  * kids at gatech are seriously depressed my youngest has been considering gatech for bme, but i’m concerned with all the depressing, miserable postings i see here all the time. is this the norm?
+  * what do you guys love and hate about gatech? pros: outstanding engineering school, etc. cons: there are few beautiful girls in this school, and most engineering major girls, you know, are very nerdy with low eq, so finding a good girlfriend here would be a serious problem, etc.
+-- 3 random sampled docs from this topic --
+  [R_GT_98667] Finish the sentence: NO GaTech experience is complete without ___ | Tech is a drinking school with an engineering problem
+  [R_GT_39131] Thanks for keeping Gatech sane, and not a Columbia/Yale/Stanford/Berkeley/Princeton/Harvard | HR is there to protect the company. hr doesn’t making hiring decisions, they can and do veto if there’s a red flag. But HR is only involved post hiring decisions (aka background checks). 
+
+Yeah a company’s mission is to drive value to shareholders and build products which change the world. Stirring the po
+  [R_GT_30446] gatech-specific slang ? or acronyms  | I saw a TikTok about university-specific slang (i.e. apparently at exclusively Stanford students will say DAHA - “does anyone have a” - all the time) and I was wondering if anyone can think of ones only tech kids use? maybe like “the ratio” but idk what else. maybe even just like atl specific slang
+
+==========================================================================================
+[UNDER] topic=21: [mixed] Mascot & School Spirit (n=275)  emotion=optimism  lift=0.42
+-- representative docs --
+  * buzz: the person, the myth, the legend— who are they? tech does such a great job at keeping buzz so gender neutral— i literally cannot even fathom what the person who plays them looks like. and is there only 1 buzz? or are there several buzz’s? do we ever learn buzz’s identity?
+  * doing a project on buzz, does anyone have stories to share? i'm doing a project on buzz and one portion will be about his impact on the campus culture and students. does anyone have any stories or images they'd like to share? it can be anything, an event or a random encounter.
+-- 3 random sampled docs from this topic --
+  [R_GT_03768] Tim Walz Spotted with a GT Hat | *This post was mass deleted and anonymized with [Redact](https://redact.dev/home)*
+
+practice memorize ten silky middle lip capable ad hoc shy physical
+  [R_GT_89764] Doing a project on Buzz, does anyone have stories to share? | Just seeing Buzz having the time of his life brings joy to almost everyone here. Even after the football team gets wiped 42-0 his antics distract us from how some things may be terrible atm. Praise be to Buzz.
+  [R_GT_24101] Sports Illustrated September 2024 | Let’s keep the winning streak alive!
+
+==========================================================================================
+[UNDER] topic=3: [high] Student Organizations & Events (n=3,790)  emotion=caring  lift=0.43
+-- representative docs --
+  * looking for something to do this semester and skills to get that next internship or job offer? look no further than georgia tech off-road! hello [ we are georgia tech off-road. we design, manufacture, and race a baja sae car every year to compete against 100 other teams from all over the world in a variety of dynamic (racing!) and static events. our members have interned and worked full-time at pl
+  * apply to be a part of our create-x startup team! open software and hardware engineering roles! are you a driven and focused individual looking to contribute significant input on multi-disciplinary projects? do you thrive in a fast-paced, dynamic environment where your expertise and creativity can shape the future? look no further! moddle bottle, a start-up out of georgia tech, focuses on disruptin
+-- 3 random sampled docs from this topic --
+  [R_GT_43585] Recruiting Participants for an AI Study with a Robot: 20-30 minutes for $5 Amazon Gift Card | What a fun study to participate in.
+  [R_GT_87050] AE major here hosting a B-21 reveal party to show my thanks to the MIC 🇺🇸 | Hey now, there are plenty of CS graduates going into FAANG who are *also* destroying humanity.  Don't leave us out!
+  [R_GT_09198] Does anyone know if a club/organization or an individual hung these? (not hating just curious) | It's definitely not unique but understanding why borders are the way they are helps understand immigration patterns and why people immigrate.
+
+==========================================================================================
+[UNDER] topic=5: [high] Georgia Tech Football (n=4,341)  emotion=gratitude  lift=0.43
+-- representative docs --
+  * college risk online reddit game: conquer other schools! - day 19 here is the latest for college football risk, a 15-seconds a day game of domination and diplomacy between the division i football universities that is run through reddit accounts on [collegefootballrisk.com]( \\\\\ first some important notes join the game, your help is needed! you can help georgia tech grow and take over north americ
+  * college risk reddit game - day 23 - anyone know how to kill a gator? # here is the latest on college football risk, a 15-seconds a day game of domination and diplomacy between the division i football universities that is run through reddit accounts at: # [collegefootballrisk.com]( \\\\ first some important notes join the [georgia tech sports discord (the hive)]( ! this is the main place where we a
+-- 3 random sampled docs from this topic --
+  [R_GT_58679] It’s been eight years since the greatest finish to a game in Tech history. | I think the miracle in Miami this season comes close.
+  [R_GT_27855] Calvin Johnson - GA Tech Legend - Greets Detroit Lions First Round Draft Picks Wearing His Hall of Game Jacket | This is a favorite of mine. It’s from last year but Jamyr Gibbs and Jack Campbell were greeted the day after being drafted in the first round by Barry Sanders and GATech GOAT WR Calvin Johnson.  
+
+It shows how CJ is epic and wants to help his former pro team even post retirement - as th
+  [R_GT_54876] My Immediate, Emotional [u]ga game rant | They never check buzz cards, and you have 2 strikes until there are consequences. Everyone sells tickets all the time.
+
+==========================================================================================
+[UNDER] topic=25: [mixed] Subreddit Meta & Moderation (n=225)  emotion=disappointment  lift=0.43
+-- representative docs --
+  * meta thread - august 2023 hello this is a monthly meta thread that renews on the 1st day of each month @ 12:00 am edt. what is a meta thread? a place where you can discuss the state of the subreddit and offer constructive feedback. a place where the mods announce any additions/deletions/changes to the subreddit. please remember to follow all rules.
+  * meta thread - april 2023 hello this is a monthly meta thread that renews on the 1st day of each month @ 12:00 am edt. what is a meta thread? a place where you can discuss the state of the subreddit and offer constructive feedback. a place where the mods announce any additions/deletions/changes to the subreddit. please remember to follow all rules.
+-- 3 random sampled docs from this topic --
+  [R_GT_73406] Can someone give me a place to cry please? | Ive cried while walking passed quite a few prospective student tour groups and it always makes me feel a bit better.
+  [R_GT_69156] We’re joining the Reddit blackout from June 12th to 14th to protest the planned API changes that will kill 3rd party apps | I see what you are saying, but I really don't see anything dumb in that. It's a no-loss bet. 
+
+It's either about profits, or morals. If one could make a case about copyright infringement, then it's about morals. And then they gotta explicitly forbid 3rd party apps and, more i
+  [R_GT_69063] As a continued protest against Reddit's API changes, we are implementing "Touch Grass Tuesdays" | Mods should be posting a poll for all the users of the sub to decide collectively if they want to continue restricting access to the sub, opening fully, going private once a week, etc.
+
+==========================================================================================
+[UNDER] topic=14: [mixed] Campus Services & Administration (n=609)  emotion=admiration  lift=0.44
+-- representative docs --
+  * package delivered to student center while closed i had a package get delivered to the student center post office while they were closed friday. do packages get dropped off somewhere or are they just sitting outside the loading dock. the tracking does not say where exactly it got dropped off, just that it got delivered. and i haven't received an email saying they got received by the post office.
+  * summer post office package pickup protocol if not on campus i got a notification saying i have a package to pick up at the post office in the student center in may. however, by that time, i already moved out and will only be returning to campus in august. when i called them twice to ask them what i can do, the person on the line mentioned something about mail forwarding or having someone pick up t
+-- 3 random sampled docs from this topic --
+  [R_GT_49842] Email Forwarding for Life: How do set it up? | As best I can tell they seem to still think we’re students. Hell, I have a Phase II time ticket for Spring 2024 and could register for classes if I was able to fill out the financial responsibility agreement. Idk why they think I’m still a student but I’m guessing it’s similar for you.
+
+Edit: I submitted the agreement just for kicks, I’ve got no hold 
+  [R_GT_62225] How to keep gatech email and windows post graduation? | Ohh ok that's great then. Thank you for telling me.
+  [R_GT_101859] When can we start to use the mailing service? | I believe you can find some info here: https://studentcenter.gatech.edu/student-mail
+
+Worst case you can also call the post office directly, they're very helpful.
+
+==========================================================================================
+[UNDER] topic=6: [high] Campus Dining (n=2,663)  emotion=optimism  lift=0.45
+-- representative docs --
+  * tech dining email on the recent state of willage for those who did not receive or see it yet, here is the email sent out by tech dining about why west village dining hall has been suffering in quality recently. thoughts? dear meal plan holders, over the last few weeks, tech dining has received some negative feedback regarding west village dining hall. we take your feedback seriously and as such, w
+  * there should be meal-swipe options in the student center i don't have a convenient way to get groceries and cook, so i bought 100 meal swipes for this semester, thinking i'd be able to get to dining halls relatively easily. problem is, on mwf i have no more than 30 minutes free between 9:30 and 6:00, and at no point do i have enough time to walk to a dining hall and be on time to my next class. i 
+-- 3 random sampled docs from this topic --
+  [R_GT_102856] Menus for Bento Sushi, Test Kitchen, 5th District Deli, and Campus Crust in the Student Center | Noice! Excited cuz it's gonna be my first time at the Student Center! (They renovated when I transferred)
+  [R_GT_100780] Affordable Grocery Options Nearby | Remember about how much? Used to be easy to get $2/lb, rarely do better than $3+ now.
+  [R_GT_27280] ranking matcha lattes on campus | FYI i'm pretty sure Bob's Cafe in Petit is actually just G&amp;B, but with less drink options.
+
+==========================================================================================
+[UNDER] topic=21: [mixed] Mascot & School Spirit (n=275)  emotion=approval  lift=0.46
+-- representative docs --
+  * buzz: the person, the myth, the legend— who are they? tech does such a great job at keeping buzz so gender neutral— i literally cannot even fathom what the person who plays them looks like. and is there only 1 buzz? or are there several buzz’s? do we ever learn buzz’s identity?
+  * doing a project on buzz, does anyone have stories to share? i'm doing a project on buzz and one portion will be about his impact on the campus culture and students. does anyone have any stories or images they'd like to share? it can be anything, an event or a random encounter.
+-- 3 random sampled docs from this topic --
+  [R_GT_74720] 2023 Mascot National Champion is... Buzz! | I notice that the link is deleted... looks like you got DMCA'd by the NCA (they are pretty rabid about that)!
+
+I have a video I shot of Buzz's routine from a rehearsal... should I put that up for you?
+  [R_GT_87618] One of the most popular TikTok trends meets Buzz | Needs a NSFW flair 🥵
+  [R_GT_88473] Why is there no Georgia Peaches | we are also the top blueberry producing state
+
+==========================================================================================
+[UNDER] topic=18: [high] Computer Science Threads (n=493)  emotion=caring  lift=0.46
+-- representative docs --
+  * sysarch vs info networks threads hi, i'm a second year computer engineering student hoping to work somewhere in software, possibly software engineering. for my threads i must choose 1 compe thread and 1 of any other area, so i'm set on distributed systems & software design for that 1 compe thread. but, i'm unsure what i would like to do for my second thread between sysarch and info networks. i've 
+  * do cs threads matter or does it all mean the same? like i have my threads currently undeclared but i've been working towards the info/internetworks // intelligence thread. someone told me that it was easier to do people/intelligence and that the threads don't matter as long as you're taking classes that you want to take. i don't want to take the easy way out by any means, but i am also highly inte
+-- 3 random sampled docs from this topic --
+  [R_GT_85952] What threads do you guys recommend for me? | Media is really fun, I’m in computer graphics currently and making ray tracers/mesh engines sounds right up your alley
+  [R_GT_75827] Best Thread/Programs for Quant Finance | I was gonna ask that before
+  [R_GT_11508] Anyone heard anything about tomorrow? The 22nd? | Ugh, I was hoping an announcement would be up by now. GSU is holding classes online tmr so hopefully Tech does too :(
+
+==========================================================================================
+[UNDER] topic=4: [high] Event Ticketing (n=3,080)  emotion=caring  lift=0.47
+-- representative docs --
+  * [megathread] graduation/commencement tickets - buy/sell thread (spring 2025) # don't get scammed. tips: meet up in person to verify the seller's student status, identity, and ticket status. you're all theoretically students and you should be on campus already so this should be easy. don't be lazy and skip an in-person meetup. don't send money without verifying the seller first. if you can't verify
+  * [megathread] graduation/commencement tickets - buy/sell thread (spring 2024) # don't get scammed. tips: meet up in person to verify the seller's student status, identity, and ticket status. you're all theoretically students and you should be on campus already so this should be easy. don't be lazy and skip an in-person meetup. don't send money without verifying the seller first. if you can't verify
+-- 3 random sampled docs from this topic --
+  [R_GT_00948] Is it worth going to the early Master's ceremony too? | I went last semester and I'd say it was worth it mostly because it's once in a lifetime. You won't really regret going but you might regret skipping. On the other hand, there's not that much that happens in the earlier one, so if you're really pressed for time maybe then it's up to you
+  [R_GT_71420] What can you get away at graduation | That’s fine and it’s less disruptive
+  [R_GT_25966] Shortened quarters in football games? | I think someone said the last one we had was against Elon
+
+==========================================================================================
+[UNDER] topic=9: [high] Printing & Tech Resources (n=969)  emotion=caring  lift=0.47
+-- representative docs --
+  * computer requirements for civil engineering programs hello. i will be transferring to georgia tech during the spring 2025 semester as a civil engineering major. i was doing some research trying to figure out my computer situation for next semester. i recently purchased a macbook air with the m2 chip and 16gb of ram. i understand that there are a lot of engineering softwares that will not run on ma
+  * looking for engineering student to build a machine for me i’m looking to hire an engineering student to take open source plans from the internet and build me either 1 or 2 different types of 3d filament extruders. i’m a big recycler but i hear that my recycles are sent overseas and sometimes dumped into the ocean. i would love to be able to take the plastics that i accumulate at home, remove the l
+-- 3 random sampled docs from this topic --
+  [R_GT_82918] Anyone know when the Maker Spaces are opening? | The HIVE also opens next week (Monday the 23rd)
+  [R_GT_43362] CoC Needs to Re-Read the GT Honor Code | Hey buddy, it sounds like you need to refactor your relaxation and debug your tan lines. While you’re at it make sure to decompress those algorithms!
+  [R_GT_21693] Guys didn't even have the balls to put these on the pedestrian-facing side lmao | No one is advocating for killing children but pop off
+
+==========================================================================================
+[UNDER] topic=8: [high] Campus Photography (n=1,354)  emotion=optimism  lift=0.47
+-- representative docs --
+  * photographers for graduation photos i take grad pics!! i also wanted to keep student-conscious prices in mind (as a student myself), so prices range from $65 for 30 mins and upwards for students depending on the session length. this just covers editing time on my end and resources i need to keep on taking photos :). fall is arriving (slowly but surely) which means golden colors are coming to campu
+  * complete video walkthrough of the new student center most students are off interning or studying abroad in parts unknown. since so many people are away from campus, i recorded a thorough video walkthrough of the new student center. posted from a throwaway because my hair and face are visible at some points in the videos. warning: i'm not a professional videographer. [1st floor]( cypress theater (0
+-- 3 random sampled docs from this topic --
+  [R_GT_38686] Edge-Rice demolition has begun | Van leer is too full is asbestos for anyone to touch it. It’s so embedded into the structure the options are keep as is without disturbing it or tear the whole thing down and start over.
+
+Most of the other previously asbestos filled buildings around campus had remediation done, but no one has been able to create a reasonable remediation plan for Van leer despite al
+  [R_GT_36143] What show or movie is filming at the CRC?  | This is a list of current filming projects in Georgia. There’s a lot but it’s the closest i can get you to an answer lol 
+
+https://www.georgia.org/industries/film-entertainment/georgia-film-tv-production/now-filming-georgia
+  [R_GT_101450] Complete Video Walkthrough of the New Student Center | &gt; may have been a Pizza Hut when you were here
+
+Yup, I have been back and remember them replacing the Pizza Hut, which I thought was a good idea. That smell was distributed everywhere and it was deceitful.
+
+==========================================================================================
+[UNDER] topic=26: [high] Laundry & Hygiene (n=283)  emotion=approval  lift=0.47
+-- representative docs --
+  * reminder: pick up your laundry on time! even when it's like a monday or tuesday night, when people "normally" don't do laundry, remember to pick up your stuff from the laundry rooms! especially when there are multiple washers down because people put tide pods where they're not supposed to go!
+  * zba laundry room washers down zba shared laundry room currently has 13 washers, out of which maybe 4 are usable right now and more than half are “out of order.” the number of total washers already doesn’t feel very sufficient for the almost 500 residents across these two buildings, but it’s ridiculous that all these washers aren’t working. does maintenance not regularly check these machines?
+-- 3 random sampled docs from this topic --
+  [R_GT_95104] Please for the love of God, shower | This is a yearly scheduled post
+  [R_GT_84137] I cannot believe they squeaked out that W. | As a huge Michigan fan and GT grad, please trust me on this: Ohio State is so much worse than UGA. But yeah...go Horned Frogs.
+  [R_GT_95086] Please for the love of God, shower | Please for the love of God shower. I know we're all busy, but it's become unbearable. Or wear deodorant. Anyway, be mindful of others
+
+==========================================================================================
+[OVER] topic=10: [high] Campus IT Support (n=878)  emotion=disappointment  lift=2.10
+-- representative docs --
+  * network outages impacting university system of georgia systems and services everyone, the office of information technology (oit) is aware of network outages currently impacting university system of georgia (usg) systems and services. teams are diligently working to restore connectivity. during this time, you may experience intermittent issues when attempting to access georgia tech services from on
+  * campus dns outage dear georgia tech community members: the office of information technology is currently working to resolve issues that have affected access to the campus domain name system and services, including banner, oscar, and campus network. up-to-date progress will be provided on the georgia tech it status page at there, you can also subscribe to receive it-specific maintenance notices. we
+-- 3 random sampled docs from this topic --
+  [R_GT_05284] University System of GA Return To Office order | Managers had no notice whatsoever. I think this is an attempt to get all the people who have been fully remote since Covid back in the office some. The Working @ Tech policy was a very relaxed policy, which basically gave any and every position the ability to work remote. Not all departments used W@T policy, and their employees have been back in off
+  [R_GT_48737] Getting an excused absence for a cold | Yep on the P.S., the testing is "free" if you paid the health fee but you have to make an appointment beforehand
+  [R_GT_92138] Couple indicted for trying to extort Georgia Tech's Josh Pastner | The person on the picture looks like Dream
+
+==========================================================================================
+[UNDER] topic=17: [high] Campus Wildlife & Stray Animals (n=584)  emotion=disapproval  lift=0.48
+-- representative docs --
+  * stray or lost black cat by skiles today i saw a small (probably 1-2 year old female) black cat outside skiles today at noon. she was scared and wouldn't come up to me, but looked very clean and reasonably well fed. so i'm posting in case anyone is missing such a cat. i'm new to campus, so i'm also wondering if there are feral cats still (previous posts would indicate there were in the past) and if
+  * gt s.q.u.i.r.r.e.l. units have arrived at brittain the georgia tech’s elite stopping quizzically underrated invertebrates from raging rambunctiously through engineer’s lives (squirrel) unit has arrived on scene in brittain dining hall today. the group of 4 highly skilled and trained officials includes a chef, a tech dining worker, an old man, and a guy with a nice beard. they quickly took action b
+-- 3 random sampled docs from this topic --
+  [R_GT_98944] missing cat in home park?? super friendly. collared but no tag | I think she’s there for Michelle’s or is one of her renter’s
+  [R_GT_79866] Parents With Pups conspiracy theories | Pics of puppies or it didn’t happen.
+  [R_GT_16089] Squirrels outside and eating... in December? (spotted on campus yesterday) | I stand corrected (apparently I confused it with chipmunks)
+
+==========================================================================================
+[OVER] topic=22: [low] Campus News & Alerts (n=371)  emotion=caring  lift=2.03
+-- representative docs --
+  * gtens & outdoor siren warning system test at 12 noon oem will be conducting our regularly scheduled monthly test of gtens and the outdoor siren warning system today at 12 noon. please do not be alarmed.
+  * gtens & outdoor siren warning system test today at 12 noon oem will be conducting our regularly scheduled test of gtens and the outdoor siren warning system today at 12 noon. please do not be alarmed.
+-- 3 random sampled docs from this topic --
+  [R_GT_38548] Arrests at Emory's pro-Palestinian protest today | I wish the same fate on these “peaceful protesters” that they wish on Israeli citizens.
+  [R_GT_56200] Mood after physics test today lol | I've been to every single plus session since the first test and still haven't been able to make a C on any one of the tests. This class/school is constant pain 💀
+  [R_GT_38606] Arrests at Emory's pro-Palestinian protest today | Ah yes a measured and reasonable response by our university and law enforcement institutions
+
+==========================================================================================
+[OVER] topic=12: [high] Social & Mental Health (n=6,326)  emotion=caring  lift=1.99
+-- representative docs --
+  * i graduated from tech almost 9 years ago. thought i'd share my uncommon stories : ) my journey to the united states my story began in a small town in china, where i grew up in a family that faced significant financial struggles. my mother, a dedicated entrepreneur, went through some difficult times that made even the thought of studying abroad seem impossible. but deep inside, i always knew that i
+  * i had a social crisis. read this if you are feeling alone. i was insecure with my social confidence. it started as a graduated high school. i was a part of my high school’s marching band for three years, and in that time, i made a strong bond to my section of that community, the trumpets. these were the people i talked to on a daily basis, they were the people i could most rely on, and some of the
+-- 3 random sampled docs from this topic --
+  [R_GT_32424] Texas high schools using our logos | Ga Tech licenses it's trademarks to other partnered K-12 schools. There are 380 partnered schools.
+
+https://licensing.gatech.edu/off-campus/schools
+  [R_GT_93650] Alumni of Tech: What’s one inside joke from your time here that today’s students might not get | Radio Techwood. In Techwood dorm, someone set up a low power radio station. They had a receiver setup in the back of Junior's playing it.
+  [R_GT_19095] Can we go back to Mr. And Mrs. GT? | Was this the Fiji SA case?
+
+==========================================================================================
+[OVER] topic=20: [high] Campus Recreation Center (n=361)  emotion=caring  lift=1.98
+-- representative docs --
+  * crc - best time to go to the gym? i used to workout a lot before covid at the gym near my house but since quarantine i haven’t gotten the chance + i didn’t want to get another gym membership. now that i’m coming to gt in the fall, i was wondering when the lowest amount of people are in the gym. my previous gym was small and very spaced out so i never had a problem with people but seeing how the en
+  * an open letter to the crc administration thank you. im in my third year here at tech and through things i have been involved with on campus, i’ve come to develop a pretty good sense of the problems tech faces (along with the positives). i am also an avid supporter of health initiatives and live an extremely active lifestyle. which means i use the crc weight floors practically every day. and throug
+-- 3 random sampled docs from this topic --
+  [R_GT_84277] CRC Workout Tips for a beginner | Depends what you want to do. I’m someone who’s more into strength training/ weightlifting, so I familiarized myself with all the equipment so I would know where to walk around to. But in general, if you’re a beginner, do your research for the goals you are aiming to achieve and plant out a regime based on that (or at least have a general idea) before you go start.
+  [R_GT_95854] Personal trainers available options | Woman who is kinda new to weightlifting that wants to get a personal trainer for multiple reasons (new to weightlifting/building muscles, lowkey intimidated by the CRC, etc). Should I get a trainer provided here our outside the college?
+  [R_GT_90112] CRC Squat racks/ Benchpress lines | It's more a problem of what the facility to handle rather than trying to imbue a gym culture. There's too many students compared to the number of the high use lifting equipment like racks and benches. since the CRC fee is rolled into our tuition , many people who wouldn't likely go to the gym on a daily basis will occasionally go (often at prime time ~5pm after 
+
+==========================================================================================
+[OVER] topic=5: [high] Georgia Tech Football (n=4,341)  emotion=disappointment  lift=1.95
+-- representative docs --
+  * college risk online reddit game: conquer other schools! - day 19 here is the latest for college football risk, a 15-seconds a day game of domination and diplomacy between the division i football universities that is run through reddit accounts on [collegefootballrisk.com]( \\\\\ first some important notes join the game, your help is needed! you can help georgia tech grow and take over north americ
+  * college risk reddit game - day 23 - anyone know how to kill a gator? # here is the latest on college football risk, a 15-seconds a day game of domination and diplomacy between the division i football universities that is run through reddit accounts at: # [collegefootballrisk.com]( \\\\ first some important notes join the [georgia tech sports discord (the hive)]( ! this is the main place where we a
+-- 3 random sampled docs from this topic --
+  [R_GT_01204] I interviewed former GT player and coach Bill Curry | Bill Curry is the man. He played under Dodd and went pro as a center for Green Bay. His second season they won the Super Bowl - literally Super Bowl 1- under head coach Vince Lombardi. He helped found the NFLPA and coached at Alabama and Tech. Dude is amazing.
+  [R_GT_16527] Did Georgia's Dan Jackson commit targeting on QB Haynes King during forced fumble? | Yes but you can’t give the time out twice for the two min warning.
+  [R_GT_96432] Geoff Collins needs to be fired now | A great look for Parent's Weekend.  May all parents keep their checkbooks closed.
+
+==========================================================================================
+[OVER] topic=22: [low] Campus News & Alerts (n=371)  emotion=amusement  lift=1.92
+-- representative docs --
+  * gtens & outdoor siren warning system test at 12 noon oem will be conducting our regularly scheduled monthly test of gtens and the outdoor siren warning system today at 12 noon. please do not be alarmed.
+  * gtens & outdoor siren warning system test today at 12 noon oem will be conducting our regularly scheduled test of gtens and the outdoor siren warning system today at 12 noon. please do not be alarmed.
+-- 3 random sampled docs from this topic --
+  [R_GT_46840] Failed my first test ever, I might be cooked | Guy in noose meme.  “First time?”
+  [R_GT_46823] Failed my first test ever, I might be cooked | There used to be several sequels under the quarter system.  Many moons ago.  Many, many moons.
+  [R_GT_56207] Mood after physics test today lol | It's not a photon, but a proton - and the issue isn't that it was "trivial", but the fact that there was absolutely zero preparation from administration for this question. Also, if you've taken the class or have any sort of understanding of the material it'll be a lot easier than those of us who have only been exposed to this for the first time through this clas
+
+==========================================================================================
+[OVER] topic=25: [mixed] Subreddit Meta & Moderation (n=225)  emotion=annoyance  lift=1.92
+-- representative docs --
+  * meta thread - august 2023 hello this is a monthly meta thread that renews on the 1st day of each month @ 12:00 am edt. what is a meta thread? a place where you can discuss the state of the subreddit and offer constructive feedback. a place where the mods announce any additions/deletions/changes to the subreddit. please remember to follow all rules.
+  * meta thread - april 2023 hello this is a monthly meta thread that renews on the 1st day of each month @ 12:00 am edt. what is a meta thread? a place where you can discuss the state of the subreddit and offer constructive feedback. a place where the mods announce any additions/deletions/changes to the subreddit. please remember to follow all rules.
+-- 3 random sampled docs from this topic --
+  [R_GT_59979] Is there a place to get free lotion on campus? | And on occasion, full size. But i havent seen any such offerings in months.
+  [R_GT_76666] How should I renege an offer? Any repercussions? | Hey, I DMed you.
+  [R_GT_84142] Meta Thread - January 2023 | Hello r/gatech!
+
+This is a monthly meta thread that renews on the 1st day of each month @ 12:00 AM EDT.
+
+* What is a meta thread?
+   * A place where you can discuss the state of the subreddit and offer constructive feedback.
+   * A place where the mods announce any additions/deletions/changes to the subreddit.
+
+Please remember to follow all rules.
+
+==========================================================================================
+[OVER] topic=24: [high] Campus Transportation (n=277)  emotion=amusement  lift=1.89
+-- representative docs --
+  * stop using the stinger buses. use a humanstinger instead! brought to you by yellow jackets against computer programming. yes, this is an actual thing. all proceeds go in equal part to partners in health and the electronic frontier foundation (we're not affiliated w them at all lol we just think they're way cool). riding on the bus is free, but you can add a tip (if you want to, totally optional) t
+  * thoughts on the proposed stinger system in the ccp? current system for context (ignore odd errors with the red and blue lines): i personally find the current blue and red lines annoying to use because of their layovers. also, i think not needing to be as careful about which bus you get on along ferst dr could make using the bus easier. however, it would screw over people living in home park. edit:
+-- 3 random sampled docs from this topic --
+  [R_GT_93802] Do we not thank the bus drivers anymore? | I ride multiple times per day and I'd say that most riders thank the driver when they depart from the front.
+  [R_GT_64287] Most efficient GT Bus Scheduling | Why is there still not a stop at Uhouse? I remember when they removed it several years ago
+  [R_GT_18595] Why is the stinger so fucking shit | Always trust your legs over PTS. And I am sorry if you are unable to walk, but in that case use the ADA services, they are much much better.
+
+==========================================================================================
+[OVER] topic=13: [mixed] Campus Life & Student Experiences (n=2,548)  emotion=disapproval  lift=1.86
+-- representative docs --
+  * be very careful of the sororities on campus eh…i know of plenty of instances where it gave myself and others a leg up. but networking doesn’t require a frat. it sure does help though. 1) workplace politics and frat politics are surprisingly similar. 2) frats have lots of campus life activities and are a strong voting block. opens doors to getting a leadership role in some club. 3) alumni of frats 
+  * be very careful of the sororities on campus i have decided because of the bidding events in the next few days. girls on campus should know the dangers and risks that are associated with joining. i was not going to ever do something like this but my younger sister will be joining gatech and i don’t want her and any other girls to have the same experiences me and many others share. from personal exp
+-- 3 random sampled docs from this topic --
+  [R_GT_20775] [REPOST WITH BLURRED FACES] Anti Trump rally protests near the GLC (turns out there's *three* political events on campus today)  | Examine your own bias, and then come back.
+  [R_GT_02728] Another GT Leader Leaving Angel | Edited
+
+Good for him. At least, he does not need to suck up to UGA-infested USG.
+
+Also, Cooper Union is a really good engineering school, whose education is focused on undergrad experience.
+  [R_GT_60103] To The People Who Vandalized the AEPI House: | I struggle to believe your individual experience as a troop or tourist is more representative of the quality of life of a Palestinian than what extensive research bears out
+
+==========================================================================================
+[OVER] topic=16: [high] Email Phishing & Scams (n=659)  emotion=caring  lift=1.77
+-- representative docs --
+  * urgent: gt students - never share your duo 2fa codes! dear gt family, many of you are aware of the recent wave of phishing attempts targeting georgia tech students. these attacks are particularly concerning as they're exploiting previously compromised gt accounts to send what appear to be legitimate verification requests. important security facts you need to know: the it department will never ask 
+  * gt cybersecurity operations psa dear gt family, gt cybersecurity is currently observing phishing attempts via email and text with the subject related to 'assistant positions'. these attempts are exploiting previously compromised gt accounts to send emails with malicious link to harvest credentials. for phishing text, please do not click on any links or respond to any phone numbers that you do not 
+-- 3 random sampled docs from this topic --
+  [R_GT_57556] Identity stolen in the MOVEit data breach. Where are those “resources” promised by USG? | GT is a declining institution, in every sense of the word, in all aspects.
+Sorry that happened to you
+  [R_GT_40374] WARNING: Email Phishing Scam (Details in comment) | I am unfortunately one of the dumb students who opened it. However, when it asked for credentials, it was sus, and I immediately closed it without entering anything. Should I be concerned? Any steps I need to take besides reporting it to IT?
+  [R_GT_00787] New Phishing email so please be mindful | So many of them these days
+
+==========================================================================================
+[OVER] topic=21: [mixed] Mascot & School Spirit (n=275)  emotion=amusement  lift=1.75
+-- representative docs --
+  * buzz: the person, the myth, the legend— who are they? tech does such a great job at keeping buzz so gender neutral— i literally cannot even fathom what the person who plays them looks like. and is there only 1 buzz? or are there several buzz’s? do we ever learn buzz’s identity?
+  * doing a project on buzz, does anyone have stories to share? i'm doing a project on buzz and one portion will be about his impact on the campus culture and students. does anyone have any stories or images they'd like to share? it can be anything, an event or a random encounter.
+-- 3 random sampled docs from this topic --
+  [R_GT_67952] Buzz sighting in an Osaka Eatery | who gonna snitch on a cafe in Japan 😭😭😭
+  [R_GT_03770] Tim Walz Spotted with a GT Hat | Not to be political, but shouldn't he be in a Golden Gopher hat?
+  [R_GT_03765] Tim Walz Spotted with a GT Hat | Not to my knowledge. I’d assume it’s from his visit some months ago.
+
+==========================================================================================
+[OVER] topic=11: [high] Student Health & Insurance (n=669)  emotion=caring  lift=1.75
+-- representative docs --
+  * health fee, student insurance fee, and mandatory health insurance charge on tuition??? to start off, i am not talking about the opt-out/in of mandatory student health insurance. and i've searched the gt ship webpage. though i just opted in (that's why it's not yet reflected in the ss), i am confused as to why there's a $300 student health insurance fee and a \~$70 health fee on my tuition receipt,
+  * health insurance at georgia tech question i am a new hire (research engineer ii) at georgia tech. i am trying to figure out which health insurance plan works better for me. i know there's a "stamps health service" on campus. i prefer to go there, since i work on campus and i don't have a car. however, when i look for "doctors in the network" of my health insurance plan, none of the primary care do
+-- 3 random sampled docs from this topic --
+  [R_GT_89085] Students with anxiety, how do you cope &amp; approach work? | Yeah of course! I'll be happy to help :)
+  [R_GT_100506] Genuine question, what will CARE/Stamps Psych do if I tell them I tend to passively ideate suicide? Will they ship me off to inpatient care or notify the police? | Some of the people will take passive ideation as immediate danger and send you to inpatient care immediately. I have friends who were in this exact situation. Be careful and smart with GT Care
+  [R_GT_22331] how to get doctors note on weekend? | Northside urgent care is open until 8 today. They are in midtown.
+
+==========================================================================================
+[OVER] topic=17: [high] Campus Wildlife & Stray Animals (n=584)  emotion=admiration  lift=1.73
+-- representative docs --
+  * stray or lost black cat by skiles today i saw a small (probably 1-2 year old female) black cat outside skiles today at noon. she was scared and wouldn't come up to me, but looked very clean and reasonably well fed. so i'm posting in case anyone is missing such a cat. i'm new to campus, so i'm also wondering if there are feral cats still (previous posts would indicate there were in the past) and if
+  * gt s.q.u.i.r.r.e.l. units have arrived at brittain the georgia tech’s elite stopping quizzically underrated invertebrates from raging rambunctiously through engineer’s lives (squirrel) unit has arrived on scene in brittain dining hall today. the group of 4 highly skilled and trained officials includes a chef, a tech dining worker, an old man, and a guy with a nice beard. they quickly took action b
+-- 3 random sampled docs from this topic --
+  [R_GT_47954] Girl at the student center with a pet pigeon | Yeah I’m very curious the story behind the bird if she feels comfortable sharing
+  [R_GT_34662] Can we do anything about the butchering of a flourishing natural ecosystem in Home Park? | Hey there,
+
+I'm sorry to hear about this. I live in Home Park, and it's a shame to see deforestation around our neighborhood. 
+
+I've worked at Trees Atlanta for about a year now and we get inquiries about this sort of thing all the time. All you can really do is report them for violations of Atlanta's 'Tree 
+  [R_GT_47938] Girl at the student center with a pet pigeon | i actually didnt train him! i do train him to do small tricks, but he chooses to stay on my shoulder or be near me. i think it’s because we’re bonded (he essentially thinks im his mate). he’s a good boi!
+
+==========================================================================================
+[OVER] topic=5: [high] Georgia Tech Football (n=4,341)  emotion=optimism  lift=1.70
+-- representative docs --
+  * college risk online reddit game: conquer other schools! - day 19 here is the latest for college football risk, a 15-seconds a day game of domination and diplomacy between the division i football universities that is run through reddit accounts on [collegefootballrisk.com]( \\\\\ first some important notes join the game, your help is needed! you can help georgia tech grow and take over north americ
+  * college risk reddit game - day 23 - anyone know how to kill a gator? # here is the latest on college football risk, a 15-seconds a day game of domination and diplomacy between the division i football universities that is run through reddit accounts at: # [collegefootballrisk.com]( \\\\ first some important notes join the [georgia tech sports discord (the hive)]( ! this is the main place where we a
+-- 3 random sampled docs from this topic --
+  [R_GT_61287] GT is paying bowling green $1.1 million to play today's game. | NIU loss was bad but, they were a 9 win team and played for a MAC championship.  We also played them close and didn’t give up 38 unanswered points.
+  [R_GT_58672] It’s been eight years since the greatest finish to a game in Tech history. | BLOCKED! SNUFFED! RUBBED OUT! ERASED! And Georgia Tech with an opportunity! Austin, still on his feet. ONE MAN! YOU CAN'T BELIEVE WHAT JUST HAPPENED! WHAT A TIME TO BE ALIVE &lt;voice crack&gt;
+
+The correct and only link necessary: https://youtu.be/bV0YvPnmZsU
+
+The call on this is incredible. The "what a time to be alive"
+  [R_GT_46392] Butker carrying GT’s legacy at NFL with the SB record❤️ | Butker doing Butker thing.
+
+Edit - and he's singlehandedly keeping the Chiefs in the game
+
+==========================================================================================
+[OVER] topic=19: [high] Voting & Elections (n=436)  emotion=disapproval  lift=1.69
+-- representative docs --
+  * how to register to vote as an out-of-state student: a guide if you are a student at georgia tech (and a us citizen, not a fellon, etc) you have the legal right to vote in georgia, regardless if you are in or out of state! i am originally from new jersey but i registered to vote with only my buzzcard. its pretty easy! please register to vote before the deadline of oct 7,2024! if you're out of state
+  * register to vote by october 11th, and vote in the 2022 midterms! the 2022 midterm elections will be held on november 8th. here's how to take part and have a say in what kind of a state georgia will be! ##register to vote in georgia, you must register by october 11th to vote in the midterms. you can register here: ##voting in person georgia offers early voting from october 17th-november 4th. find y
+-- 3 random sampled docs from this topic --
+  [R_GT_20039] Why is election day not a campus wide holiday? | Not sure if this is true, but the point is to make it so working ppl can't vote easily. If I remember correctly, there were talks or maybe a draft bill to make voting day easier for ppl who has to work, but it got shut down. 
+
+If you google any voting statistics by age, ppl who are retired have the highest "voting group/population" (idk what the cor
+  [R_GT_25110] Voter registration scam in student center? | There was a vote latin group with official forms tabling earlier this week too on the walkway between student center and skiles but I think they seemed legit. Does anyone know?
+  [R_GT_23660] Can I vote in Georgia as out-of-state? | Ok, thank you. I still have worries about what will happen to my Illinois driver's license if I vote here. Some people say that it might become invalid 30 days afterwards because by voting(or registering?) here I claim Georgia residence. Is that something that you're aware of happening in the past?
+
+==========================================================================================
+[OVER] topic=13: [mixed] Campus Life & Student Experiences (n=2,548)  emotion=annoyance  lift=1.66
+-- representative docs --
+  * be very careful of the sororities on campus eh…i know of plenty of instances where it gave myself and others a leg up. but networking doesn’t require a frat. it sure does help though. 1) workplace politics and frat politics are surprisingly similar. 2) frats have lots of campus life activities and are a strong voting block. opens doors to getting a leadership role in some club. 3) alumni of frats 
+  * be very careful of the sororities on campus i have decided because of the bidding events in the next few days. girls on campus should know the dangers and risks that are associated with joining. i was not going to ever do something like this but my younger sister will be joining gatech and i don’t want her and any other girls to have the same experiences me and many others share. from personal exp
+-- 3 random sampled docs from this topic --
+  [R_GT_20053] So apparently Harris is holding a political campaign on Saturday | Even native speakers cant get complete sentences out of Trump. He’s almost certainly got dementia, and he was never a good speaker before that. Kamala will be way more understandable
+  [R_GT_03207] GT Student Visas Revoked (20+ Confirmed) - Support international Yellow Jackets | Yeah fuck man. I am scared now.....like wtf did we ever do to you? All we want is to study in peace....
+  [R_GT_41050] What was it like being a student on campus during freaknik in the 80s/90s? | It was horrible. It took me 3 hours to drive from GT campus to my apartment in Virginia Highlands during Freaknik in either 93 or 94. But there was nothing on campus that I recall.
+
+==========================================================================================
+[OVER] topic=14: [mixed] Campus Services & Administration (n=609)  emotion=confusion  lift=1.66
+-- representative docs --
+  * package delivered to student center while closed i had a package get delivered to the student center post office while they were closed friday. do packages get dropped off somewhere or are they just sitting outside the loading dock. the tracking does not say where exactly it got dropped off, just that it got delivered. and i haven't received an email saying they got received by the post office.
+  * summer post office package pickup protocol if not on campus i got a notification saying i have a package to pick up at the post office in the student center in may. however, by that time, i already moved out and will only be returning to campus in august. when i called them twice to ask them what i can do, the person on the line mentioned something about mail forwarding or having someone pick up t
+-- 3 random sampled docs from this topic --
+  [R_GT_81770] Does GeorgiaTech send acceptance packages through mail? | I got in last year while living abroad and I got nothing. Congrats tho!
+  [R_GT_18478] Mailed a package to my bf, but found out too late that he doesn't rent a mail box. What can be done?  | OP said it was a surprise + it might be their first time sending a package to their BF, so it makes total sense why they may not have known about mailbox numbers
+  [R_GT_43449] issues with packages at student center  | USPS in metro Atlanta is saying mail is delayed by like 2-5 weeks due to a new facility being opened in Palmetto.
+
+==========================================================================================
+[OVER] topic=18: [high] Computer Science Threads (n=493)  emotion=approval  lift=1.62
+-- representative docs --
+  * sysarch vs info networks threads hi, i'm a second year computer engineering student hoping to work somewhere in software, possibly software engineering. for my threads i must choose 1 compe thread and 1 of any other area, so i'm set on distributed systems & software design for that 1 compe thread. but, i'm unsure what i would like to do for my second thread between sysarch and info networks. i've 
+  * do cs threads matter or does it all mean the same? like i have my threads currently undeclared but i've been working towards the info/internetworks // intelligence thread. someone told me that it was easier to do people/intelligence and that the threads don't matter as long as you're taking classes that you want to take. i don't want to take the easy way out by any means, but i am also highly inte
+-- 3 random sampled docs from this topic --
+  [R_GT_17872] CS Alumni - What are your YOE and salary and job prospects now?  | I don’t hold any cert unfortunately. I wanted to pursue some but realized they don’t really matter for my work or for finding jobs in this field. I did sys-arch and info. Sys-arch cause I wanted to do these low-level stuff. Info just seemed fun and very chill!
+  [R_GT_75811] Best Thread/Programs for Quant Finance | Yes, that reasoning does make sense. How many credits are needed for a CS+Math program?
+  [R_GT_73718] Good movie theaters near Georgia Tech? | Usually go to Landmark Art Midtown or Plaza, but if you can drive like 20 minutes, Springs Cinema Taphouse has immaculate vibes and a full bar
+
+==========================================================================================
+[OVER] topic=14: [mixed] Campus Services & Administration (n=609)  emotion=gratitude  lift=1.61
+-- representative docs --
+  * package delivered to student center while closed i had a package get delivered to the student center post office while they were closed friday. do packages get dropped off somewhere or are they just sitting outside the loading dock. the tracking does not say where exactly it got dropped off, just that it got delivered. and i haven't received an email saying they got received by the post office.
+  * summer post office package pickup protocol if not on campus i got a notification saying i have a package to pick up at the post office in the student center in may. however, by that time, i already moved out and will only be returning to campus in august. when i called them twice to ask them what i can do, the person on the line mentioned something about mail forwarding or having someone pick up t
+-- 3 random sampled docs from this topic --
+  [R_GT_58626] Where can I change my mailing preferences to stop getting sent GT Alumni Magazines? | At least the Alumni Association stopped putting people's SSNs, birthdate, major, and year on the top line of the labels in the late 80's....   that's a small blessing. :)
+
+More to the point, if all else fails, contact the Alumni Association:
+
+   404-894-2391  
+   404-894-5113  
+   info (at) gtalumni.org
+  [R_GT_18480] Mailed a package to my bf, but found out too late that he doesn't rent a mail box. What can be done?  | I would call the GT post office ASAP
+  [R_GT_27635] Amazon Packages Wrong Location | This is my guess as well. If you see the loading dock (it faces the track and field field) go through the double doors and these packages are in that hallway to the right on tables.  Good luck op!
+
+==========================================================================================
+[OVER] topic=28: [mixed] Campus Culture & Student Life (n=367)  emotion=amusement  lift=1.60
+-- representative docs --
+  * kids at gatech are seriously depressed my youngest has been considering gatech for bme, but i’m concerned with all the depressing, miserable postings i see here all the time. is this the norm?
+  * what do you guys love and hate about gatech? pros: outstanding engineering school, etc. cons: there are few beautiful girls in this school, and most engineering major girls, you know, are very nerdy with low eq, so finding a good girlfriend here would be a serious problem, etc.
+-- 3 random sampled docs from this topic --
+  [R_GT_39181] Thanks for keeping Gatech sane, and not a Columbia/Yale/Stanford/Berkeley/Princeton/Harvard | Bro, Indian Males legit have the highest merit based stats (standardized exams, GPA, international competitive awards, etc), and have the lowest and most competitive admissions into top schools. There was legit a fuckin law suit about it
+
+Now as a South Asian women, you don’t know how much I hate ever say
+  [R_GT_09079] Welcome to Tech Lake (yes, it's making a comeback with this storm) | When I attended, Tech Green was closed for at least a semester for "drainage upgrades".  The fuck did it close for?
+  [R_GT_13456] As much as I hate it, we are all Notre Dame fans today | Even Carson Beck wants nothing to do with the dogs, would rather enter the draft coming straight off an injury than play with them again.
+
+==========================================================================================
+[OVER] topic=0: [high] Academic Planning & Course Registration (n=12,387)  emotion=caring  lift=1.56
+-- representative docs --
+  * when's the registration date for spring 2023 transfer students? i will be an incoming freshman at utd computer engineering and entered the georgia tech arts & sciences pathway program in fall 2024. so, if i generally applied as a transfer for computer engineering and met the requirements, would it be easy to get in? also, how easy would it be to transfer to a computer engineering major if i took m
+  * gt transfer tool: find courses that transfer back to gt i will be an incoming freshman at utd computer engineering and entered the georgia tech arts & sciences pathway program in fall 2024. so, if i generally applied as a transfer for computer engineering and met the requirements, would it be easy to get in? also, how easy would it be to transfer to a computer engineering major if i took my transf
+-- 3 random sampled docs from this topic --
+  [R_GT_04400] Possibly failing a class I need to graduate, starting another program somewhere else in the fall and can't retake | thanks, but i said in the post i already have my BS from tech. this is for my MS. and that there isn't a summer equivalent for this course
+  [R_GT_30540] Grad Permits &amp; Registrar Delays  | My experience is that you need the professor teaching the course to sign the docusign? Which sometimes just never happens. A week sounds like nothing, I remember having to have my own research professor literally dm the other prof on teams before I got mine signed for a course. I didn’t think there was a formal process where you can request permits like there
+  [R_GT_92023] [Megathread] Spring 2023 Registration &amp; Admissions | Anyone planning on dropping CS 6515 or CS 6301? Really need those classes
+
+==========================================================================================
+[OVER] topic=7: [high] Transportation & Parking (n=3,786)  emotion=annoyance  lift=1.55
+-- representative docs --
+  * y’all pleas stop riding bikes/scooters on sidewalks that clearly are not made for bikes to be on hey i got a idea why don't we all just wake up 15 mins earlier and walk bam problem sloved. bigger cities have only been doing that since the beginning of big cities. just being lazier or making you commute a few minutes faster is not worth building new expensive lanes or endangering normal pedestrians
+  * questions about carpooling____ so, i am considering to buy a carpool parking pass since i live with 3 other roommates on campus. i understand the general idea - we all share a common car - but how exactly does that work? from what i understood from the rules, i am permitted to have 12 "complimentary days of parking". what is a complimentary day of parking? does it mean i am allowed to park without
+-- 3 random sampled docs from this topic --
+  [R_GT_29906] Information about Bicycle Lottery  | Starter bikes, they meet every Friday in the crc parking deck ground level
+  [R_GT_64452] Can I bring my own scooter to class? | Hi, just wondering if I can bring my own scooter to class and put it in the back of the class? 
+
+I check the school policy in terms of driving it on the bike’s lane but didn’t see any regulations in terms of if I can bring it with me .
+
+Thanks!!
+  [R_GT_37893] Any convenience stores on or next to campus? | Google and Apple Maps searches are failing to find me anything. I’m visiting for a couple days and need some deodorant and hairspray. Is there somewhere to buy that on campus or within a half mile?
+
+==========================================================================================
+[OVER] topic=20: [high] Campus Recreation Center (n=361)  emotion=approval  lift=1.53
+-- representative docs --
+  * crc - best time to go to the gym? i used to workout a lot before covid at the gym near my house but since quarantine i haven’t gotten the chance + i didn’t want to get another gym membership. now that i’m coming to gt in the fall, i was wondering when the lowest amount of people are in the gym. my previous gym was small and very spaced out so i never had a problem with people but seeing how the en
+  * an open letter to the crc administration thank you. im in my third year here at tech and through things i have been involved with on campus, i’ve come to develop a pretty good sense of the problems tech faces (along with the positives). i am also an avid supporter of health initiatives and live an extremely active lifestyle. which means i use the crc weight floors practically every day. and throug
+-- 3 random sampled docs from this topic --
+  [R_GT_73257] west campus looks and smells smoky | Holy shit I thought my roommate just burned a weird candle or something, it's smoky in the 3rd floor of maulding :0
+  [R_GT_97526] Live Yellow Jacket Nest near Weber Entrance Bench. be careful! | &lt;raises hand&gt; I did spend a LONG night in the ER after running over a nest with the mower.   
+
+
+0/10: Would Not Recommend.
+  [R_GT_27351] To every person who goes to the CRC… | I have to agree.  While I work at Tech, I use a commercial gym close to my house.  It's RARE to find weights racked correctly (if at all). 
+
+Part of my "warm up" is now reracking weights that others couldn't be bothered to do for themselves...as is part of my cooldown"
+
+==========================================================================================
+[OVER] topic=14: [mixed] Campus Services & Administration (n=609)  emotion=curiosity  lift=1.53
+-- representative docs --
+  * package delivered to student center while closed i had a package get delivered to the student center post office while they were closed friday. do packages get dropped off somewhere or are they just sitting outside the loading dock. the tracking does not say where exactly it got dropped off, just that it got delivered. and i haven't received an email saying they got received by the post office.
+  * summer post office package pickup protocol if not on campus i got a notification saying i have a package to pick up at the post office in the student center in may. however, by that time, i already moved out and will only be returning to campus in august. when i called them twice to ask them what i can do, the person on the line mentioned something about mail forwarding or having someone pick up t
+-- 3 random sampled docs from this topic --
+  [R_GT_85787] postal services at the student center &amp; winter break | I called them and they said they will hold all packages until the first week after break is over, then they said they'll start to get rid of packages
+  [R_GT_81774] Does GeorgiaTech send acceptance packages through mail? | I was hoping for an NIL deal but all I got was nil.  
+
+Pun intended + NIL deals weren't yet approved then.
+  [R_GT_80654] Alternative Addresses for Shipping | Oh shit, I didn’t know that first part existed. Whenever I went to Buzzport they never mentioned that 351 Ferst Drive NW portion.
+
+==========================================================================================
+[OVER] topic=5: [high] Georgia Tech Football (n=4,341)  emotion=admiration  lift=1.51
+-- representative docs --
+  * college risk online reddit game: conquer other schools! - day 19 here is the latest for college football risk, a 15-seconds a day game of domination and diplomacy between the division i football universities that is run through reddit accounts on [collegefootballrisk.com]( \\\\\ first some important notes join the game, your help is needed! you can help georgia tech grow and take over north americ
+  * college risk reddit game - day 23 - anyone know how to kill a gator? # here is the latest on college football risk, a 15-seconds a day game of domination and diplomacy between the division i football universities that is run through reddit accounts at: # [collegefootballrisk.com]( \\\\ first some important notes join the [georgia tech sports discord (the hive)]( ! this is the main place where we a
+-- 3 random sampled docs from this topic --
+  [R_GT_85235] How do I find GaTech? I am lost... | Germany. I am in Berlin rn, looking for German Institute of Technology aka GIT. Ppl are telling me to stop looking for bees and get a pint of beer
+  [R_GT_45024] Former Head Coach Paul Johnson Tears Into Geoff Collins in Interview: "I Got No Respect For The Guy" | Can you imagine if we had Megatron at the same time as CPJ?  That would have been epic!
+  [R_GT_51659] U[sic]ga is Leaking Talent like a Sieve. They Have Had 19 Players have Declared For The Draft &amp; Its Rumored Ole Kirby is Headed to the NFL 😂🤣😂 | Imagine having such a shallow view of the world
+
+==========================================================================================
+[OVER] topic=8: [high] Campus Photography (n=1,354)  emotion=admiration  lift=1.51
+-- representative docs --
+  * photographers for graduation photos i take grad pics!! i also wanted to keep student-conscious prices in mind (as a student myself), so prices range from $65 for 30 mins and upwards for students depending on the session length. this just covers editing time on my end and resources i need to keep on taking photos :). fall is arriving (slowly but surely) which means golden colors are coming to campu
+  * complete video walkthrough of the new student center most students are off interning or studying abroad in parts unknown. since so many people are away from campus, i recorded a thorough video walkthrough of the new student center. posted from a throwaway because my hair and face are visible at some points in the videos. warning: i'm not a professional videographer. [1st floor]( cypress theater (0
+-- 3 random sampled docs from this topic --
+  [R_GT_63367] Photos from Yellow Jacket Alley at Helluva Block Party | And our alumni donations go to...schmoozing alumni to donate more! /s
+  [R_GT_94462] Technique testing if I’m colorblind!? | This reminds me of The Office meme about Corporate.
+
+They're the same image.
+  [R_GT_43019] Does anyone have photos of old student center? | I miss the greenhouse dining area so much. It had such a calming, subdued atmosphere and was one of my favorite places to eat/study in. I don't know that there are any places quite like that left on campus now.
+
